@@ -31,8 +31,8 @@ class lexicon:
         len1 = max(max_first(alignment1), max_first(alignment2))
         len2 = max(max_second(alignment1), max_second(alignment2))
         
-        alignment = set1.intersection(set2)
-        union = set1.union(set2)
+        alignment = alignment1.intersection(alignment2)
+        union = alignment1.union(alignment2)
         
         def is_aligned1(index_of_first):
             return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len(alignment2)) ])\
@@ -75,7 +75,7 @@ class lexicon:
         for start_of_first, end_of_first in combinations(range(len1), 2):
 
             correspondants = [index_in_second for index_in_first, index_in_second \
-                  in product(range(start_of_first, end_of_first), range(len2))\
+                  in product(range(start_of_first, end_of_first+1), range(len2))\
                   if (index_in_first, index_in_second) in bi_alignment]
 
             try:
