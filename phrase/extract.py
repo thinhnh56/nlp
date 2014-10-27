@@ -3,6 +3,7 @@ from itertools import combinations, product
 
 """ Note: sentence is a list of word """
 """ Note: alignment format: -1 means NULL """
+
 class lexicon:
     PHRASE_SEP = '-->'
     WORD_SEP = ' '
@@ -19,31 +20,47 @@ class lexicon:
         (i, j) in the list means the i'th word of sentence1 is aligned to
         j'th word of sentence2 """
 
-        set1 = set([(index, align) for index, align in enumerate(alignment1) if align >= 0])
-        set2 = set([(align, index) for index, align in enumerate(alignment2) if align >= 0])
+        # set1 = set([(index, align) for index, align in enumerate(alignment1) if align >= 0])
+        # set2 = set([(align, index) for index, align in enumerate(alignment2) if align >= 0])
 
+        def max_first(alignment):
+            return max([first for first,second in alignment])
+        def max_second(alignment):
+            return max([second for first,second in alignment])
+        
+        len1 = max(max_first(alignment1), max_first(alignment2))
+        len2 = max(max_second(alignment1), max_second(alignment2))
+        
         alignment = set1.intersection(set2)
         union = set1.union(set2)
         
         def is_aligned1(index_of_first):
             return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len(alignment2)) ])\
-                and index_of_first in range(len(alignment1))
+                and index_of_first in range(len1)
         
         def is_aligned2(index_of_second):
             return any([ (index_of_first, index_of_second) in alignment for index_of_first in range(len(alignment1)) ])\
-                and index_of_second in range(len(alignment2))
+                and index_of_second in range(len2)
 
         neighboring = ((-1,0), (0, -1), (1,0), (0,1), (-1,-1), (-1,1), (1,-1), (1,1))
         
-        while True:
+        while True:            
             new_point_added = False
             for index1, index2 in alignment:
-                for new1, new2 in [index1 + x, index2 + y for x, y neighboring]:
+                for new1, new2 in [index1 + x, index2 + y for x, y in neighboring]:
                     if (not is_aligned1(new1) or not is_aligned2(new2))\
                             and (new1, new2) in union:
+                        new_point_added = True
                         alignment.add( (new1, new2) )
-                    
-        pass
+            if not new_point_added:
+                break
+
+        for index_of_first, index_of_second in product(range(len1), range(len2)):
+            if (not is_aligned1(index_of_first) or not is_aligned2(index_of_second))\
+                    and (index_of_first, index_of_second) in union:
+                alignment.add((index_of_first, index_of_second))
+
+        return alignment
 
     def train(self, sentence1, sentence2, alignment1, alignment2):
         """ Train by parsing the alignment
