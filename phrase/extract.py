@@ -2,7 +2,7 @@ import anydbm
 from itertools import combinations, product
 
 """ Note: sentence is a list of word """
-
+""" Note: alignment format: -1 means NULL """
 class lexicon:
     PHRASE_SEP = '-->'
     WORD_SEP = ' '
@@ -15,16 +15,40 @@ class lexicon:
         self.phrase_db = anydbm.open(PHRASE_DB, 'w')
 
     def build_bi_alignment(self, aligment1, aligment2):
-        """ Return the aligment matrix built
-        A[i, j] mean the i'th word of sentence1 is aligned to
+        """ Return the list aligned pair.
+        (i, j) in the list means the i'th word of sentence1 is aligned to
         j'th word of sentence2 """
+
+        set1 = set([(index, align) for index, align in enumerate(alignment1) if align >= 0])
+        set2 = set([(align, index) for index, align in enumerate(alignment2) if align >= 0])
+
+        alignment = set1.intersection(set2)
+        union = set1.union(set2)
         
+        def is_aligned1(index_of_first):
+            return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len(alignment2)) ])\
+                and index_of_first in range(len(alignment1))
+        
+        def is_aligned2(index_of_second):
+            return any([ (index_of_first, index_of_second) in alignment for index_of_first in range(len(alignment1)) ])\
+                and index_of_second in range(len(alignment2))
+
+        neighboring = ((-1,0), (0, -1), (1,0), (0,1), (-1,-1), (-1,1), (1,-1), (1,1))
+        
+        while True:
+            new_point_added = False
+            for index1, index2 in alignment:
+                for new1, new2 in [index1 + x, index2 + y for x, y neighboring]:
+                    if (not is_aligned1(new1) or not is_aligned2(new2))\
+                            and (new1, new2) in union:
+                        alignment.add( (new1, new2) )
+                    
         pass
 
     def train(self, sentence1, sentence2, alignment1, alignment2):
-        """ Train by parsing sentences
+        """ Train by parsing the alignment
         Return nothing,
-        just modify the internal state of the lexicon """
+        just modify target_db and phrase_db """
 
         len1 = len(sentence1)
         len2 = len(sentence2)
@@ -92,4 +116,5 @@ class lexicon:
             target, foreign = phrase.split(PHRASE_SEP)
             target_cnt = target_db[target]
 
-            print format(target, foreign, float(phrase_cnt) / target_cnt)
+            print format(target, foreign, float(phrase_cnt) / float(target_cnt))
+            
