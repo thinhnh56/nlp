@@ -12,13 +12,13 @@ def add_one(key, db):
     if not db.has_key(key):
         db[key] = "1"
     else:
-        db[key] += str(int(db[key]) + 1)
+        db[key] = str(int(db[key]) + 1)
     
 
 class lexicon:
     def __init__(self):
-        # self.target_db = anydbm.open(TARGET_DB, 'c')
-        # self.phrase_db = anydbm.open(PHRASE_DB, 'c')
+        #self.target_db = anydbm.open(TARGET_DB, 'c')
+        #self.phrase_db = anydbm.open(PHRASE_DB, 'c')
 
         self.target_db = dict()
         self.phrase_db = dict()
@@ -66,7 +66,7 @@ class lexicon:
             #     break
             new_point_added = False
             for index1, index2 in difference:
-                if ( (index1, index2) in alignment ):
+                if  (index1, index2) in alignment:#is_aligned1(index1) and is_aligned2(index2):
                     continue
                 
                 for old1, old2 in [(index1 +x, index2 +y) for x, y in neighboring]:
@@ -133,11 +133,11 @@ class lexicon:
                 phrase = target + PHRASE_SEP + foreign
                 
                 
-                # print target
-                # print phrase
-                # print
-                add_one(target, self.target_db)
-                add_one(phrase, self.phrase_db)
+                print target
+                print phrase
+                print
+                #add_one(target, self.target_db)
+                #add_one(phrase, self.phrase_db)
                                 
     def trainv2(self, sentence1, sentence2, alignment1, alignment2):
         len1 = len(sentence1)
