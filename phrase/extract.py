@@ -39,10 +39,13 @@ class lexicon:
         # len1 = max(max_first(alignment1), max_first(alignment2))
         # len2 = max(max_second(alignment1), max_second(alignment2))
         len1 = len(sentence1)
+        #print len1
         len2 = len(sentence2)
+        #print len2
         alignment = alignment1.intersection(alignment2)
         union = alignment1.union(alignment2)
-        
+        #print alignment
+        #print union
         def is_aligned1(index_of_first):
             return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len(alignment2)) ])\
                 and index_of_first in range(len1)
@@ -54,6 +57,7 @@ class lexicon:
         neighboring = ((-1,0), (0, -1), (1,0), (0,1), (-1,-1), (-1,1), (1,-1), (1,1))
 
         difference = union.difference(alignment)
+        #print difference
         while True:            
             # new_point _added = False
             # for index1, index2 in alignment:
@@ -66,7 +70,7 @@ class lexicon:
             #     break
             new_point_added = False
             for index1, index2 in difference:
-                if  (index1, index2) in alignment:#is_aligned1(index1) and is_aligned2(index2):
+                if  ((index1, index2) in alignment) or (is_aligned1(index1) and is_aligned2(index2)):
                     continue
                 
                 for old1, old2 in [(index1 +x, index2 +y) for x, y in neighboring]:
@@ -74,7 +78,7 @@ class lexicon:
                         new_point_added = True
                         alignment.add( (index1, index2) )
                         break
-                        
+                print alignment        
             if not new_point_added:
                 break
 
