@@ -1,0 +1,2046 @@
+# Sentence pair (1) source length 2 target length 2 alignment score : 0.014234
+Fine . 
+NULL ({ }) Được ({ 1 }) . ({ 2 }) 
+# Sentence pair (2) source length 3 target length 2 alignment score : 0.0571859
+Thanks . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) . ({ 2 }) 
+# Sentence pair (3) source length 12 target length 9 alignment score : 2.37285e-06
+See you on Sunday at 6 : 30 . 
+NULL ({ }) Hẹn ({ 1 }) gặp ({ }) lại ({ }) anh ({ 2 }) vào ({ }) chủ ({ 3 }) nhật ({ 4 }) lúc ({ 5 }) 6 ({ 6 }) giờ ({ 7 }) 30 ({ 8 }) . ({ 9 }) 
+# Sentence pair (4) source length 13 target length 11 alignment score : 1.14246e-14
+Would you like to join us for dinner this Saturday ? 
+NULL ({ 2 }) Bạn ({ 1 }) đến ({ }) ăn ({ }) tối ({ 3 }) với ({ 4 5 }) chúng ({ 6 7 }) tôi ({ }) vào ({ }) thứ ({ }) 7 ({ 8 }) này ({ 9 }) nhé ({ 10 }) ? ({ 11 }) 
+# Sentence pair (5) source length 12 target length 13 alignment score : 2.03616e-10
+I &apos;d love to , but I &apos;m afraid I can &apos;t . 
+NULL ({ }) Tôi ({ 1 }) rất ({ 2 3 }) muốn ({ 4 }) , ({ 5 }) nhưng ({ 6 }) tôi ({ 7 }) e ({ 8 }) rằng ({ 9 }) tôi ({ 10 }) không ({ }) thể ({ 11 12 }) . ({ 13 }) 
+# Sentence pair (6) source length 14 target length 11 alignment score : 1.11061e-16
+I have an appointment Saturday evening at 7 : 30 .. 
+NULL ({ }) Tôi ({ 1 }) có ({ 2 }) một ({ }) cuộc ({ 3 }) hẹn ({ 4 }) vào ({ 5 }) tối ({ 6 }) thứ ({ }) 7 ({ 11 }) lúc ({ 7 }) 7 ({ 8 }) giờ ({ 9 }) 30 ({ 10 }) . ({ }) 
+# Sentence pair (7) source length 4 target length 5 alignment score : 2.24736e-05
+That &apos;s too bad . 
+NULL ({ }) Thật ({ 1 }) là ({ 2 }) tiếc ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (8) source length 10 target length 9 alignment score : 1.06977e-09
+Can &apos;t you change it to next week ? 
+NULL ({ 3 }) Bạn ({ 1 }) không ({ }) thể ({ 2 }) đổi ({ 4 }) nó ({ 5 }) sang ({ 6 }) tuần ({ 7 8 }) tới ({ }) à ({ }) ? ({ 9 }) 
+# Sentence pair (9) source length 7 target length 6 alignment score : 1.89848e-05
+Sorry , I can &apos;t . 
+NULL ({ }) Xin ({ 1 }) lỗi ({ }) , ({ 2 }) tôi ({ 3 }) không ({ }) thể ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (10) source length 7 target length 6 alignment score : 7.16439e-07
+Thank you just the same . 
+NULL ({ 4 }) Cảm ({ 1 }) ơn ({ 2 }) lời ({ 3 }) mời ({ 5 }) của ({ }) bạn ({ }) . ({ 6 }) 
+# Sentence pair (11) source length 17 target length 12 alignment score : 3.59492e-13
+Ok , I hope we can get together some other time . 
+NULL ({ }) Được ({ 1 }) rồi ({ }) , ({ 2 }) tôi ({ 3 }) hi ({ 4 }) vọng ({ }) chúng ({ }) ta ({ 5 }) có ({ }) thể ({ 6 }) gặp ({ 7 }) nhau ({ 8 }) vào ({ }) một ({ }) lần ({ 9 }) khác ({ 10 11 }) . ({ 12 }) 
+# Sentence pair (12) source length 7 target length 6 alignment score : 6.09768e-06
+I hope so , too . 
+NULL ({ }) Tôi ({ 1 }) cũng ({ }) hi ({ 2 }) vọng ({ 3 }) như ({ 4 }) vậy ({ 5 }) . ({ 6 }) 
+# Sentence pair (13) source length 11 target length 7 alignment score : 9.96176e-12
+Why are you looking so worried ? 
+NULL ({ 3 }) Tại ({ 1 }) sao ({ }) trông ({ 2 4 5 }) bạn ({ }) có ({ }) về ({ }) lo ({ }) lắng ({ }) quá ({ 6 }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (14) source length 7 target length 5 alignment score : 0.000139156
+Is there anything wrong ? 
+NULL ({ }) Có ({ 1 }) điều ({ 2 }) gì ({ }) không ({ }) ổn ({ 3 }) à ({ 4 }) ? ({ 5 }) 
+# Sentence pair (15) source length 16 target length 12 alignment score : 6.66399e-11
+Well , I lost my wallet in the cinema last night . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) đã ({ }) mất ({ 4 }) cái ({ 5 }) ví ({ 6 }) ở ({ }) rạp ({ 7 }) chiếu ({ 8 }) phim ({ 9 }) vào ({ }) tối ({ }) hôm ({ 10 }) qua ({ 11 }) . ({ 12 }) 
+# Sentence pair (16) source length 9 target length 13 alignment score : 3.35818e-17
+Why don &apos;t you go to the police station and report it ? 
+NULL ({ 4 12 }) Tại ({ 1 }) sao ({ 2 }) bạn ({ }) không ({ 3 }) báo ({ 5 }) với ({ 6 }) cảnh ({ 7 8 }) sát ({ 9 10 11 }) ? ({ 13 }) 
+# Sentence pair (17) source length 11 target length 13 alignment score : 2.07412e-16
+I &apos;ve already done that , but there &apos;s no reply yet . 
+NULL ({ 6 9 }) Tôi ({ 1 }) đã ({ 2 }) làm ({ 3 4 }) như ({ 5 }) nhưng ({ 7 }) vẫn ({ 8 10 }) chưa ({ 11 }) có ({ }) trả ({ 12 }) lời ({ }) . ({ 13 }) 
+# Sentence pair (18) source length 14 target length 10 alignment score : 5.0276e-09
+Are you sure you lost it in the cinema ? 
+NULL ({ }) Bạn ({ 1 }) có ({ 2 }) chắc ({ 3 }) là ({ }) đã ({ }) làm ({ 4 }) mất ({ 5 }) nó ({ 6 }) trong ({ 7 }) rạp ({ }) chiếu ({ 8 }) phim ({ 9 }) không ({ }) ? ({ 10 }) 
+# Sentence pair (19) source length 3 target length 2 alignment score : 0.0580055
+Yes . 
+NULL ({ }) Có ({ }) chứ ({ 1 }) . ({ 2 }) 
+# Sentence pair (20) source length 17 target length 15 alignment score : 4.78869e-14
+I had it when I bought the tickets , but not after the film . 
+NULL ({ 7 }) Tôi ({ 1 }) còn ({ 2 }) giữ ({ }) nó ({ 3 }) khi ({ 4 }) tôi ({ 5 }) mua ({ 6 }) vé ({ 8 }) , ({ 9 }) nhưng ({ 10 }) không ({ 11 }) còn ({ 12 }) sau ({ 13 }) khi ({ }) hết ({ 14 }) phim ({ }) . ({ 15 }) 
+# Sentence pair (21) source length 22 target length 20 alignment score : 3.9199e-29
+I think you should go and ask about it at the Lost Property Office in the cinema , then . 
+NULL ({ 9 11 18 }) Tôi ({ 1 }) nghĩ ({ 2 }) sau ({ }) đó ({ }) bạn ({ 3 }) nên ({ 4 }) đến ({ }) hỏi ({ 5 }) tại ({ }) phòng ({ }) thu ({ }) nhận ({ }) tài ({ }) sản ({ 6 }) bị ({ }) thất ({ 7 12 13 }) lạc ({ 8 }) ở ({ 10 }) rạp ({ 14 15 }) chiếu ({ 16 }) phim ({ 17 19 }) . ({ 20 }) 
+# Sentence pair (22) source length 7 target length 7 alignment score : 1.0221e-07
+I &apos;ve done that , too . 
+NULL ({ 5 }) Tôi ({ 1 }) cũng ({ }) đã ({ 2 }) làm ({ 3 }) như ({ 4 }) vậy ({ 6 }) . ({ 7 }) 
+# Sentence pair (23) source length 10 target length 8 alignment score : 8.45653e-11
+But no wallet &apos;s been returned there . 
+NULL ({ 4 }) Nhưng ({ 1 }) ở ({ }) đó ({ }) vẫn ({ 2 }) không ({ }) tìm ({ 3 5 }) thấy ({ 6 }) cái ({ 7 }) ví ({ }) . ({ 8 }) 
+# Sentence pair (24) source length 11 target length 10 alignment score : 6.85455e-16
+Did you go to the cinema alone last night ? 
+NULL ({ 4 5 }) Tối ({ 1 }) hôm ({ 8 }) qua ({ 9 }) bạn ({ 2 }) đi ({ 3 }) xem ({ }) phim ({ 6 }) một ({ }) mình ({ 7 }) à ({ }) ? ({ 10 }) 
+# Sentence pair (25) source length 7 target length 8 alignment score : 3.49737e-08
+No , I went there with Tom . 
+NULL ({ 2 }) Không ({ 1 }) tôi ({ 3 }) đến ({ 4 }) đó ({ 5 }) với ({ 6 }) Tom ({ 7 }) . ({ 8 }) 
+# Sentence pair (26) source length 8 target length 8 alignment score : 1.28352e-08
+I suggest you make a call to . 
+NULL ({ 5 }) Tôi ({ 1 }) khuyên ({ 2 }) bạn ({ 3 }) nên ({ 4 }) hỏi ({ 6 }) anh ({ }) ấy ({ 7 }) . ({ 8 }) 
+# Sentence pair (27) source length 9 target length 6 alignment score : 6.01461e-05
+Perhaps he can help you . 
+NULL ({ }) Có ({ }) lẽ ({ 1 }) anh ({ }) ấy ({ 2 }) có ({ }) thể ({ 3 }) giúp ({ 4 }) bạn ({ 5 }) . ({ 6 }) 
+# Sentence pair (28) source length 8 target length 7 alignment score : 2.42959e-06
+OK , I &apos;ll do that . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) sẽ ({ 4 }) làm ({ 5 }) điều ({ 6 }) đó ({ }) . ({ 7 }) 
+# Sentence pair (29) source length 8 target length 5 alignment score : 6.09493e-05
+Thanks for your advice . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) về ({ 2 }) lời ({ 3 }) khuyên ({ 4 }) của ({ }) bạn ({ }) . ({ 5 }) 
+# Sentence pair (30) source length 25 target length 20 alignment score : 4.9888e-20
+I read an ad for typists in the paper the other day and I &apos;m very interested in it . 
+NULL ({ }) Tôi ({ 1 }) đã ({ }) đọc ({ 2 }) một ({ }) mục ({ 3 }) quảng ({ }) cáo ({ 4 }) về ({ 5 }) nghề ({ 6 }) thư ({ }) ký ({ }) đánh ({ 7 }) máy ({ 8 }) trên ({ }) tờ ({ 9 }) báo ({ 10 }) nọ ({ 11 12 }) và ({ 13 }) tôi ({ 14 }) rất ({ 15 16 }) thích ({ 17 }) làm ({ }) việc ({ 18 }) đó ({ 19 }) . ({ 20 }) 
+# Sentence pair (31) source length 9 target length 9 alignment score : 1.4393e-11
+Then why don &apos;t you apply for it ? 
+NULL ({ 5 8 }) Thế ({ 1 }) tại ({ 2 }) sao ({ 3 }) bạn ({ }) không ({ 4 }) nộp ({ 6 }) đơn ({ }) xin ({ 7 }) ? ({ 9 }) 
+# Sentence pair (32) source length 17 target length 14 alignment score : 3.44558e-16
+I wrote a letter two days ago and I &apos;ve got a reply . 
+NULL ({ 3 12 }) Tôi ({ 1 }) đã ({ }) viết ({ 2 }) thư ({ 4 }) cách ({ }) đây ({ }) hai ({ 5 }) ngày ({ 6 7 }) và ({ 8 }) tôi ({ 9 }) đã ({ 10 }) nhận ({ }) được ({ }) thư ({ }) phúc ({ 11 }) đáp ({ 13 }) . ({ 14 }) 
+# Sentence pair (33) source length 18 target length 19 alignment score : 5.38382e-16
+The manager has asked me to go for an interview , but I feel very nervous about it . 
+NULL ({ }) Giám ({ 1 }) đốc ({ 2 }) yêu ({ 3 }) cầu ({ 4 }) tôi ({ 5 }) đến ({ 6 }) phỏng ({ 7 8 9 }) vấn ({ 10 }) , ({ 11 }) nhưng ({ 12 }) tôi ({ 13 }) cảm ({ }) thấy ({ 14 }) căng ({ 15 }) thẳng ({ 16 }) về ({ 17 }) nó ({ 18 }) . ({ 19 }) 
+# Sentence pair (34) source length 5 target length 5 alignment score : 2.54646e-10
+What should I do ? 
+NULL ({ }) Tôi ({ 3 }) nên ({ 2 }) làm ({ 4 }) gì ({ 1 }) ? ({ 5 }) 
+# Sentence pair (35) source length 13 target length 12 alignment score : 6.46354e-10
+If I were you , I would feel calm and confident . 
+NULL ({ }) Nếu ({ 1 }) tôi ({ 2 }) là ({ 3 }) bạn ({ 4 }) , ({ 5 }) tôi ({ 6 }) sẽ ({ }) bình ({ 7 }) tĩnh ({ 8 9 }) và ({ 10 }) tự ({ 11 }) tin ({ }) . ({ 12 }) 
+# Sentence pair (36) source length 15 target length 14 alignment score : 4.4821e-18
+You &apos;ve got the qualifications and about three years experience as a typist . 
+NULL ({ 4 }) Bạn ({ 1 }) có ({ }) trình ({ 2 3 5 }) độ ({ }) và ({ 6 }) 3 ({ 7 8 }) năm ({ 9 }) kinh ({ 10 }) nghiệm ({ 11 }) làm ({ }) thư ({ }) ký ({ 12 }) đánh ({ 13 }) máy ({ }) . ({ 14 }) 
+# Sentence pair (37) source length 10 target length 7 alignment score : 7.21502e-14
+There is no reason to worry . 
+NULL ({ }) Không ({ }) có ({ }) lý ({ }) do ({ 4 }) gì ({ }) phải ({ 5 }) lo ({ 6 }) lắng ({ 1 2 3 }) cả ({ }) . ({ 7 }) 
+# Sentence pair (38) source length 9 target length 11 alignment score : 6.47991e-11
+But I &apos;m afraid that I won &apos;t be accepted . 
+NULL ({ }) Nhưng ({ 1 }) tôi ({ 2 }) sợ ({ 3 }) rằng ({ 4 }) mình ({ 5 6 }) không ({ 7 8 }) được ({ 9 }) nhận ({ 10 }) . ({ 11 }) 
+# Sentence pair (39) source length 13 target length 14 alignment score : 2.35728e-14
+It &apos;s not the time to think too much about the result yet . 
+NULL ({ 2 }) Không ({ 1 }) nên ({ }) mất ({ 3 }) thời ({ 4 }) gian ({ 5 }) để ({ 6 }) nghĩ ({ 7 }) quá ({ 8 }) nhiều ({ 9 }) đến ({ }) kết ({ 10 11 }) quả ({ 12 13 }) . ({ 14 }) 
+# Sentence pair (40) source length 14 target length 15 alignment score : 4.41902e-18
+At the moment , you &apos;d better just make full preparations for the interview . 
+NULL ({ 2 }) Lúc ({ 1 3 }) này ({ }) , ({ 4 }) bạn ({ 5 }) nên ({ 6 }) chuẩn ({ 7 }) bị ({ }) đầy ({ 8 9 }) đủ ({ 10 11 }) cho ({ 12 }) cuộc ({ 13 }) phỏng ({ }) vấn ({ 14 }) . ({ 15 }) 
+# Sentence pair (41) source length 3 target length 2 alignment score : 0.0139035
+OK . 
+NULL ({ }) Được ({ }) rồi ({ 1 }) . ({ 2 }) 
+# Sentence pair (42) source length 11 target length 9 alignment score : 1.27905e-10
+I &apos;ll go home and prepare for it . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) về ({ 3 }) nhà ({ 4 }) chuẩn ({ 5 6 }) bị ({ }) cho ({ }) cuộc ({ }) phỏng ({ 7 }) vấn ({ 8 }) . ({ 9 }) 
+# Sentence pair (43) source length 8 target length 5 alignment score : 6.09493e-05
+Thanks for your advice . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) về ({ 2 }) lời ({ 3 }) khuyên ({ 4 }) của ({ }) bạn ({ }) . ({ 5 }) 
+# Sentence pair (44) source length 3 target length 2 alignment score : 0.059536
+Bye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (45) source length 7 target length 5 alignment score : 0.000393243
+Bye and good luck . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) , ({ }) chúc ({ 2 }) may ({ 3 }) mắn ({ 4 }) . ({ 5 }) 
+# Sentence pair (46) source length 8 target length 7 alignment score : 1.03321e-09
+Lovely day , isn &apos;t it ? 
+NULL ({ 6 }) Một ({ 1 }) ngày ({ 2 }) thật ({ }) đẹp ({ 3 }) trời ({ 4 }) phải ({ }) không ({ 5 }) ! ({ 7 }) 
+# Sentence pair (47) source length 3 target length 4 alignment score : 0.000131121
+It certainly is ! 
+NULL ({ }) Dĩ ({ 1 }) nhiên ({ 2 3 }) ! ({ 4 }) 
+# Sentence pair (48) source length 12 target length 11 alignment score : 2.01892e-08
+Sunny and warm , just like the spring in Shanghai . 
+NULL ({ 4 }) Trời ({ 1 }) nắng ({ }) và ({ 2 }) ấm ({ 3 }) giống ({ 5 }) như ({ 6 }) mùa ({ 7 }) xuân ({ 8 }) ở ({ }) Thượng ({ 9 }) Hải ({ 10 }) . ({ 11 }) 
+# Sentence pair (49) source length 12 target length 11 alignment score : 5.36374e-09
+But I hear it is always foggy there in spring . 
+NULL ({ }) Nhưng ({ 1 }) tôi ({ 2 }) nghe ({ 3 }) rằng ({ 4 }) luôn ({ 5 6 }) có ({ }) sương ({ 7 }) mù ({ 8 }) vào ({ 9 }) mùa ({ }) xuân ({ 10 }) . ({ 11 }) 
+# Sentence pair (50) source length 12 target length 9 alignment score : 9.47428e-09
+It is foggy sometimes , but not always . 
+NULL ({ 5 }) Thỉnh ({ 1 }) thoảng ({ }) thì ({ 2 }) có ({ }) sương ({ 3 }) mù ({ 4 }) nhưng ({ 6 }) không ({ }) phải ({ }) luôn ({ 7 }) luôn ({ 8 }) . ({ 9 }) 
+# Sentence pair (51) source length 7 target length 6 alignment score : 6.25415e-06
+And it &apos;s usually warm . 
+NULL ({ 3 }) Và ({ 1 }) ở ({ }) đó ({ 2 }) thường ({ 4 }) ấm ({ 5 }) áp ({ }) . ({ 6 }) 
+# Sentence pair (52) source length 9 target length 6 alignment score : 1.51669e-08
+Do you have hot weather ? 
+NULL ({ 2 }) Vào ({ 1 }) mùa ({ }) hè ({ 3 }) thời ({ }) tiết ({ }) có ({ }) nóng ({ 4 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (53) source length 11 target length 10 alignment score : 8.87029e-13
+Yes , the temperature may rise to 39 ° C. 
+NULL ({ 7 }) Có ({ 1 }) , ({ 2 }) nhiệt ({ 3 }) độ ({ 4 }) có ({ }) thể ({ }) lên ({ }) đến ({ }) 39 ({ 5 6 8 }) ° ({ 9 }) C. ({ 10 }) 
+# Sentence pair (54) source length 13 target length 10 alignment score : 6.35961e-15
+What &apos;s the weather like in Shanghai in autumn ? 
+NULL ({ 2 }) Vào ({ 1 }) mùa ({ 3 }) thu ({ }) , ({ }) thời ({ }) tiết ({ 4 5 }) ở ({ }) Thượng ({ 6 }) Hải ({ 7 8 }) như ({ 9 }) thế ({ }) nào ({ }) ? ({ 10 }) 
+# Sentence pair (55) source length 6 target length 7 alignment score : 2.43169e-05
+It &apos;s always warm and dry . 
+NULL ({ 2 }) Nó ({ 1 }) luôn ({ 3 }) ấm ({ 4 }) và ({ 5 }) khô ({ 6 }) . ({ 7 }) 
+# Sentence pair (56) source length 4 target length 5 alignment score : 5.7017e-05
+How about the winter ? 
+NULL ({ }) Còn ({ 1 2 }) mùa ({ 3 }) đông ({ 4 }) ? ({ 5 }) 
+# Sentence pair (57) source length 6 target length 7 alignment score : 7.6827e-07
+It &apos;s often cold and windy . 
+NULL ({ 2 }) Thường ({ 1 3 }) lạnh ({ 4 }) và ({ 5 }) có ({ }) gió ({ 6 }) . ({ 7 }) 
+# Sentence pair (58) source length 7 target length 6 alignment score : 4.65482e-06
+It rains or snows sometimes . 
+NULL ({ }) Thỉnh ({ 1 }) thoảng ({ 2 3 }) có ({ }) mưa ({ }) và ({ }) tuyết ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (59) source length 11 target length 10 alignment score : 1.4338e-10
+We &apos;re planning to go for a picnic tomorrow . 
+NULL ({ 4 }) Chúng ({ 1 }) tôi ({ }) dự ({ 2 }) định ({ 3 }) đi ({ 5 }) dã ({ 6 }) ngoại ({ 7 8 }) vào ({ }) ngày ({ }) mai ({ 9 }) . ({ 10 }) 
+# Sentence pair (60) source length 10 target length 5 alignment score : 4.03665e-06
+Why not join us ? 
+NULL ({ }) Tại ({ 1 }) sao ({ 2 }) bạn ({ }) không ({ }) tham ({ }) gia ({ }) với ({ 3 }) chúng ({ 4 }) tôi ({ }) ? ({ 5 }) 
+# Sentence pair (61) source length 17 target length 18 alignment score : 4.01618e-29
+I &apos;d love to , but the weather forecast says it ’ s going to rain tomorrow . 
+NULL ({ 11 }) Tôi ({ 1 }) rất ({ 2 3 }) thích ({ 4 }) , ({ 5 }) nhưng ({ 6 }) dự ({ 9 10 12 }) báo ({ 7 }) thời ({ }) tiết ({ 8 }) báo ({ 13 }) rằng ({ }) ngày ({ }) mai ({ }) trời ({ }) sẽ ({ }) mưa ({ 14 15 16 17 }) . ({ 18 }) 
+# Sentence pair (62) source length 9 target length 7 alignment score : 1.114e-07
+I don &apos;t think it will . 
+NULL ({ }) Tôi ({ 1 }) không ({ 2 3 }) nghĩ ({ 4 }) điều ({ }) đó ({ 5 }) sẽ ({ 6 }) xảy ({ }) ra ({ }) . ({ 7 }) 
+# Sentence pair (63) source length 13 target length 15 alignment score : 2.51907e-22
+It hasn &apos;t rained for a week and it isn &apos;t cloudy , either . 
+NULL ({ 9 13 }) Trong ({ 1 2 3 4 }) một ({ 5 6 }) tuần ({ 7 }) trời ({ }) đã ({ }) không ({ }) mưa ({ }) và ({ 8 }) cũng ({ 10 }) không ({ 11 }) có ({ }) mây ({ 12 14 }) . ({ 15 }) 
+# Sentence pair (64) source length 7 target length 7 alignment score : 9.04215e-08
+But the forecast is usually correct . 
+NULL ({ 2 }) Nhưng ({ 1 }) dự ({ 3 }) báo ({ }) thì ({ 4 }) thường ({ 5 }) đúng ({ 6 }) . ({ 7 }) 
+# Sentence pair (65) source length 9 target length 8 alignment score : 1.04637e-08
+The temperature is 24 ° C today . 
+NULL ({ }) Nhiệt ({ 1 }) độ ({ 2 }) ngày ({ }) hôm ({ }) nay ({ }) là ({ 3 }) 24 ({ 4 }) ° ({ 5 6 }) C. ({ 7 8 }) 
+# Sentence pair (66) source length 9 target length 10 alignment score : 5.50438e-16
+I &apos;m sure we &apos;ll have fine weather tomorrow . 
+NULL ({ }) Tôi ({ 1 }) tin ({ 4 5 6 7 }) chắc ({ 2 3 }) rằng ({ 8 }) ngày ({ }) mai ({ 9 }) trời ({ }) đẹp ({ }) . ({ 10 }) 
+# Sentence pair (67) source length 13 target length 7 alignment score : 8.55961e-09
+Well , I hope we will . 
+NULL ({ }) Được ({ 1 }) rồi ({ }) , ({ 2 }) tôi ({ 3 }) hi ({ 4 }) vọng ({ }) trời ({ 5 }) sẽ ({ 6 }) đẹp ({ }) vào ({ }) ngày ({ }) mai ({ }) . ({ 7 }) 
+# Sentence pair (68) source length 7 target length 7 alignment score : 1.36377e-06
+But I &apos;ll take an umbrella . 
+NULL ({ }) Nhưng ({ 1 }) tôi ({ 2 }) sẽ ({ 3 }) mang ({ }) theo ({ 4 }) dù ({ 5 6 }) . ({ 7 }) 
+# Sentence pair (69) source length 7 target length 7 alignment score : 6.50774e-14
+What &apos;s the matter with you ? 
+NULL ({ 2 6 }) Cô ({ }) có ({ 1 }) vấn ({ 3 4 }) đề ({ 5 }) gì ({ }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (70) source length 9 target length 8 alignment score : 5.99859e-07
+I think I &apos;ve got the flu . 
+NULL ({ }) Tôi ({ 1 }) nghĩ ({ 2 }) rằng ({ }) tôi ({ 3 }) bị ({ 4 5 }) bệnh ({ }) cảm ({ 6 }) cúm ({ 7 }) . ({ 8 }) 
+# Sentence pair (71) source length 8 target length 7 alignment score : 4.0518e-14
+How long have you been sick ? 
+NULL ({ 4 }) Cô ({ 1 }) bị ({ }) bệnh ({ 5 }) đã ({ 3 }) bao ({ }) lâu ({ 2 }) rồi ({ 6 }) ? ({ 7 }) 
+# Sentence pair (72) source length 5 target length 3 alignment score : 0.00690064
+Since yesterday . 
+NULL ({ }) Từ ({ 1 }) ngày ({ }) hôm ({ 2 }) qua ({ }) . ({ 3 }) 
+# Sentence pair (73) source length 6 target length 6 alignment score : 1.62287e-05
+Have you got a cough ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) bị ({ 3 }) ho ({ 4 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (74) source length 2 target length 2 alignment score : 0.0657578
+Yes . 
+NULL ({ }) Có ({ 1 }) . ({ 2 }) 
+# Sentence pair (75) source length 7 target length 6 alignment score : 1.78076e-07
+And is your throat sore ? 
+NULL ({ }) Cổ ({ 1 }) họng ({ 2 3 4 }) có ({ }) bị ({ }) đau ({ 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (76) source length 2 target length 2 alignment score : 0.0657578
+Yes . 
+NULL ({ }) Có ({ 1 }) . ({ 2 }) 
+# Sentence pair (77) source length 4 target length 8 alignment score : 1.13659e-11
+Let me have a look at it . 
+NULL ({ 7 }) Để ({ 1 }) tôi ({ 2 }) xem ({ 3 4 5 6 }) . ({ 8 }) 
+# Sentence pair (78) source length 6 target length 3 alignment score : 0.000570754
+Say ah . 
+NULL ({ }) Hãy ({ 1 }) nói ({ }) &quot; ({ }) ah ({ 2 }) &quot; ({ }) . ({ 3 }) 
+# Sentence pair (79) source length 1 target length 1 alignment score : 0.506655
+A-a-a-h 
+NULL ({ }) A-a-a-h ({ 1 }) 
+# Sentence pair (80) source length 6 target length 6 alignment score : 9.72791e-06
+Have you got a fever ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) bị ({ 3 }) sốt ({ 4 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (81) source length 10 target length 15 alignment score : 4.92865e-22
+I &apos;m not sure , but I &apos;ve got a bit of a headache . 
+NULL ({ 5 }) Tôi ({ 1 }) không ({ 3 }) chắc ({ 4 }) nhưng ({ 6 }) tôi ({ 7 }) hơi ({ 2 11 }) bị ({ 8 9 }) nhức ({ 10 12 13 14 }) đầu ({ }) . ({ 15 }) 
+# Sentence pair (82) source length 9 target length 6 alignment score : 1.77279e-05
+Let me check your temperature . 
+NULL ({ }) Để ({ 1 }) tôi ({ 2 }) kiểm ({ 3 }) tra ({ 4 }) nhiệt ({ }) độ ({ 5 }) của ({ }) cô ({ }) . ({ 6 }) 
+# Sentence pair (83) source length 7 target length 5 alignment score : 1.04557e-06
+Is your nose blocked ? 
+NULL ({ }) Cô ({ }) có ({ }) bị ({ }) nghẹt ({ 1 2 3 }) mũi ({ 4 }) không ({ }) ? ({ 5 }) 
+# Sentence pair (84) source length 2 target length 2 alignment score : 0.0657578
+Yes . 
+NULL ({ }) Có ({ 1 }) . ({ 2 }) 
+# Sentence pair (85) source length 10 target length 11 alignment score : 2.43501e-08
+Well , I think it &apos;s just a bad cold . 
+NULL ({ }) À ({ 1 }) , ({ 2 }) tôi ({ 3 }) nghĩ ({ 4 }) đó ({ 5 }) là ({ 6 }) bệnh ({ 7 8 }) cảm ({ 9 }) lạnh ({ 10 }) . ({ 11 }) 
+# Sentence pair (86) source length 6 target length 5 alignment score : 2.70833e-05
+Get this prescription filled . 
+NULL ({ }) Hăy ({ 1 }) cầm ({ 2 3 }) đơn ({ }) thuốc ({ 4 }) này ({ }) . ({ 5 }) 
+# Sentence pair (87) source length 22 target length 26 alignment score : 2.83462e-52
+Take a few days off work , drink lots of liquid and stay in bed for a day or two to get plenty of rest . 
+NULL ({ 2 21 }) Không ({ 1 }) làm ({ }) việc ({ 6 }) trong ({ 14 }) một ({ }) vài ({ }) ngày ({ 4 }) , ({ 7 }) uống ({ 8 }) nhiều ({ 3 }) nước ({ 5 9 13 }) , ({ }) nằm ({ 10 }) trên ({ }) giường ({ 11 15 }) một ({ 16 17 }) hai ({ 12 19 20 }) ngày ({ 18 }) để ({ 22 }) nghỉ ({ 23 }) ngơi ({ 24 25 }) . ({ 26 }) 
+# Sentence pair (88) source length 5 target length 5 alignment score : 0.00337177
+Thank you , doctor . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) bác ({ 3 }) sĩ ({ 4 }) . ({ 5 }) 
+# Sentence pair (89) source length 8 target length 9 alignment score : 1.66231e-13
+You don &apos;t look the best , Jack . 
+NULL ({ 7 }) Trông ({ 1 2 }) bạn ({ }) không ({ 3 }) được ({ }) khỏe ({ 4 }) vậy ({ 5 }) Jack ({ 6 8 }) ? ({ 9 }) 
+# Sentence pair (90) source length 6 target length 8 alignment score : 3.03573e-08
+No , I &apos;m a bit off-colour . 
+NULL ({ 5 }) Không ({ 1 }) , ({ 2 }) tôi ({ 3 }) hơi ({ 4 }) mệt ({ 6 7 }) . ({ 8 }) 
+# Sentence pair (91) source length 5 target length 4 alignment score : 0.000271024
+What &apos;s wrong ? 
+NULL ({ }) Có ({ 1 }) chuyện ({ 2 }) gì ({ }) à ({ 3 }) ? ({ 4 }) 
+# Sentence pair (92) source length 8 target length 7 alignment score : 1.54264e-07
+I &apos;ve got a terrible stomach-ache . 
+NULL ({ 4 }) Tôi ({ 1 }) bị ({ 2 }) đau ({ 3 }) bao ({ }) tử ({ 5 }) rất ({ }) nặng ({ 6 }) . ({ 7 }) 
+# Sentence pair (93) source length 6 target length 7 alignment score : 1.20343e-09
+You &apos;d better call a doctor . 
+NULL ({ 5 }) Anh ({ 1 }) nên ({ 2 }) gọi ({ 4 }) bác ({ 3 }) sĩ ({ 6 }) . ({ 7 }) 
+# Sentence pair (94) source length 7 target length 6 alignment score : 2.24179e-08
+The doctor &apos;s come twice .. 
+NULL ({ 3 }) Bác ({ 1 }) sĩ ({ 2 }) đến ({ 4 }) hai ({ }) lần ({ 5 }) rồi ({ }) ... ({ 6 }) 
+# Sentence pair (95) source length 13 target length 12 alignment score : 3.15347e-20
+He told me to take this medicine once every four hours . 
+NULL ({ 4 }) Ông ({ 1 }) ta ({ }) bảo ({ 2 }) tôi ({ 3 }) uống ({ }) loại ({ }) thuốc ({ 5 6 7 9 }) này ({ 8 }) 4 ({ 10 }) giờ ({ }) một ({ }) lần ({ 11 }) . ({ 12 }) 
+# Sentence pair (96) source length 8 target length 6 alignment score : 6.9976e-09
+How are you feeling now ? 
+NULL ({ 3 }) Bây ({ 1 }) giờ ({ }) bạn ({ }) cảm ({ 2 }) thấy ({ 4 }) thế ({ 5 }) nào ({ }) ? ({ 6 }) 
+# Sentence pair (97) source length 21 target length 22 alignment score : 4.11629e-33
+I &apos;m feeling much better , but the doctor said I had to stay away from work for another two days . 
+NULL ({ 8 13 }) Tôi ({ 1 }) cảm ({ 2 }) thấy ({ 3 }) tốt ({ }) hơn ({ 12 14 15 16 }) nhiều ({ 4 }) , ({ 6 }) nhưng ({ 7 }) bác ({ 5 }) sĩ ({ 9 }) bảo ({ 10 }) tôi ({ 11 }) phải ({ }) không ({ }) được ({ }) làm ({ }) việc ({ 17 }) trong ({ 18 }) hai ({ 19 20 }) ngày ({ 21 }) . ({ 22 }) 
+# Sentence pair (98) source length 9 target length 8 alignment score : 7.80761e-07
+Yes , you do need a rest . 
+NULL ({ }) Đúng ({ 1 }) đó ({ }) , ({ 2 }) bạn ({ 3 }) cần ({ 4 }) phải ({ 5 }) nghỉ ({ 6 }) ngơi ({ 7 }) . ({ 8 }) 
+# Sentence pair (99) source length 8 target length 8 alignment score : 2.02685e-11
+I hope you &apos;ll be well soon .. 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) bạn ({ 3 }) sẽ ({ 4 }) sớm ({ }) khỏe ({ 5 6 7 8 }) . ({ }) 
+# Sentence pair (100) source length 4 target length 3 alignment score : 0.0419677
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) bạn ({ 2 }) . ({ 3 }) 
+# Sentence pair (101) source length 23 target length 17 alignment score : 4.10007e-32
+Sorry to disturb you , but could you tell me where the boss &apos;s office is ? 
+NULL ({ 14 }) Xin ({ 1 }) lỗi ({ }) vì ({ 2 }) đã ({ }) làm ({ 4 }) phiền ({ }) , ({ 5 }) cô ({ 8 }) có ({ }) thể ({ }) nói ({ 9 }) cho ({ }) tôi ({ 10 }) biết ({ }) văn ({ 3 6 7 11 }) phòng ({ 12 }) ông ({ }) chủ ({ }) ở ({ }) đâu ({ }) không ({ }) ạ ({ 13 15 16 }) ? ({ 17 }) 
+# Sentence pair (102) source length 6 target length 6 alignment score : 5.19375e-08
+Just follow me , please . 
+NULL ({ 4 }) Làm ({ 1 }) ơn ({ }) hãy ({ 2 3 }) theo ({ 5 }) tôi ({ }) . ({ 6 }) 
+# Sentence pair (103) source length 4 target length 3 alignment score : 0.0345335
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) cô ({ 2 }) . ({ 3 }) 
+# Sentence pair (104) source length 5 target length 5 alignment score : 7.87424e-09
+Here is the office . 
+NULL ({ 3 }) Văn ({ 1 2 4 }) phòng ({ }) đây ({ }) rồi ({ }) . ({ 5 }) 
+# Sentence pair (105) source length 7 target length 5 alignment score : 0.000707082
+The manager is in . 
+NULL ({ }) Giám ({ 1 }) đốc ({ 2 }) đang ({ 3 }) ở ({ }) trong ({ 4 }) đó ({ }) . ({ 5 }) 
+# Sentence pair (106) source length 8 target length 6 alignment score : 4.67492e-06
+Sorry to have bothered you . 
+NULL ({ }) Xin ({ 1 }) lỗi ({ }) vì ({ 2 }) đã ({ 3 }) làm ({ }) phiền ({ 4 }) cô ({ 5 }) . ({ 6 }) 
+# Sentence pair (107) source length 5 target length 5 alignment score : 0.00587309
+Thank you very much . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) rầt ({ 3 }) nhiều ({ 4 }) . ({ 5 }) 
+# Sentence pair (108) source length 5 target length 4 alignment score : 0.000135929
+You &apos;re welcome . 
+NULL ({ }) Không ({ 1 }) vấn ({ 2 }) đề ({ 3 }) gì ({ }) . ({ 4 }) 
+# Sentence pair (109) source length 3 target length 2 alignment score : 0.0653717
+Ouch ! 
+NULL ({ }) Ui ({ 1 }) da ({ }) ! ({ 2 }) 
+# Sentence pair (110) source length 13 target length 13 alignment score : 2.52766e-13
+I &apos;m terribly sorry , but I really didn &apos;t mean that . 
+NULL ({ 5 }) Tôi ({ 1 }) thành ({ 2 }) thật ({ 3 }) xin ({ 4 }) lỗi ({ 6 }) , ({ }) tôi ({ 7 }) thực ({ 8 }) sự ({ 9 }) không ({ 10 }) cố ({ 11 }) ý ({ 12 }) . ({ 13 }) 
+# Sentence pair (111) source length 5 target length 5 alignment score : 3.21933e-06
+Are you all right ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) sao ({ 3 }) không ({ 4 }) ? ({ 5 }) 
+# Sentence pair (112) source length 7 target length 8 alignment score : 3.06419e-11
+Oh , I can &apos;t stand up . 
+NULL ({ 1 2 }) Tôi ({ 3 }) không ({ }) thể ({ 4 }) đứng ({ 5 6 }) lên ({ 7 }) được ({ }) . ({ 8 }) 
+# Sentence pair (113) source length 12 target length 10 alignment score : 3.7587e-11
+Shall I help you to the bench there please ? 
+NULL ({ 1 }) Tôi ({ 2 }) đưa ({ 3 }) cô ({ 4 }) đến ({ 5 }) chiếc ({ 6 }) ghế ({ 7 }) dài ({ }) ở ({ }) đằng ({ }) kia ({ 8 }) nhé ({ 9 }) ? ({ 10 }) 
+# Sentence pair (114) source length 2 target length 4 alignment score : 7.32934e-07
+Yes , please . 
+NULL ({ 2 }) Vâng ({ 1 3 }) . ({ 4 }) 
+# Sentence pair (115) source length 6 target length 5 alignment score : 2.31307e-06
+Are you badly hurt ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) bị ({ }) đau ({ 3 4 }) không ({ }) ? ({ 5 }) 
+# Sentence pair (116) source length 18 target length 24 alignment score : 8.12758e-40
+Not so badly , but you ’ ve just stepped on my toes and I &apos;ll have to sit down for a moment . 
+NULL ({ 4 6 }) Không ({ 1 }) , ({ }) Nhưng ({ }) anh ({ }) bước ({ 2 7 8 }) lên ({ }) ngón ({ 3 9 10 }) chân ({ 5 11 13 }) của ({ 12 }) tôi ({ }) và ({ 14 }) tôi ({ 15 }) sẽ ({ 16 }) phải ({ 17 18 }) ngồi ({ 19 20 }) một ({ 21 22 }) lát ({ 23 }) . ({ 24 }) 
+# Sentence pair (117) source length 6 target length 5 alignment score : 0.00010926
+I &apos;m terribly sorry . 
+NULL ({ }) Tôi ({ 1 }) thành ({ 2 }) thật ({ 3 }) xin ({ }) lỗi ({ 4 }) . ({ 5 }) 
+# Sentence pair (118) source length 10 target length 11 alignment score : 8.50064e-13
+It was too absent-minded of me to have hurt you . 
+NULL ({ 7 10 }) Vì ({ 1 2 }) quá ({ 3 }) lơ ({ 4 }) đãng ({ 5 }) tôi ({ 6 }) đã ({ 8 }) làm ({ }) cô ({ }) đau ({ 9 }) . ({ 11 }) 
+# Sentence pair (119) source length 4 target length 5 alignment score : 3.14403e-06
+It doesn &apos;t matter . 
+NULL ({ }) Không ({ 1 }) sao ({ 2 }) đâu ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (120) source length 6 target length 10 alignment score : 1.65202e-12
+I &apos;ll be all right in a little while . 
+NULL ({ 7 }) Tôi ({ 1 }) sẽ ({ 2 }) khỏi ({ 3 }) ngay ({ 4 }) thôi ({ 5 6 8 9 }) . ({ 10 }) 
+# Sentence pair (121) source length 13 target length 12 alignment score : 1.35522e-19
+I must apologize to you for being late , Mr Brown . 
+NULL ({ 4 9 }) Tôi ({ 1 }) thành ({ }) thật ({ 2 }) xin ({ }) lỗi ({ }) vì ({ }) đã ({ }) đến ({ }) trễ ({ 3 }) thưa ({ }) ông ({ 5 6 }) Brown ({ 7 8 10 11 }) . ({ 12 }) 
+# Sentence pair (122) source length 5 target length 7 alignment score : 1.24049e-11
+It doesn &apos;t matter a tall . 
+NULL ({ 5 }) Không ({ 1 }) có ({ }) gì ({ }) cả ({ 2 3 4 6 }) . ({ 7 }) 
+# Sentence pair (123) source length 5 target length 6 alignment score : 1.08727e-06
+Take a seat , please . 
+NULL ({ }) Hãy ({ 1 }) ngồi ({ 2 }) xuống ({ 3 4 }) đây ({ 5 }) . ({ 6 }) 
+# Sentence pair (124) source length 4 target length 3 alignment score : 0.02886
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) ông ({ }) . ({ 3 }) 
+# Sentence pair (125) source length 5 target length 5 alignment score : 0.000324624
+( The telephone rings ) 
+NULL ({ }) ( ({ 1 }) Điện ({ 2 3 }) thoại ({ 4 }) reo ({ }) ) ({ 5 }) 
+# Sentence pair (126) source length 9 target length 11 alignment score : 1.90579e-17
+Excuse me for a moment , the phone &apos;s ringing . 
+NULL ({ 9 }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 6 }) điện ({ 7 }) thoại ({ 8 }) của ({ }) tôi ({ }) reo ({ 3 4 5 10 }) . ({ 11 }) 
+# Sentence pair (127) source length 4 target length 5 alignment score : 1.75331e-06
+That &apos;s all right . 
+NULL ({ }) Không ({ 1 }) có ({ 2 }) chi ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (128) source length 10 target length 6 alignment score : 4.18792e-07
+Hello , Universal Toy Company . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) , ({ 2 }) đây ({ }) là ({ }) công ({ }) ty ({ }) Universal ({ 3 4 }) Toy ({ 5 }) . ({ 6 }) 
+# Sentence pair (129) source length 4 target length 5 alignment score : 4.77838e-07
+May I help you ? 
+NULL ({ 4 }) Ông ({ 1 }) cần ({ 2 }) gì ({ 3 }) ? ({ 5 }) 
+# Sentence pair (130) source length 12 target length 11 alignment score : 2.71115e-09
+Yes , this is Mr Johnson from Smith &amp; Dale . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) là ({ 4 }) Johnson ({ 5 6 }) từ ({ 7 }) công ({ }) ty ({ }) Smith ({ 8 }) &amp; ({ 9 }) Dale ({ 10 }) . ({ 11 }) 
+# Sentence pair (131) source length 12 target length 13 alignment score : 1.02585e-14
+I &apos;d like to make an appointment with your manager , please . 
+NULL ({ 4 11 }) Tôi ({ 1 }) muốn ({ 2 3 }) có ({ }) một ({ }) cuộc ({ 5 6 }) hẹn ({ 7 }) với ({ 8 }) giám ({ 9 }) đốc ({ 10 }) của ({ }) cô ({ 12 }) . ({ 13 }) 
+# Sentence pair (132) source length 7 target length 7 alignment score : 1.80809e-12
+When do you want the appointment ? 
+NULL ({ 3 }) Ông ({ 1 }) muốn ({ 2 4 }) cuộc ({ 5 }) hẹn ({ 6 }) khi ({ }) nào ({ }) ? ({ 7 }) 
+# Sentence pair (133) source length 8 target length 10 alignment score : 7.72526e-13
+Would 9 : 00 a.m. tomorrow be all right ? 
+NULL ({ }) 9 ({ 1 2 }) giờ ({ 3 4 }) sáng ({ 5 }) ngày ({ }) mai ({ 6 }) được ({ 7 8 }) không ({ 9 }) ? ({ 10 }) 
+# Sentence pair (134) source length 5 target length 5 alignment score : 2.07277e-05
+I &apos;m afraid not . 
+NULL ({ }) Tôi ({ 1 }) sợ ({ 2 3 }) không ({ 4 }) được ({ }) . ({ 5 }) 
+# Sentence pair (135) source length 18 target length 16 alignment score : 1.61459e-15
+He has an appointment with a Japanese guest 8 : 00 to 9 : 30 . 
+NULL ({ }) Ông ({ 1 }) ta ({ }) có ({ }) một ({ }) cuộc ({ 2 3 }) hẹn ({ 4 }) với ({ 5 }) người ({ }) khách ({ 6 }) Nhật ({ 7 8 }) lúc ({ }) 8 ({ 9 }) giờ ({ 10 11 }) đến ({ 12 }) 9 ({ 13 }) giờ ({ 14 }) 30 ({ 15 }) . ({ 16 }) 
+# Sentence pair (136) source length 12 target length 12 alignment score : 8.74191e-18
+And at 10 : 00 , he has an other appointment . 
+NULL ({ }) Và ({ 1 }) lúc ({ 2 }) 10 ({ 3 }) giờ ({ 4 5 }) ông ({ 6 }) ta ({ }) có ({ }) một ({ }) cuộc ({ 7 8 9 }) hẹn ({ 11 }) khác ({ 10 }) . ({ 12 }) 
+# Sentence pair (137) source length 7 target length 5 alignment score : 1.26447e-05
+How about tomorrow afternoon ? 
+NULL ({ }) Chiều ({ 1 2 }) mai ({ 3 }) thì ({ 4 }) như ({ }) thế ({ }) nào ({ }) ? ({ 5 }) 
+# Sentence pair (138) source length 12 target length 12 alignment score : 1.13846e-14
+He won &apos;t be free until 2 : 30 tomorrow afternoon . 
+NULL ({ }) Ông ({ 1 }) ta ({ }) không ({ 2 3 }) rảnh ({ 4 5 6 }) cho ({ }) đến ({ }) 2 ({ 7 }) giờ ({ 8 }) 30 ({ 9 }) chiều ({ 10 11 }) mai ({ }) . ({ 12 }) 
+# Sentence pair (139) source length 7 target length 8 alignment score : 1.61578e-08
+Would 2 : 30 be all right ? 
+NULL ({ }) Lúc ({ 1 }) 2 ({ 2 }) giờ ({ 3 }) 30 ({ 4 }) được ({ 5 6 }) không ({ 7 }) ? ({ 8 }) 
+# Sentence pair (140) source length 2 target length 4 alignment score : 1.39227e-06
+That &apos;s fine . 
+NULL ({ 2 }) Được ({ 1 3 }) . ({ 4 }) 
+# Sentence pair (141) source length 5 target length 3 alignment score : 0.000834989
+Thank you . 
+NULL ({ }) Xin ({ }) cảm ({ 1 }) ơn ({ }) cô ({ 2 }) . ({ 3 }) 
+# Sentence pair (142) source length 11 target length 11 alignment score : 4.3314e-07
+2 : 30 , Mr Johnson from Smith &amp; Dale . 
+NULL ({ }) 2 ({ 1 }) giờ ({ 2 }) 30 ({ 3 }) , ({ 4 }) ông ({ 5 }) Johnson ({ 6 }) từ ({ 7 }) Smith ({ 8 }) &amp; ({ 9 }) Dale ({ 10 }) . ({ 11 }) 
+# Sentence pair (143) source length 5 target length 5 alignment score : 0.012619
+Yes , thank you . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) cám ({ 3 }) ơn ({ 4 }) . ({ 5 }) 
+# Sentence pair (144) source length 3 target length 5 alignment score : 4.82091e-07
+Until then , goodbye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ 2 3 4 }) . ({ 5 }) 
+# Sentence pair (145) source length 3 target length 2 alignment score : 0.0714422
+Goodbye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (146) source length 7 target length 10 alignment score : 9.86584e-13
+I &apos;d like to ask a favour of you . 
+NULL ({ 9 }) Tôi ({ 1 }) muốn ({ 2 3 }) nhờ ({ 4 5 }) anh ({ }) giúp ({ }) đỡ ({ 6 7 8 }) . ({ 10 }) 
+# Sentence pair (147) source length 6 target length 8 alignment score : 1.71106e-12
+Yes , what ’ s it ... ? 
+NULL ({ 6 }) Vâng ({ 1 }) , ({ 2 }) có ({ }) gì ({ 3 4 5 7 }) không ({ }) ? ({ 8 }) 
+# Sentence pair (148) source length 27 target length 23 alignment score : 4.32887e-26
+My brother is coming to see me from New York , so I want to change our appointment from Tuesday to Wednesday . 
+NULL ({ 5 }) Em ({ 1 2 3 }) trai ({ 4 6 }) tôi ({ 7 }) từ ({ 8 }) New ({ 9 }) York ({ 10 }) về ({ }) gặp ({ }) tôi ({ }) , ({ 11 }) vì ({ 12 }) vậy ({ }) tôi ({ 13 }) muốn ({ 14 15 }) đổi ({ 16 17 }) cuộc ({ }) hẹn ({ 18 }) của ({ }) chúng ({ }) ta ({ }) từ ({ 19 }) thứ ({ }) ba ({ 20 }) sang ({ 21 }) thứ ({ }) tư ({ 22 }) . ({ 23 }) 
+# Sentence pair (149) source length 3 target length 5 alignment score : 7.59007e-09
+Oh , I see . 
+NULL ({ }) Tôi ({ 3 }) hiểu ({ 1 2 4 }) . ({ 5 }) 
+# Sentence pair (150) source length 8 target length 8 alignment score : 4.56949e-09
+I won &apos;t be free on Wednesday . 
+NULL ({ }) Nhưng ({ }) tôi ({ 1 }) không ({ 2 3 }) rảnh ({ 4 5 }) vào ({ }) thứ ({ 6 }) tư ({ 7 }) . ({ 8 }) 
+# Sentence pair (151) source length 6 target length 5 alignment score : 4.54914e-08
+How about Thursday morning ? 
+NULL ({ }) Sáng ({ 1 }) thứ ({ }) 5 ({ 2 }) thì ({ 3 4 }) sao ({ }) ? ({ 5 }) 
+# Sentence pair (152) source length 6 target length 6 alignment score : 5.29219e-05
+Is it convenient for you ? 
+NULL ({ }) Có ({ 1 }) tiện ({ 2 3 }) cho ({ 4 }) anh ({ 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (153) source length 20 target length 23 alignment score : 9.69634e-23
+That &apos;s fine , but you need to come before 10 : 00 because I have a meeting at 10 : 30 . 
+NULL ({ 2 }) Được ({ 1 3 }) , ({ 4 }) nhưng ({ 5 }) anh ({ 6 }) phải ({ 7 }) đến ({ 8 }) trước ({ 9 10 }) 10 ({ 11 }) giờ ({ 12 13 }) vì ({ 14 }) tôi ({ 15 }) có ({ 16 }) một ({ 17 }) cuộc ({ }) họp ({ 18 }) lúc ({ 19 }) 10 ({ 20 }) giờ ({ 21 }) 30 ({ 22 }) . ({ 23 }) 
+# Sentence pair (154) source length 6 target length 6 alignment score : 2.19434e-07
+How about 9 : 00 ? 
+NULL ({ }) Vậy ({ 1 2 }) 9 ({ 3 }) giờ ({ 4 5 }) được ({ }) không ({ }) ? ({ 6 }) 
+# Sentence pair (155) source length 3 target length 3 alignment score : 0.00525769
+All right . 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) . ({ 3 }) 
+# Sentence pair (156) source length 4 target length 3 alignment score : 0.0344232
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) anh ({ 2 }) . ({ 3 }) 
+# Sentence pair (157) source length 2 target length 2 alignment score : 0.0118592
+Bye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ 2 }) 
+# Sentence pair (158) source length 3 target length 2 alignment score : 0.059536
+Bye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (159) source length 3 target length 2 alignment score : 0.0863392
+Hello . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) . ({ 2 }) 
+# Sentence pair (160) source length 6 target length 4 alignment score : 0.00239253
+Is that 5313369 ? 
+NULL ({ }) Có ({ 1 }) phải ({ }) số ({ 2 }) 5313369 ({ 3 }) không ({ }) ? ({ 4 }) 
+# Sentence pair (161) source length 8 target length 12 alignment score : 1.29765e-19
+I &apos;m sorry , but you have dialed the wrong number . 
+NULL ({ 9 }) Xin ({ 1 }) lỗi ({ 2 3 }) , ({ 4 }) ông ({ 5 6 }) quay ({ 7 8 }) nhầm ({ 10 }) số ({ 11 }) . ({ 12 }) 
+# Sentence pair (162) source length 5 target length 4 alignment score : 0.00134351
+This is 5313699 . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) số ({ }) 5313699 ({ 3 }) . ({ 4 }) 
+# Sentence pair (163) source length 8 target length 6 alignment score : 4.67492e-06
+Sorry to have disturbed you . 
+NULL ({ }) Xin ({ 1 }) lỗi ({ }) vì ({ 2 }) đã ({ 3 }) làm ({ }) phiền ({ 4 }) cô ({ 5 }) . ({ 6 }) 
+# Sentence pair (164) source length 4 target length 4 alignment score : 2.86038e-05
+That &apos;s OK . 
+NULL ({ }) Không ({ 1 }) có ({ 2 }) chi ({ 3 }) . ({ 4 }) 
+# Sentence pair (165) source length 9 target length 7 alignment score : 4.9856e-09
+Hello , is Mr Johnson in ? 
+NULL ({ }) Xin ({ }) chào ({ 1 }) , ({ 2 }) có ({ }) phải ({ }) ông ({ }) Johnson ({ 3 4 5 6 }) không ({ }) ? ({ 7 }) 
+# Sentence pair (166) source length 9 target length 8 alignment score : 2.86349e-09
+Sorry , he &apos;s just gone out . 
+NULL ({ 4 }) Xin ({ 1 }) lỗi ({ }) , ({ 2 }) ông ({ }) ấy ({ 3 }) vừa ({ 5 }) đi ({ }) khỏi ({ 6 7 }) . ({ 8 }) 
+# Sentence pair (167) source length 9 target length 8 alignment score : 1.9847e-08
+Would you like to leave a message ? 
+NULL ({ }) Ông ({ 1 }) có ({ 2 }) muốn ({ 3 }) để ({ 4 }) lại ({ }) lời ({ 5 }) nhắn ({ 6 7 }) không ({ }) ? ({ 8 }) 
+# Sentence pair (168) source length 20 target length 15 alignment score : 2.36294e-21
+Would you please tell him to call me as soon as he comes back ? 
+NULL ({ }) Ông ({ 1 }) có ({ 2 }) thể ({ }) nói ({ 3 4 }) với ({ }) ông ({ }) ấy ({ 5 }) gọi ({ 6 7 }) điện ({ }) cho ({ }) tôi ({ 8 }) ngay ({ 9 10 11 }) khi ({ }) ông ({ }) ấy ({ 12 }) quay ({ 13 }) lại ({ 14 }) được ({ }) không ({ }) ? ({ 15 }) 
+# Sentence pair (169) source length 8 target length 5 alignment score : 7.42987e-06
+My number is 6152738 . 
+NULL ({ }) Số ({ 1 }) điện ({ }) thoại ({ 2 }) của ({ }) tôi ({ }) là ({ 3 }) 6152738 ({ 4 }) . ({ 5 }) 
+# Sentence pair (170) source length 5 target length 6 alignment score : 2.45664e-05
+I &apos;d be glad to . 
+NULL ({ }) Tôi ({ 1 }) rất ({ 2 }) sẵn ({ 3 4 }) lòng ({ 5 }) . ({ 6 }) 
+# Sentence pair (171) source length 3 target length 4 alignment score : 0.0016119
+That is 6152738 . 
+NULL ({ }) Số ({ 1 }) 6152738 ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (172) source length 9 target length 7 alignment score : 8.19862e-11
+And who shall I say called ? 
+NULL ({ 4 }) Và ({ 1 }) tôi ({ }) sẽ ({ }) nói ({ }) là ({ }) ai ({ 2 3 }) gọi ({ 5 }) tới ({ 6 }) ? ({ 7 }) 
+# Sentence pair (173) source length 3 target length 3 alignment score : 0.00977128
+Mr Allen . 
+NULL ({ }) Ông ({ 1 }) Allen ({ 2 }) . ({ 3 }) 
+# Sentence pair (174) source length 18 target length 13 alignment score : 1.70109e-14
+I &apos;ll tell him as soon as he returns , Mr Allen . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) nói ({ 3 }) để ({ }) ông ({ }) ấy ({ 4 }) gọi ({ }) ngay ({ 5 6 7 }) khi ({ }) ông ({ }) ấy ({ 8 }) quay ({ 9 }) lại ({ }) , ({ 10 }) thưa ({ }) ông ({ 11 }) Allen ({ 12 }) . ({ 13 }) 
+# Sentence pair (175) source length 4 target length 3 alignment score : 0.02886
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) ông ({ }) . ({ 3 }) 
+# Sentence pair (176) source length 4 target length 5 alignment score : 1.75331e-06
+That &apos;s all right . 
+NULL ({ }) Không ({ 1 }) có ({ 2 }) chi ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (177) source length 3 target length 2 alignment score : 0.0173991
+Goodbye . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) . ({ 2 }) 
+# Sentence pair (178) source length 3 target length 2 alignment score : 0.0173991
+Bye . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) . ({ 2 }) 
+# Sentence pair (179) source length 5 target length 2 alignment score : 0.00223845
+Operator . 
+NULL ({ }) Tổng ({ 1 }) đài ({ }) nghe ({ }) đây ({ }) . ({ 2 }) 
+# Sentence pair (180) source length 4 target length 4 alignment score : 0.00869467
+Hello , operator . 
+NULL ({ }) Chào ({ 1 }) tổng ({ 2 }) đài ({ 3 }) . ({ 4 }) 
+# Sentence pair (181) source length 12 target length 12 alignment score : 1.63296e-10
+I want to make a person-to-person call to Shanghai , China . 
+NULL ({ 5 }) Tôi ({ 1 }) muốn ({ 2 }) gọi ({ 3 }) trực ({ 4 }) tiếp ({ 6 7 }) đến ({ 8 }) Thượng ({ }) Hải ({ 9 }) , ({ 10 }) Trung ({ 11 }) Quốc ({ }) . ({ 12 }) 
+# Sentence pair (182) source length 3 target length 5 alignment score : 7.1687e-06
+The number is 5458016 . 
+NULL ({ }) Số ({ 1 }) 5458016 ({ 2 3 4 }) . ({ 5 }) 
+# Sentence pair (183) source length 8 target length 12 alignment score : 9.25516e-20
+And what &apos;s the name of the person you &apos;re calling ? 
+NULL ({ 3 4 7 9 }) Và ({ 1 }) tên ({ 2 5 }) của ({ 6 }) người ({ 8 10 }) ông ({ }) gọi ({ 11 }) là ({ }) ? ({ 12 }) 
+# Sentence pair (184) source length 3 target length 3 alignment score : 0.101768
+Wang Hua . 
+NULL ({ }) Wang ({ 1 }) Hua ({ 2 }) . ({ 3 }) 
+# Sentence pair (185) source length 5 target length 5 alignment score : 8.88268e-06
+One moment , please . 
+NULL ({ 3 }) Đợi ({ 1 }) một ({ }) lát ({ 2 }) nhé ({ 4 }) . ({ 5 }) 
+# Sentence pair (186) source length 7 target length 8 alignment score : 5.31445e-06
+I &apos;ll get that number for you . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) bấm ({ 3 4 }) số ({ 5 }) cho ({ 6 }) ông ({ 7 }) . ({ 8 }) 
+# Sentence pair (187) source length 3 target length 3 alignment score : 0.0692556
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) . ({ 3 }) 
+# Sentence pair (188) source length 3 target length 2 alignment score : 0.0863392
+Hello . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) . ({ 2 }) 
+# Sentence pair (189) source length 11 target length 9 alignment score : 3.66805e-13
+Can I speak to Mr Kent , please ? 
+NULL ({ 7 }) Tôi ({ }) có ({ }) thể ({ 1 2 }) nói ({ }) chuyện ({ 3 }) với ({ 4 }) ông ({ 5 }) Kent ({ 6 }) được ({ 8 }) không ({ }) ? ({ 9 }) 
+# Sentence pair (190) source length 5 target length 6 alignment score : 1.62284e-05
+Just a minute , please . 
+NULL ({ 4 }) Đợi ({ 1 }) một ({ 2 }) lát ({ 3 }) nhé ({ 5 }) . ({ 6 }) 
+# Sentence pair (191) source length 11 target length 9 alignment score : 4.66994e-09
+Mr Kent you &apos;re wanted on the phone . 
+NULL ({ }) Ông ({ 1 }) Kent ({ 2 }) , ({ }) có ({ 3 }) người ({ 4 }) gặp ({ 5 }) ông ({ }) trên ({ 6 }) điện ({ 7 }) thoại ({ 8 }) . ({ 9 }) 
+# Sentence pair (192) source length 4 target length 5 alignment score : 5.39531e-05
+I &apos;m busy now . 
+NULL ({ }) Tôi ({ 1 }) đang ({ 2 }) bận ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (193) source length 12 target length 10 alignment score : 5.64087e-10
+Tell him to call again in half an hour . 
+NULL ({ }) Bảo ({ 1 }) ông ({ }) ấy ({ 2 }) gọi ({ 3 4 }) lại ({ 5 }) cho ({ }) tôi ({ }) vào ({ 6 }) nửa ({ 7 }) giờ ({ 8 }) nữa ({ 9 }) . ({ 10 }) 
+# Sentence pair (194) source length 10 target length 11 alignment score : 8.42368e-15
+Sorry , but he is very busy at the moment . 
+NULL ({ 9 }) Xin ({ 1 }) lỗi ({ }) , ({ 2 }) bây ({ 3 }) giờ ({ }) ông ({ }) ấy ({ 4 }) đang ({ 5 }) bận ({ 6 7 8 10 }) . ({ 11 }) 
+# Sentence pair (195) source length 10 target length 10 alignment score : 2.96186e-12
+Would you mind calling again in half an hour ? 
+NULL ({ 2 }) Phiền ({ 1 3 }) ông ({ }) gọi ({ 4 }) lại ({ 5 6 }) nửa ({ 7 }) giờ ({ 8 }) nữa ({ 9 }) được ({ }) không ({ }) ? ({ 10 }) 
+# Sentence pair (196) source length 3 target length 2 alignment score : 0.0738999
+Certainly . 
+NULL ({ }) Tất ({ 1 }) nhiên ({ }) . ({ 2 }) 
+# Sentence pair (197) source length 4 target length 3 alignment score : 0.0345335
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) cô ({ 2 }) . ({ 3 }) 
+# Sentence pair (198) source length 4 target length 4 alignment score : 9.30449e-06
+Not at all . 
+NULL ({ }) Không ({ 1 }) có ({ }) chi ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (199) source length 10 target length 11 alignment score : 2.14992e-12
+What would you like to drink , tea or coffee ? 
+NULL ({ 3 }) Anh ({ 1 }) muốn ({ }) dùng ({ 2 4 5 6 }) gì ({ }) , ({ 7 }) trà ({ 8 }) hay ({ 9 }) cà ({ }) phê ({ 10 }) ? ({ 11 }) 
+# Sentence pair (200) source length 6 target length 8 alignment score : 8.28001e-08
+I &apos;d like a cup of coffee . 
+NULL ({ 4 }) Tôi ({ 1 }) muốn ({ 2 3 }) uống ({ 5 }) cà ({ 6 }) phê ({ 7 }) . ({ 8 }) 
+# Sentence pair (201) source length 10 target length 8 alignment score : 9.52247e-06
+I always have coffee in the morning . 
+NULL ({ }) Tôi ({ 1 }) luôn ({ 2 }) uống ({ 3 }) cà ({ }) phê ({ 4 }) vào ({ 5 }) mỗi ({ 6 }) buổi ({ }) sáng ({ 7 }) . ({ 8 }) 
+# Sentence pair (202) source length 14 target length 11 alignment score : 1.50828e-11
+How do you drink your coffee , black or white ? 
+NULL ({ 3 }) Anh ({ 1 }) uống ({ 2 4 }) cà ({ 5 }) phê ({ 6 }) nào ({ }) , ({ 7 }) cà ({ }) phê ({ }) đen ({ 8 }) hay ({ 9 }) cà ({ }) phê ({ }) sữa ({ 10 }) ? ({ 11 }) 
+# Sentence pair (203) source length 4 target length 2 alignment score : 0.0234805
+Black . 
+NULL ({ }) Cà ({ 1 }) phê ({ }) đen ({ }) . ({ 2 }) 
+# Sentence pair (204) source length 6 target length 10 alignment score : 1.28555e-15
+And what are you going to have to eat ? 
+NULL ({ 4 }) Anh ({ 1 }) có ({ }) ăn ({ 2 3 5 6 8 9 }) gì ({ 7 }) không ({ }) ? ({ 10 }) 
+# Sentence pair (205) source length 9 target length 10 alignment score : 2.85737e-16
+I &apos;m going to order boiled eggs and toast . 
+NULL ({ 4 }) Tôi ({ 1 }) sẽ ({ }) gọi ({ }) trứng ({ 2 5 6 7 }) và ({ 8 }) bánh ({ }) mì ({ 3 }) nướng ({ 9 }) . ({ 10 }) 
+# Sentence pair (206) source length 3 target length 4 alignment score : 0.000353318
+What about you ? 
+NULL ({ }) Còn ({ 1 2 }) anh ({ 3 }) ? ({ 4 }) 
+# Sentence pair (207) source length 6 target length 6 alignment score : 9.08669e-07
+I &apos;ll have the same . 
+NULL ({ }) Tôi ({ 1 }) cũng ({ }) sẽ ({ 2 }) như ({ 3 }) vậy ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (208) source length 5 target length 7 alignment score : 1.19146e-10
+What would you like to have ? 
+NULL ({ 3 }) Ông ({ 1 }) thích ({ }) dùng ({ 2 4 5 6 }) gì ({ }) ? ({ 7 }) 
+# Sentence pair (209) source length 6 target length 11 alignment score : 5.8262e-15
+I &apos;d like to see the menu first , please . 
+NULL ({ 6 9 }) Tôi ({ 1 }) muốn ({ 2 3 4 }) xem ({ 5 }) thực ({ 7 }) đơn ({ 8 10 }) . ({ 11 }) 
+# Sentence pair (210) source length 5 target length 5 alignment score : 0.00164619
+( After a moment ) 
+NULL ({ }) ( ({ 1 }) Sau ({ 2 }) một ({ 3 }) lúc ({ 4 }) ) ({ 5 }) 
+# Sentence pair (211) source length 12 target length 7 alignment score : 1.6052e-08
+May I take your order now ? 
+NULL ({ }) Tôi ({ 1 }) thực ({ 2 }) hiện ({ 3 }) yêu ({ 4 }) cầu ({ 5 }) của ({ }) ông ({ }) bây ({ }) giờ ({ 6 }) được ({ }) không ({ }) ? ({ 7 }) 
+# Sentence pair (212) source length 2 target length 2 alignment score : 0.0004634
+Yes , 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (213) source length 24 target length 4 alignment score : 2.24971e-16
+Is that all ? 
+NULL ({ }) Tôi ({ }) muốn ({ }) một ({ }) tô ({ 3 }) súp ({ }) cà ({ }) chua ({ 4 }) , ({ }) thịt ({ }) bò ({ }) bít ({ }) tết ({ 1 }) , ({ }) một ({ }) cái ({ }) bánh ({ }) nhân ({ 2 }) táo ({ }) và ({ }) một ({ }) ly ({ }) cà ({ }) phê ({ }) . ({ }) 
+# Sentence pair (214) source length 6 target length 2 alignment score : 7.59315e-05
+Yes . 
+NULL ({ }) Từng ({ 1 }) đó ({ }) là ({ }) tất ({ }) cả ({ }) ? ({ 2 }) 
+# Sentence pair (215) source length 5 target length 4 alignment score : 1.30732e-06
+That &apos;s all . 
+NULL ({ 2 }) Vâng ({ }) , ({ }) tất ({ 1 }) cả ({ 3 }) . ({ 4 }) 
+# Sentence pair (216) source length 9 target length 9 alignment score : 2.6906e-14
+And I want my steak well-done , please . 
+NULL ({ 7 }) Tôi ({ 2 }) muốn ({ }) thịt ({ 3 }) bò ({ 1 }) phải ({ }) được ({ }) nấu ({ 4 }) chín ({ 5 6 8 }) . ({ 9 }) 
+# Sentence pair (217) source length 3 target length 3 alignment score : 0.00394939
+All right . 
+NULL ({ }) Được ({ 1 }) thôi ({ 2 }) . ({ 3 }) 
+# Sentence pair (218) source length 13 target length 9 alignment score : 4.77466e-07
+Your dinner will be ready in five minutes . 
+NULL ({ }) Bữa ({ 1 }) ăn ({ }) tối ({ 2 }) của ({ }) ông ({ }) sẽ ({ 3 }) được ({ }) sẵn ({ 4 }) sàng ({ 5 }) trong ({ 6 }) 5 ({ 7 }) phút ({ 8 }) . ({ 9 }) 
+# Sentence pair (219) source length 12 target length 9 alignment score : 3.91725e-10
+Oh , waiter , this spoon is dirty . 
+NULL ({ }) Ô ({ 1 }) , ({ 2 }) anh ({ }) bồi ({ 3 }) bàn ({ }) , ({ 4 }) cái ({ }) thìa ({ }) này ({ 5 }) bị ({ }) bẩn ({ 6 7 8 }) . ({ 9 }) 
+# Sentence pair (220) source length 11 target length 9 alignment score : 1.0831e-11
+Would you please bring me a clean one ? 
+NULL ({ 2 }) Làm ({ 1 3 4 }) ơn ({ }) cho ({ }) tôi ({ 5 }) một ({ 6 }) cái ({ }) thìa ({ 7 }) sạch ({ 8 }) được ({ }) không ({ }) ? ({ 9 }) 
+# Sentence pair (221) source length 7 target length 3 alignment score : 8.31979e-05
+Of course . 
+NULL ({ }) Tất ({ 1 }) nhiên ({ 2 }) rồi ({ }) , ({ }) thưa ({ }) ông ({ }) . ({ 3 }) 
+# Sentence pair (222) source length 9 target length 8 alignment score : 3.66761e-08
+Help yourself to some chicken , please . 
+NULL ({ }) Hãy ({ 1 }) dùng ({ }) món ({ 2 3 }) thịt ({ 4 }) gà ({ 5 }) tự ({ 6 }) nhiên ({ }) nhé ({ 7 }) . ({ 8 }) 
+# Sentence pair (223) source length 3 target length 2 alignment score : 0.0571859
+Thanks . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) . ({ 2 }) 
+# Sentence pair (224) source length 4 target length 5 alignment score : 2.936e-05
+It &apos;s very delicious . 
+NULL ({ 2 }) Nó ({ 1 }) rất ({ 3 }) ngon ({ 4 }) . ({ 5 }) 
+# Sentence pair (225) source length 12 target length 9 alignment score : 6.23257e-10
+Shall I help you to some more salad ? 
+NULL ({ 1 }) Tôi ({ 2 }) sẽ ({ }) đem ({ 3 }) cho ({ }) ông ({ 4 }) thêm ({ 5 }) nhiều ({ }) rau ({ 6 }) xà ({ 7 }) lách ({ 8 }) nhé ({ }) ? ({ 9 }) 
+# Sentence pair (226) source length 9 target length 10 alignment score : 3.20384e-08
+No , thank you , I &apos;ve had enough . 
+NULL ({ 2 }) Không ({ 1 }) cám ({ 3 }) ơn ({ 4 }) , ({ 5 }) tôi ({ 6 }) đã ({ 7 }) no ({ 8 9 }) rồi ({ }) . ({ 10 }) 
+# Sentence pair (227) source length 8 target length 9 alignment score : 1.24824e-14
+What are you going to have for dessert ? 
+NULL ({ 3 5 }) Ông ({ 1 }) sẽ ({ }) dùng ({ }) gì ({ }) để ({ }) tráng ({ 2 4 6 }) miệng ({ 7 8 }) ? ({ 9 }) 
+# Sentence pair (228) source length 7 target length 8 alignment score : 2.4234e-07
+I &apos;ll just have a strawberry ice-cream . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) dùng ({ }) kem ({ 3 }) dâu ({ 4 5 }) tây ({ 6 7 }) . ({ 8 }) 
+# Sentence pair (229) source length 19 target length 14 alignment score : 1.05121e-20
+Excuse me , how much is an airmail letter to Shanghai , China ? 
+NULL ({ }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 3 }) gửi ({ }) thư ({ }) bằng ({ 8 }) đường ({ }) hàng ({ 9 }) không ({ }) đến ({ 10 }) Thượng ({ }) Hải ({ 11 }) , ({ 12 }) Trung ({ 13 }) Quốc ({ }) giá ({ 4 5 6 7 }) bao ({ }) nhiêu ({ }) ? ({ 14 }) 
+# Sentence pair (230) source length 10 target length 12 alignment score : 9.85739e-14
+Do you want to sent it by ordinary or registered mail ? 
+NULL ({ 2 }) Ông ({ 1 }) muốn ({ 3 4 }) gửi ({ 5 6 }) thư ({ 7 }) thường ({ 8 }) hay ({ 9 }) gửi ({ }) bảo ({ 10 }) đảm ({ 11 }) ? ({ 12 }) 
+# Sentence pair (231) source length 3 target length 6 alignment score : 5.79154e-11
+By ordinary mail , please . 
+NULL ({ 4 }) Gửi ({ 1 3 5 }) thường ({ 2 }) . ({ 6 }) 
+# Sentence pair (232) source length 3 target length 5 alignment score : 0.000132424
+That &apos;s 50 cents . 
+NULL ({ }) 50 ({ 1 2 }) Xu ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (233) source length 6 target length 3 alignment score : 0.000795283
+Anything else ? 
+NULL ({ }) Có ({ }) gì ({ }) khác ({ 1 }) nữa ({ 2 }) không ({ }) ? ({ 3 }) 
+# Sentence pair (234) source length 15 target length 14 alignment score : 4.42988e-12
+Yes , I &apos;d like to buy two postcards and two 45-cent stamps . 
+NULL ({ 6 }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) muốn ({ 4 5 }) mua ({ 7 }) hai ({ 8 }) bưu ({ }) ảnh ({ 9 }) và ({ 10 }) 2 ({ 11 }) con ({ }) tem ({ 12 }) 45 ({ 13 }) xu ({ }) . ({ 14 }) 
+# Sentence pair (235) source length 6 target length 7 alignment score : 8.04678e-09
+That &apos;ll be $ 4.35 altogether . 
+NULL ({ }) Tổng ({ 1 }) Cộng ({ 2 }) là ({ }) 4,35 ({ 3 4 5 6 }) đôla ({ }) . ({ 7 }) 
+# Sentence pair (236) source length 18 target length 13 alignment score : 9.35622e-17
+Would you please weigh this letter to see if it &apos;s overweight ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) thể ({ }) cân ({ 3 }) lá ({ 4 5 6 }) thư ({ 7 }) này ({ }) xem ({ 8 9 }) nó ({ 10 }) có ({ }) quá ({ }) trọng ({ 11 }) lượng ({ 12 }) cho ({ }) phép ({ }) được ({ }) không ({ }) ? ({ 13 }) 
+# Sentence pair (237) source length 8 target length 7 alignment score : 5.29464e-05
+No , it &apos;s not overweight . 
+NULL ({ }) Không ({ 1 }) , ({ 2 }) nó ({ 3 }) không ({ }) quá ({ 4 }) trọng ({ 5 }) lượng ({ 6 }) . ({ 7 }) 
+# Sentence pair (238) source length 10 target length 12 alignment score : 2.59189e-15
+Do you want to send it by ordinary or registered mail ? 
+NULL ({ 2 }) Ông ({ 1 }) muốn ({ 3 4 }) gửi ({ 5 6 7 }) thông ({ }) thường ({ 8 }) hay ({ 9 }) gửi ({ }) bảo ({ 10 }) đảm ({ 11 }) ? ({ 12 }) 
+# Sentence pair (239) source length 4 target length 5 alignment score : 5.43815e-07
+I &apos;m not sure . 
+NULL ({ }) Tôi ({ 1 }) không ({ }) biết ({ 2 3 4 }) . ({ 5 }) 
+# Sentence pair (240) source length 10 target length 8 alignment score : 5.81225e-12
+Does it have anything valuable in it ? 
+NULL ({ 2 }) Có ({ }) cái ({ }) gì ({ }) có ({ }) giá ({ }) trị ({ 1 3 4 5 }) trong ({ 6 }) đó ({ 7 }) không ({ }) ? ({ 8 }) 
+# Sentence pair (241) source length 9 target length 7 alignment score : 3.34839e-07
+I &apos;ve put in some photographs . 
+NULL ({ }) Tôi ({ 1 }) đặt ({ 2 3 }) trong ({ 4 }) đó ({ }) một ({ }) số ({ 5 }) bưu ({ }) ảnh ({ 6 }) . ({ 7 }) 
+# Sentence pair (242) source length 9 target length 11 alignment score : 1.82644e-14
+In that case , you &apos;d better send it registered . 
+NULL ({ 9 }) Như ({ 1 2 3 }) vậy ({ }) , ({ 4 }) ông ({ 5 }) nên ({ 6 7 }) gửi ({ 8 }) bảo ({ 10 }) đảm ({ }) . ({ 11 }) 
+# Sentence pair (243) source length 3 target length 3 alignment score : 0.00525769
+All right . 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) . ({ 3 }) 
+# Sentence pair (244) source length 8 target length 8 alignment score : 6.88555e-07
+I &apos;ll send it by registered mail . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) gửi ({ 3 4 }) bằng ({ 5 }) thư ({ }) bảo ({ 6 }) đảm ({ 7 }) . ({ 8 }) 
+# Sentence pair (245) source length 9 target length 7 alignment score : 6.63936e-09
+What can I do for you ? 
+NULL ({ }) Tôi ({ }) có ({ 1 }) thể ({ 2 3 }) giúp ({ 4 }) gì ({ }) cho ({ 5 }) ông ({ 6 }) không ({ }) ? ({ 7 }) 
+# Sentence pair (246) source length 6 target length 9 alignment score : 1.60896e-11
+I &apos;d like to pick up my parcel . 
+NULL ({ 4 }) Tôi ({ 1 }) muốn ({ 2 3 }) nhận ({ }) bưu ({ 5 }) phẩm ({ 6 7 8 }) . ({ 9 }) 
+# Sentence pair (247) source length 6 target length 5 alignment score : 0.000210252
+Here is the notice . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) giấy ({ }) báo ({ 3 }) nhận ({ 4 }) . ({ 5 }) 
+# Sentence pair (248) source length 7 target length 7 alignment score : 9.37799e-10
+Sign your name here , please . 
+NULL ({ 5 }) Hãy ({ 1 }) ký ({ 2 }) tên ({ 3 }) ông ({ }) vào ({ }) đây ({ 4 6 }) . ({ 7 }) 
+# Sentence pair (249) source length 3 target length 3 alignment score : 0.00525769
+All right . 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) . ({ 3 }) 
+# Sentence pair (250) source length 7 target length 5 alignment score : 3.65093e-05
+Here is your parcel . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) bưu ({ 3 }) phẩm ({ 4 }) của ({ }) ông ({ }) . ({ 5 }) 
+# Sentence pair (251) source length 5 target length 5 alignment score : 1.87095e-07
+is there anything else ? 
+NULL ({ }) Có ({ 1 }) gì ({ 2 }) nữa ({ 3 4 }) không ({ }) ? ({ 5 }) 
+# Sentence pair (252) source length 24 target length 14 alignment score : 5.58442e-17
+Could you tell me the postage for a postcard to Beijing , China ? 
+NULL ({ 5 }) Cô ({ 1 }) có ({ 2 }) thể ({ }) nói ({ 3 }) cho ({ }) tôi ({ 4 }) biết ({ }) bưu ({ }) phí ({ 6 }) gửi ({ }) một ({ 7 8 }) bưu ({ }) ảnh ({ 9 }) đến ({ 10 }) Bắc ({ }) Kinh ({ 11 }) , ({ 12 }) Trung ({ 13 }) Quốc ({ }) là ({ }) bao ({ }) nhiêu ({ }) không ({ }) ? ({ 14 }) 
+# Sentence pair (253) source length 3 target length 5 alignment score : 1.98365e-05
+It &apos;s 40 cents . 
+NULL ({ 2 }) 40 ({ 1 }) xu ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (254) source length 5 target length 5 alignment score : 0.000147067
+Thank you very much . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) cô ({ 2 }) nhiều ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (255) source length 6 target length 7 alignment score : 6.57195e-10
+Can I help you , sir ? 
+NULL ({ 4 5 }) Ông ({ 1 }) cần ({ 2 }) gì ({ 3 }) thưa ({ 6 }) ông ({ }) ? ({ 7 }) 
+# Sentence pair (256) source length 7 target length 10 alignment score : 3.33015e-12
+I &apos;d like to open an account , please . 
+NULL ({ 4 8 }) Tôi ({ 1 }) muốn ({ 2 3 }) mở ({ 5 }) một ({ }) tài ({ 6 }) khoản ({ 7 9 }) . ({ 10 }) 
+# Sentence pair (257) source length 10 target length 8 alignment score : 7.49444e-07
+A deposit account or a current account ? 
+NULL ({ }) Tài ({ 1 }) khoản ({ }) định ({ 2 }) kỳ ({ 3 }) hay ({ 4 }) tài ({ 5 }) khoản ({ }) vãng ({ 6 }) lai ({ 7 }) ? ({ 8 }) 
+# Sentence pair (258) source length 5 target length 6 alignment score : 1.0518e-07
+A current account , please . 
+NULL ({ 4 }) Tài ({ 1 }) khoản ({ }) vãng ({ 2 }) lai ({ 3 5 }) . ({ 6 }) 
+# Sentence pair (259) source length 10 target length 10 alignment score : 2.33483e-17
+How much money do you want to deposit today ? 
+NULL ({ 7 }) Hôm ({ 1 2 3 8 }) nay ({ }) ông ({ 5 }) muốn ({ 6 }) gửi ({ }) số ({ }) tiền ({ }) bao ({ 4 }) nhiêu ({ 9 }) ? ({ 10 }) 
+# Sentence pair (260) source length 3 target length 3 alignment score : 0.0252691
+1000 dollars . 
+NULL ({ }) 1000 ({ 1 }) đôla ({ 2 }) . ({ 3 }) 
+# Sentence pair (261) source length 7 target length 7 alignment score : 3.28834e-07
+Fill out this form , please . 
+NULL ({ 5 }) Hãy ({ 1 }) điền ({ 2 }) vào ({ 3 }) mẫu ({ 4 }) đơn ({ 6 }) này ({ }) . ({ 7 }) 
+# Sentence pair (262) source length 3 target length 3 alignment score : 0.002262
+All right ... 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) ... ({ 3 }) 
+# Sentence pair (263) source length 3 target length 4 alignment score : 5.36899e-05
+Here you are . 
+NULL ({ 2 }) Đây ({ 1 }) này ({ 3 }) . ({ 4 }) 
+# Sentence pair (264) source length 3 target length 2 alignment score : 0.024603
+Thanks ... 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) ... ({ 2 }) 
+# Sentence pair (265) source length 7 target length 7 alignment score : 2.05301e-10
+Now , here &apos;s your receipt . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) biên ({ 3 }) nhận ({ }) của ({ 4 5 }) ông ({ 6 }) . ({ 7 }) 
+# Sentence pair (266) source length 4 target length 3 alignment score : 0.0345335
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) cô ({ 2 }) . ({ 3 }) 
+# Sentence pair (267) source length 10 target length 7 alignment score : 2.8102e-07
+May I help you , miss ? 
+NULL ({ }) Tôi ({ 1 }) có ({ }) thể ({ 2 }) giúp ({ 3 }) gì ({ }) cô ({ 4 }) , ({ 5 }) thưa ({ 6 }) cô ({ }) ? ({ 7 }) 
+# Sentence pair (268) source length 16 target length 13 alignment score : 2.94157e-14
+Yes , would you please change these British pounds into US dollars ? 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) cô ({ 3 }) có ({ 4 }) thể ({ }) đổi ({ 5 6 }) những ({ 7 }) đồng ({ 8 }) bảng ({ 9 10 }) Anh ({ }) này ({ }) sang ({ 11 }) đôla ({ 12 }) Mỹ ({ }) không ({ }) ? ({ 13 }) 
+# Sentence pair (269) source length 3 target length 5 alignment score : 1.44754e-06
+Yes , of course . 
+NULL ({ 2 }) Dĩ ({ 1 }) nhiên ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (270) source length 6 target length 6 alignment score : 5.19896e-09
+How do you want them ? 
+NULL ({ 3 }) Cô ({ 1 }) muốn ({ }) chúng ({ }) thế ({ 2 }) nào ({ 4 5 }) ? ({ 6 }) 
+# Sentence pair (271) source length 17 target length 12 alignment score : 4.49949e-20
+$ 200 in ten-dollar bills and the rest in dollar bills . 
+NULL ({ }) 200 ({ 1 2 3 4 }) đôla ({ 5 }) thành ({ }) những ({ 6 7 }) tờ ({ 8 }) 10 ({ }) đôla ({ }) , ({ }) số ({ }) còn ({ }) lại ({ 9 }) thành ({ }) những ({ }) tờ ({ 10 }) 1 ({ }) đôla ({ 11 }) . ({ 12 }) 
+# Sentence pair (272) source length 3 target length 4 alignment score : 5.36899e-05
+Here you are . 
+NULL ({ 2 }) Đây ({ 1 }) này ({ 3 }) . ({ 4 }) 
+# Sentence pair (273) source length 5 target length 3 alignment score : 0.00438646
+Anything else ? 
+NULL ({ }) Còn ({ 1 }) gì ({ }) nữa ({ 2 }) không ({ }) ? ({ 3 }) 
+# Sentence pair (274) source length 6 target length 5 alignment score : 0.00325674
+No , thank you . 
+NULL ({ }) Không ({ 1 }) , ({ 2 }) cám ({ 3 }) ơn ({ }) cô ({ 4 }) . ({ 5 }) 
+# Sentence pair (275) source length 10 target length 9 alignment score : 2.3215e-11
+What can I do for you , sir ? 
+NULL ({ }) Tôi ({ }) có ({ 1 }) thể ({ 2 3 }) giúp ({ 4 5 }) gì ({ }) ông ({ 6 }) , ({ 7 }) thưa ({ 8 }) ông ({ }) ? ({ 9 }) 
+# Sentence pair (276) source length 11 target length 10 alignment score : 1.05945e-09
+I want to draw $ 100 from my account . 
+NULL ({ }) Tôi ({ 1 }) muốn ({ 2 3 }) rút ({ 4 5 }) 100 ({ 6 }) đôla ({ }) từ ({ 7 }) tài ({ 8 }) khoản ({ 9 }) của ({ }) tôi ({ }) . ({ 10 }) 
+# Sentence pair (277) source length 10 target length 8 alignment score : 3.13773e-11
+Have you got your bank-book with you ? 
+NULL ({ }) Ông ({ 1 }) có ({ 2 }) mang ({ }) theo ({ }) sổ ({ 3 }) ghi ({ 4 5 6 }) tiền ({ 7 }) gửi ({ }) không ({ }) ? ({ 8 }) 
+# Sentence pair (278) source length 2 target length 2 alignment score : 0.269041
+Yes . 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (279) source length 3 target length 4 alignment score : 2.89664e-05
+Here it is . 
+NULL ({ 2 }) Đây ({ 1 }) này ({ 3 }) . ({ 4 }) 
+# Sentence pair (280) source length 6 target length 7 alignment score : 4.11279e-08
+That &apos;s fine , thank you . 
+NULL ({ 2 }) Được ({ 1 3 }) , ({ 4 }) cám ({ 5 }) ơn ({ 6 }) ông ({ }) . ({ 7 }) 
+# Sentence pair (281) source length 7 target length 6 alignment score : 1.43684e-09
+How do you want them ? 
+NULL ({ 3 }) Ông ({ 1 }) muốn ({ }) chúng ({ }) như ({ }) thế ({ 2 }) nào ({ 4 5 }) ? ({ 6 }) 
+# Sentence pair (282) source length 4 target length 5 alignment score : 6.50716e-06
+Ten-dollar bills , please . 
+NULL ({ 3 }) Tờ ({ 1 }) 10 ({ 2 }) đôla ({ 4 }) . ({ 5 }) 
+# Sentence pair (283) source length 5 target length 3 alignment score : 0.00244643
+Anything else ? 
+NULL ({ }) Còn ({ 1 }) gì ({ }) khác ({ 2 }) không ({ }) ? ({ 3 }) 
+# Sentence pair (284) source length 2 target length 2 alignment score : 0.269041
+Yes . 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (285) source length 14 target length 9 alignment score : 1.02563e-15
+Could you tell me my balance , please ? 
+NULL ({ 7 }) Cô ({ 1 }) có ({ 2 }) thể ({ 3 }) cho ({ }) tôi ({ 4 }) biết ({ }) số ({ }) dư ({ }) tài ({ 5 6 }) khoản ({ 8 }) của ({ }) tôi ({ }) không ({ }) ? ({ 9 }) 
+# Sentence pair (286) source length 9 target length 5 alignment score : 4.58425e-06
+Here is your balance . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) số ({ }) dư ({ 3 }) tài ({ 4 }) khoản ({ }) của ({ }) ông ({ }) . ({ 5 }) 
+# Sentence pair (287) source length 8 target length 9 alignment score : 4.66458e-08
+( A give B a slip of paper ) 
+NULL ({ 5 }) ( ({ 1 }) A ({ 2 }) đưa ({ 3 }) cho ({ }) B ({ 4 }) tờ ({ 6 }) giấy ({ 7 8 }) ) ({ 9 }) 
+# Sentence pair (288) source length 3 target length 2 alignment score : 0.0571859
+Thanks . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) . ({ 2 }) 
+# Sentence pair (289) source length 3 target length 2 alignment score : 0.0863392
+Hello . 
+NULL ({ }) Xin ({ }) chào ({ 1 }) . ({ 2 }) 
+# Sentence pair (290) source length 8 target length 4 alignment score : 0.000439093
+Is that 5423269 ? 
+NULL ({ }) Có ({ 1 }) phải ({ }) là ({ }) số ({ 2 }) 5432269 ({ 3 }) không ({ }) ạ ({ }) ? ({ 4 }) 
+# Sentence pair (291) source length 2 target length 5 alignment score : 2.07471e-09
+Yes , it is . 
+NULL ({ 2 3 }) Vâng ({ 1 4 }) . ({ 5 }) 
+# Sentence pair (292) source length 15 target length 14 alignment score : 1.17651e-15
+I &apos;m inquiring about the flat which was advertised in the evening paper . 
+NULL ({ 5 }) Tôi ({ 1 }) muốn ({ }) hỏi ({ 2 3 }) về ({ 4 }) căn ({ 6 }) hộ ({ 7 8 }) được ({ }) quảng ({ 9 }) cáo ({ }) trên ({ 10 }) báo ({ 11 }) tối ({ 12 }) hôm ({ 13 }) qua ({ }) . ({ 14 }) 
+# Sentence pair (293) source length 4 target length 3 alignment score : 1.26352e-05
+Oh yes ? 
+NULL ({ }) Ồ ({ 1 }) , ({ }) vâng ({ 2 3 }) . ({ }) 
+# Sentence pair (294) source length 18 target length 17 alignment score : 3.83733e-31
+I wonder if you could tell me how much the rent is a month , please ? 
+NULL ({ 10 12 }) Tôi ({ 1 }) không ({ }) biết ({ 2 }) ông ({ 4 }) có ({ }) thể ({ }) nói ({ 5 6 }) cho ({ }) tôi ({ 7 }) giá ({ 8 9 }) thuê ({ 3 }) 1 ({ 13 }) tháng ({ 11 14 16 }) là ({ 15 }) bao ({ }) nhiêu ({ }) không ({ }) ? ({ 17 }) 
+# Sentence pair (295) source length 3 target length 5 alignment score : 1.39975e-06
+It &apos;s $ 120 . 
+NULL ({ 2 }) 120 ({ 1 }) đôla ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (296) source length 2 target length 3 alignment score : 0.00014921
+I see . 
+NULL ({ }) Được ({ 1 2 }) . ({ 3 }) 
+# Sentence pair (297) source length 9 target length 7 alignment score : 7.29399e-10
+Is it near the city center ? 
+NULL ({ }) Nó ({ 1 }) có ({ }) gần ({ 2 }) trung ({ 3 }) tâm ({ 6 }) thành ({ 4 }) phố ({ 5 }) không ({ }) ? ({ 7 }) 
+# Sentence pair (298) source length 6 target length 10 alignment score : 5.26926e-12
+Yes , it &apos;s only about a kilometer away . 
+NULL ({ 2 3 4 }) Nó ({ 1 }) chỉ ({ 5 }) cách ({ 6 }) 1 ({ 7 }) kilômét ({ 8 9 }) . ({ 10 }) 
+# Sentence pair (299) source length 5 target length 6 alignment score : 8.96562e-09
+Which floor is it on ? 
+NULL ({ }) Nó ({ 1 }) ở ({ }) tầng ({ 2 3 4 5 }) nào ({ }) ? ({ 6 }) 
+# Sentence pair (300) source length 3 target length 5 alignment score : 1.56042e-07
+On the first floor . 
+NULL ({ 2 }) Tầng ({ 1 3 4 }) một ({ }) . ({ 5 }) 
+# Sentence pair (301) source length 3 target length 3 alignment score : 0.000307773
+I see . 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) . ({ 3 }) 
+# Sentence pair (302) source length 14 target length 17 alignment score : 4.95936e-35
+Would it be possible for me to see it tomorrow , say about 5 o &apos;clock ? 
+NULL ({ 2 7 11 12 }) Tôi ({ 1 }) có ({ }) thể ({ }) xem ({ 6 8 }) nó ({ 9 }) vào ({ }) ngày ({ }) mai ({ 10 }) lúc ({ 3 }) 5 ({ 4 5 13 14 15 }) giờ ({ 16 }) được ({ }) không ({ }) ? ({ 17 }) 
+# Sentence pair (303) source length 6 target length 4 alignment score : 0.00124129
+Yes , certainly . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tất ({ 3 }) nhiên ({ }) rồi ({ }) . ({ 4 }) 
+# Sentence pair (304) source length 4 target length 6 alignment score : 1.38615e-06
+Good morning , Mrs Gray . 
+NULL ({ }) Chào ({ 1 }) bà ({ 2 3 }) Gray ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (305) source length 3 target length 3 alignment score : 0.0223907
+Good morning . 
+NULL ({ }) Chào ({ 1 }) bà ({ 2 }) . ({ 3 }) 
+# Sentence pair (306) source length 10 target length 11 alignment score : 9.30905e-16
+I &apos;ve been told you might have a spare room . 
+NULL ({ 5 }) Tôi ({ 1 }) nghe ({ 2 }) nói ({ 3 }) bà ({ }) có ({ 7 }) một ({ 8 }) căn ({ 9 }) phòng ({ 10 }) trống ({ 4 6 }) . ({ 11 }) 
+# Sentence pair (307) source length 7 target length 6 alignment score : 8.9503e-05
+Yes , I have one . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) có ({ 4 }) một ({ }) phòng ({ 5 }) . ({ 6 }) 
+# Sentence pair (308) source length 6 target length 6 alignment score : 2.63043e-06
+How much do you charge ? 
+NULL ({ }) Bà ({ 1 }) định ({ }) giá ({ 2 }) bao ({ 3 }) nhiêu ({ 4 5 }) ? ({ 6 }) 
+# Sentence pair (309) source length 5 target length 5 alignment score : 0.000123985
+$ 30 a week . 
+NULL ({ }) 30 ({ 1 2 }) đôla ({ }) 1 ({ 3 }) tuần ({ 4 }) . ({ 5 }) 
+# Sentence pair (310) source length 8 target length 11 alignment score : 1.95715e-17
+May I have a look at the room , please ? 
+NULL ({ 4 9 }) Tôi ({ 1 2 }) có ({ 3 }) thể ({ }) xem ({ 5 6 }) phòng ({ 7 8 }) được ({ 10 }) không ({ }) ? ({ 11 }) 
+# Sentence pair (311) source length 4 target length 2 alignment score : 0.0284357
+Certainly . 
+NULL ({ }) Tất ({ 1 }) nhiên ({ }) rồi ({ }) . ({ 2 }) 
+# Sentence pair (312) source length 6 target length 5 alignment score : 2.27803e-05
+This way , please . 
+NULL ({ }) Mời ({ 1 2 }) bà ({ 3 }) theo ({ 4 }) đường ({ }) này ({ }) . ({ 5 }) 
+# Sentence pair (313) source length 7 target length 8 alignment score : 8.89358e-12
+Well , it &apos;s a lovely room . 
+NULL ({ 3 4 5 }) Ồ ({ 1 }) , ({ 2 }) căn ({ 6 }) phòng ({ 7 }) thật ({ }) đẹp ({ }) . ({ 8 }) 
+# Sentence pair (314) source length 2 target length 2 alignment score : 0.269041
+Yes . 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (315) source length 10 target length 10 alignment score : 2.44047e-10
+It &apos;s a good-sized room and it &apos;s well-furnished . 
+NULL ({ 2 }) Kích ({ 1 }) cỡ ({ 3 4 }) vừa ({ }) vặn ({ 5 }) và ({ 6 }) đồ ({ 7 }) đạc ({ 8 9 }) rất ({ }) tốt ({ }) . ({ 10 }) 
+# Sentence pair (316) source length 12 target length 7 alignment score : 3.87573e-09
+May I move in next day ? 
+NULL ({ }) Tôi ({ 1 }) có ({ }) thể ({ 2 }) chuyển ({ 3 }) đến ({ }) vào ({ 4 }) thứ ({ 5 }) hai ({ }) tới ({ 6 }) được ({ }) không ({ }) ? ({ 7 }) 
+# Sentence pair (317) source length 6 target length 5 alignment score : 0.000932321
+Yes , of course . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tất ({ 3 }) nhiên ({ 4 }) rồi ({ }) . ({ 5 }) 
+# Sentence pair (318) source length 16 target length 20 alignment score : 7.09679e-32
+And if you don &apos;t mind , I &apos;d like to have the first month &apos;s rent in advance . 
+NULL ({ 11 13 16 }) Nếu ({ }) bà ({ 3 }) không ({ 4 5 }) phiền ({ 6 }) thì ({ 7 }) tôi ({ 8 }) muốn ({ 9 10 }) được ({ }) trả ({ 12 }) tiền ({ 1 }) thuê ({ 2 }) trước ({ }) vào ({ 18 }) đầu ({ 14 }) tháng ({ 15 17 19 }) . ({ 20 }) 
+# Sentence pair (319) source length 2 target length 5 alignment score : 3.41374e-09
+That &apos;s all right . 
+NULL ({ 2 }) Được ({ 1 3 4 }) . ({ 5 }) 
+# Sentence pair (320) source length 10 target length 9 alignment score : 1.06965e-07
+I &apos;ll give it to you on Sunday . 
+NULL ({ 5 }) Tôi ({ 1 }) sẽ ({ 2 }) đưa ({ 3 }) nó ({ 4 }) cho ({ }) bà ({ 6 }) vào ({ }) chủ ({ 7 }) nhật ({ 8 }) . ({ 9 }) 
+# Sentence pair (321) source length 3 target length 4 alignment score : 8.76677e-08
+Is that okay ? 
+NULL ({ }) Được ({ 1 2 }) không ({ 3 }) ? ({ 4 }) 
+# Sentence pair (322) source length 2 target length 2 alignment score : 0.014234
+Fine . 
+NULL ({ }) Được ({ 1 }) . ({ 2 }) 
+# Sentence pair (323) source length 5 target length 5 alignment score : 5.10832e-05
+Goodbye , Mrs Gray . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) bà ({ 2 }) Gray ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (324) source length 3 target length 2 alignment score : 0.0714422
+Goodbye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (325) source length 7 target length 5 alignment score : 2.80695e-06
+Can I help you ? 
+NULL ({ }) Tôi ({ }) có ({ }) thể ({ 1 2 }) giúp ({ 3 }) gì ({ }) cô ({ 4 }) ? ({ 5 }) 
+# Sentence pair (326) source length 2 target length 2 alignment score : 0.269041
+Yes . 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (327) source length 17 target length 15 alignment score : 2.32479e-17
+I read your ad yesterday and I &apos;ve come to apply for the job . 
+NULL ({ 10 13 }) Tôi ({ 1 }) đã ({ }) đọc ({ 2 }) quảng ({ 3 }) cáo ({ 4 }) của ({ }) ông ({ }) ngày ({ }) hôm ({ 5 }) qua ({ }) và ({ 6 }) tôi ({ 7 }) đến ({ }) để ({ 8 }) xin ({ 9 11 12 }) việc ({ 14 }) . ({ 15 }) 
+# Sentence pair (328) source length 16 target length 12 alignment score : 4.13359e-15
+Have you got a work permit so you can work here ? 
+NULL ({ 4 }) Cô ({ 1 }) có ({ 2 }) giấy ({ 3 }) phép ({ 5 6 7 }) việc ({ }) làm ({ }) để ({ }) cô ({ 8 }) có ({ }) thể ({ 9 }) làm ({ }) việc ({ 10 }) ở ({ }) đây ({ 11 }) không ({ }) ? ({ 12 }) 
+# Sentence pair (329) source length 5 target length 6 alignment score : 4.46323e-08
+Yes , here it is . 
+NULL ({ 4 }) Vâng ({ 1 }) , ({ 2 }) nó ({ }) đây ({ 3 5 }) . ({ 6 }) 
+# Sentence pair (330) source length 12 target length 11 alignment score : 1.69199e-13
+And have you had any experience as a waiter before ? 
+NULL ({ 8 }) Và ({ 1 }) cô ({ }) có ({ 2 3 }) kinh ({ 4 5 }) nghiệm ({ 6 }) làm ({ }) hầu ({ 7 }) bàn ({ 9 }) trước ({ 10 }) đây ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (331) source length 16 target length 18 alignment score : 2.83714e-19
+Yes , I worked as a waiter for two and a half years before I came here . 
+NULL ({ 6 }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) đã ({ }) làm ({ }) hầu ({ 4 5 }) bàn ({ 7 }) trong ({ 8 }) hai ({ 9 10 }) năm ({ 11 }) rưỡi ({ 12 13 }) trước ({ 14 15 }) khi ({ 16 }) đến ({ }) đây ({ 17 }) . ({ 18 }) 
+# Sentence pair (332) source length 3 target length 4 alignment score : 2.69044e-05
+That &apos;s fine . 
+NULL ({ }) Thế ({ 1 }) à ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (333) source length 12 target length 10 alignment score : 8.3544e-15
+And do you want to work part-time or full-time ? 
+NULL ({ 3 }) Cô ({ 1 }) muốn ({ 2 4 }) làm ({ 5 }) việc ({ 6 }) bán ({ 7 }) thời ({ }) gian ({ }) hay ({ 8 }) toàn ({ 9 }) thời ({ }) gian ({ }) ? ({ 10 }) 
+# Sentence pair (334) source length 12 target length 10 alignment score : 2.51796e-10
+If possible , I &apos;d like to work part-time . 
+NULL ({ }) Nếu ({ 1 2 }) có ({ }) thể ({ }) , ({ 3 }) tôi ({ 4 }) muốn ({ 5 6 }) làm ({ 7 }) việc ({ 8 }) bán ({ 9 }) thời ({ }) gian ({ }) . ({ 10 }) 
+# Sentence pair (335) source length 2 target length 2 alignment score : 0.29853
+Good . 
+NULL ({ }) Tốt ({ 1 }) . ({ 2 }) 
+# Sentence pair (336) source length 13 target length 7 alignment score : 1.3614e-08
+Can you start from next week ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) thể ({ }) bắt ({ 3 }) đầu ({ }) làm ({ }) việc ({ }) từ ({ 4 }) tuần ({ 5 6 }) tới ({ }) được ({ }) không ({ }) ? ({ 7 }) 
+# Sentence pair (337) source length 4 target length 6 alignment score : 7.8562e-08
+Yes , that &apos;s fine . 
+NULL ({ 4 }) Vâng ({ 1 }) , ({ 2 }) được ({ 3 5 }) . ({ 6 }) 
+# Sentence pair (338) source length 17 target length 17 alignment score : 3.73416e-21
+I hear you need a baby-sitter , and I &apos;ve come to apply for the job . 
+NULL ({ 7 12 15 }) Tôi ({ 1 }) nghe ({ 2 }) nói ({ }) bà ({ 3 }) cần ({ 4 }) một ({ 5 }) người ({ }) giữ ({ 6 }) trẻ ({ 8 }) nên ({ }) tôi ({ 9 }) đến ({ }) đây ({ }) để ({ 10 }) xin ({ 11 13 14 }) việc ({ 16 }) . ({ 17 }) 
+# Sentence pair (339) source length 2 target length 6 alignment score : 5.16352e-12
+Yes , that &apos;s right . 
+NULL ({ 2 4 }) Vâng ({ 1 3 5 }) . ({ 6 }) 
+# Sentence pair (340) source length 12 target length 10 alignment score : 4.41878e-11
+Have you had any experience as a baby-sitter before ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) kinh ({ 3 4 }) nghiệm ({ 5 6 }) trong ({ }) nghề ({ 7 }) giữ ({ 8 }) trẻ ({ }) từ ({ }) trước ({ 9 }) không ({ }) ? ({ 10 }) 
+# Sentence pair (341) source length 18 target length 19 alignment score : 2.70933e-18
+No , but I worked as a nurse in a hopital for three years before I came here . 
+NULL ({ 10 }) Không ({ 1 }) , ({ 2 }) nhưng ({ 3 }) tôi ({ 4 }) làm ({ }) y ({ 5 }) tá ({ 6 }) của ({ }) bệnh ({ 7 }) viện ({ 8 9 11 }) trong ({ 12 }) 3 ({ 13 }) năm ({ 14 }) trước ({ 15 16 }) khi ({ 17 }) đến ({ }) đây ({ 18 }) . ({ 19 }) 
+# Sentence pair (342) source length 2 target length 2 alignment score : 0.29853
+Good . 
+NULL ({ }) Tốt ({ 1 }) . ({ 2 }) 
+# Sentence pair (343) source length 10 target length 7 alignment score : 1.30551e-09
+How long can you work here ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) thể ({ 3 }) làm ({ 4 }) việc ({ 5 }) ở ({ }) đây ({ 6 }) bao ({ }) lâu ({ }) ? ({ 7 }) 
+# Sentence pair (344) source length 3 target length 3 alignment score : 0.0315781
+One year . 
+NULL ({ }) Một ({ 1 }) năm ({ 2 }) . ({ 3 }) 
+# Sentence pair (345) source length 10 target length 5 alignment score : 7.02082e-06
+Can you work full-time ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) thể ({ }) làm ({ }) việc ({ 3 }) toàn ({ 4 }) thời ({ }) gian ({ }) không ({ }) ? ({ 5 }) 
+# Sentence pair (346) source length 6 target length 5 alignment score : 0.00211656
+Yes , of course . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) đương ({ 3 }) nhiên ({ 4 }) rồi ({ }) . ({ 5 }) 
+# Sentence pair (347) source length 7 target length 6 alignment score : 2.54954e-11
+Where are you staying now ? 
+NULL ({ 3 }) Hiện ({ 1 4 }) nay ({ }) cô ({ }) đang ({ 2 }) ở ({ }) đâu ({ 5 }) ? ({ 6 }) 
+# Sentence pair (348) source length 4 target length 5 alignment score : 5.20427e-07
+Is it far away ? 
+NULL ({ 2 }) Có ({ 1 }) xa ({ 3 4 }) không ({ }) ? ({ 5 }) 
+# Sentence pair (349) source length 17 target length 18 alignment score : 8.88329e-23
+I &apos;m staying at 87 King Street , and it takes me half an hour by subway . 
+NULL ({ }) Tôi ({ 1 }) ở ({ }) tại ({ 2 }) Số ({ }) 87 ({ 3 4 5 6 }) đường ({ }) King ({ 7 }) , ({ 8 }) khoảng ({ 9 10 11 }) nửa ({ 12 13 }) tiếng ({ 14 15 }) đi ({ }) bằng ({ 16 }) tầu ({ }) điện ({ }) ngầm ({ 17 }) . ({ 18 }) 
+# Sentence pair (350) source length 3 target length 3 alignment score : 0.00389143
+I see . 
+NULL ({ }) Vậy ({ 1 }) à ({ 2 }) . ({ 3 }) 
+# Sentence pair (351) source length 11 target length 8 alignment score : 1.5446e-10
+Can you possibly move to our house ? 
+NULL ({ }) Cô ({ 1 }) có ({ 2 }) thể ({ }) chuyển ({ 3 4 }) đến ({ 5 }) nhà ({ 6 7 }) chúng ({ }) tôi ({ }) được ({ }) không ({ }) ? ({ 8 }) 
+# Sentence pair (352) source length 5 target length 5 alignment score : 5.46236e-05
+Yes , I can . 
+NULL ({ 2 }) Vâng ({ 1 }) tôi ({ 3 }) có ({ }) thể ({ 4 }) . ({ 5 }) 
+# Sentence pair (353) source length 7 target length 7 alignment score : 2.81245e-06
+But how much do you charge ? 
+NULL ({ }) Nhưng ({ 1 }) bà ({ }) định ({ 2 }) giá ({ 3 }) bao ({ 4 }) nhiêu ({ 5 6 }) ? ({ 7 }) 
+# Sentence pair (354) source length 6 target length 6 alignment score : 3.12702e-06
+I won &apos;t charge anything . 
+NULL ({ }) Tôi ({ 1 }) không ({ 2 3 }) thu ({ 4 }) tiền ({ 5 }) đâu ({ }) . ({ 6 }) 
+# Sentence pair (355) source length 15 target length 16 alignment score : 2.78889e-15
+If you stay here , it &apos;ll be more convenient for you and for us . 
+NULL ({ 5 6 }) Nếu ({ 1 }) cô ({ 2 }) ở ({ }) lại ({ 3 }) đây ({ 4 }) sẽ ({ 7 }) thuận ({ 8 9 }) tiện ({ 10 }) hơn ({ }) cho ({ 11 }) cô ({ 12 }) và ({ 13 }) chúng ({ 14 15 }) tôi ({ }) . ({ 16 }) 
+# Sentence pair (356) source length 6 target length 7 alignment score : 3.21853e-07
+It &apos;s very kind of you . 
+NULL ({ }) Bà ({ 1 }) thật ({ 2 }) tốt ({ 3 }) bụng ({ 4 5 }) quá ({ 6 }) . ({ 7 }) 
+# Sentence pair (357) source length 17 target length 14 alignment score : 1.57542e-14
+But you must take good care of the baby and do some housework . 
+NULL ({ 8 }) Nhưng ({ 1 }) cô ({ 2 }) phải ({ }) chăm ({ 3 4 }) sóc ({ 5 }) đứa ({ 6 7 }) bé ({ 9 }) thật ({ }) tốt ({ }) và ({ 10 }) làm ({ 11 }) một ({ }) số ({ 12 }) việc ({ }) nhà ({ 13 }) nữa ({ }) . ({ 14 }) 
+# Sentence pair (358) source length 2 target length 2 alignment score : 0.269041
+Yes . 
+NULL ({ }) Vâng ({ 1 }) . ({ 2 }) 
+# Sentence pair (359) source length 7 target length 6 alignment score : 0.000193844
+I &apos;ll try my best . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) cố ({ }) gắng ({ 3 }) hết ({ 4 }) sức ({ 5 }) . ({ 6 }) 
+# Sentence pair (360) source length 8 target length 10 alignment score : 2.16374e-17
+It &apos;s getting late , I must leave now . 
+NULL ({ 2 }) Muộn ({ 1 3 4 7 8 9 }) rồi ({ }) , ({ 5 }) tôi ({ 6 }) phải ({ }) về ({ }) đây ({ }) . ({ 10 }) 
+# Sentence pair (361) source length 10 target length 8 alignment score : 1.7364e-09
+Can &apos;t you stay a little longer ? 
+NULL ({ 3 }) Bạn ({ 1 }) không ({ }) thể ({ 2 }) ở ({ }) lại ({ 4 }) một ({ 5 }) chút ({ 6 }) nữa ({ }) à ({ 7 }) ? ({ 8 }) 
+# Sentence pair (362) source length 16 target length 18 alignment score : 4.4749e-20
+That &apos;s very kind of you , but I &apos;ll have to get up early tomorrow morning . 
+NULL ({ 2 12 }) Cám ({ }) ơn ({ }) lòng ({ 1 }) tốt ({ 3 4 }) của ({ 5 }) bạn ({ 6 }) , ({ 7 }) nhưng ({ 8 }) tôi ({ 9 }) phải ({ 10 11 }) dậy ({ 13 14 }) sớm ({ 15 }) vào ({ 16 }) sáng ({ 17 }) mai ({ }) . ({ 18 }) 
+# Sentence pair (363) source length 13 target length 10 alignment score : 1.14169e-12
+Ok , I won &apos;t keep you , then . 
+NULL ({ 8 }) Vậy ({ 1 }) à ({ }) , ({ 2 }) thế ({ }) thì ({ }) tôi ({ 3 }) không ({ 4 5 }) giữ ({ 6 }) bạn ({ 7 }) ở ({ 9 }) lại ({ }) nữa ({ }) . ({ 10 }) 
+# Sentence pair (364) source length 10 target length 7 alignment score : 4.57017e-08
+Thank you for the wonderful dinner . 
+NULL ({ 4 }) Cám ({ 1 }) ơn ({ }) bạn ({ 2 }) vì ({ }) bữa ({ 3 }) ăn ({ }) tối ({ }) thật ({ }) tuyệt ({ 5 6 }) . ({ 7 }) 
+# Sentence pair (365) source length 8 target length 8 alignment score : 7.18484e-09
+I &apos;m very glad you enjoyed it . 
+NULL ({ 7 }) Tôi ({ 1 }) rất ({ 2 3 }) vui ({ 4 }) vì ({ }) bạn ({ 5 }) thấy ({ }) ngon ({ 6 }) . ({ 8 }) 
+# Sentence pair (366) source length 7 target length 5 alignment score : 2.99419e-05
+Thank you for coming . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) bạn ({ 2 }) đã ({ 3 }) đến ({ }) thăm ({ 4 }) . ({ 5 }) 
+# Sentence pair (367) source length 4 target length 3 alignment score : 0.036154
+Good night . 
+NULL ({ }) Chúc ({ 1 }) ngủ ({ 2 }) ngon ({ }) . ({ 3 }) 
+# Sentence pair (368) source length 4 target length 3 alignment score : 0.036154
+Good night . 
+NULL ({ }) Chúc ({ 1 }) ngủ ({ 2 }) ngon ({ }) . ({ 3 }) 
+# Sentence pair (369) source length 13 target length 15 alignment score : 3.48821e-18
+It &apos;s very kind of you to come to see me off , Peter . 
+NULL ({ 9 13 }) Thật ({ 1 }) là ({ 2 }) quý ({ 3 4 }) hóa ({ 5 }) vì ({ }) bạn ({ 6 }) đã ({ }) đến ({ 7 }) tiễn ({ 8 10 }) tôi ({ 11 }) Peter ({ 12 14 }) à ({ }) . ({ 15 }) 
+# Sentence pair (370) source length 9 target length 12 alignment score : 4.98709e-19
+It ’ s a pity that you have to go now . 
+NULL ({ 4 }) Thật ({ 1 }) tiếc ({ 2 }) là ({ }) bạn ({ 7 }) phải ({ 8 9 }) đi ({ 10 }) bây ({ 3 5 6 }) giờ ({ 11 }) . ({ 12 }) 
+# Sentence pair (371) source length 12 target length 8 alignment score : 3.08078e-11
+Please give my regards to your parents . 
+NULL ({ }) Cho ({ 1 2 3 }) tôi ({ }) gửi ({ }) lời ({ 4 }) hỏi ({ }) thăm ({ }) đến ({ 5 }) bố ({ 6 }) mẹ ({ 7 }) bạn ({ }) nhé ({ }) . ({ 8 }) 
+# Sentence pair (372) source length 8 target length 5 alignment score : 0.000168237
+I will , thanks . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) gửi ({ }) , ({ 3 }) cám ({ 4 }) ơn ({ }) bạn ({ }) . ({ 5 }) 
+# Sentence pair (373) source length 14 target length 14 alignment score : 3.61632e-14
+And don &apos;t forget to write to me when you get to Shanghai . 
+NULL ({ 5 }) Và ({ 1 }) đừng ({ 2 }) quên ({ 3 }) viết ({ 4 6 }) thư ({ 7 }) cho ({ }) tôi ({ 8 }) khi ({ 9 }) bạn ({ 10 }) đến ({ 11 12 }) Thượng ({ }) Hải ({ 13 }) đấy ({ }) . ({ 14 }) 
+# Sentence pair (374) source length 5 target length 6 alignment score : 3.49655e-10
+No , I won &apos;t . 
+NULL ({ 2 }) Tôi ({ 3 }) không ({ 4 }) quên ({ 1 }) đâu ({ 5 }) . ({ 6 }) 
+# Sentence pair (375) source length 6 target length 5 alignment score : 1.4733e-05
+Thanks again for everything . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) vì ({ }) mọi ({ 2 }) điều ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (376) source length 3 target length 2 alignment score : 0.0714422
+Goodbye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (377) source length 10 target length 7 alignment score : 2.49081e-06
+Goodbye and have a good journey . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) , ({ }) chúc ({ 2 }) bạn ({ }) thượng ({ 3 }) lộ ({ 4 }) bình ({ 5 }) an ({ 6 }) . ({ 7 }) 
+# Sentence pair (378) source length 8 target length 8 alignment score : 4.14814e-11
+I &apos;ve come here to say goodbye . 
+NULL ({ 5 }) Tôi ({ 1 }) đến ({ }) để ({ 2 }) nói ({ }) lời ({ }) tạm ({ 3 4 6 }) biệt ({ 7 }) . ({ 8 }) 
+# Sentence pair (379) source length 5 target length 5 alignment score : 2.69086e-08
+When are you leaving ? 
+NULL ({ 3 }) Khi ({ 1 2 4 }) nào ({ }) bạn ({ }) đi ({ }) ? ({ 5 }) 
+# Sentence pair (380) source length 5 target length 4 alignment score : 0.00121356
+On Saturday morning . 
+NULL ({ }) Vào ({ 1 }) sáng ({ }) thứ ({ 2 }) bẩy ({ 3 }) . ({ 4 }) 
+# Sentence pair (381) source length 9 target length 10 alignment score : 2.92616e-15
+It &apos;s a pity you &apos;re leaving so soon . 
+NULL ({ 3 5 }) Thật ({ 1 }) đáng ({ 2 4 6 7 }) tiếc ({ }) vì ({ 8 }) bạn ({ }) phải ({ }) đi ({ }) sớm ({ 9 }) . ({ 10 }) 
+# Sentence pair (382) source length 8 target length 7 alignment score : 6.07629e-10
+We &apos;re going to miss you . 
+NULL ({ }) Chúng ({ 1 }) tôi ({ }) sẽ ({ }) nhớ ({ 2 3 4 5 }) bạn ({ 6 }) lắm ({ }) đó ({ }) . ({ 7 }) 
+# Sentence pair (383) source length 4 target length 3 alignment score : 0.00140615
+Me too . 
+NULL ({ }) Tôi ({ }) cũng ({ 1 }) vậy ({ 2 }) . ({ 3 }) 
+# Sentence pair (384) source length 10 target length 9 alignment score : 1.61199e-10
+But I think we &apos;ll meet again soon . 
+NULL ({ }) Nhưng ({ 1 2 }) chúng ({ }) ta ({ 3 4 }) sẽ ({ 5 }) sớm ({ }) gặp ({ 6 }) lại ({ 7 }) nhau ({ 8 }) thôi ({ }) . ({ 9 }) 
+# Sentence pair (385) source length 7 target length 4 alignment score : 0.00126345
+I hope so . 
+NULL ({ }) Tôi ({ 1 }) cũng ({ }) hy ({ 2 }) vọng ({ }) như ({ }) thế ({ 3 }) . ({ 4 }) 
+# Sentence pair (386) source length 11 target length 10 alignment score : 1.30094e-13
+And we &apos;ll look forward to seeing you again . 
+NULL ({ 8 }) Và ({ 1 }) chúng ({ 2 }) tôi ({ }) rất ({ }) mong ({ 3 4 5 }) đến ({ 6 }) ngày ({ }) gặp ({ 7 }) lại ({ 9 }) bạn ({ }) . ({ 10 }) 
+# Sentence pair (387) source length 12 target length 9 alignment score : 1.40907e-08
+Thanks for all you &apos;ve done for me . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) tất ({ 2 }) cả ({ 3 }) những ({ }) gì ({ }) bạn ({ 4 }) đã ({ 5 }) dành ({ 6 }) cho ({ 7 }) tôi ({ 8 }) . ({ 9 }) 
+# Sentence pair (388) source length 3 target length 2 alignment score : 0.0714422
+Goodbye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (389) source length 3 target length 2 alignment score : 0.059536
+Bye . 
+NULL ({ }) Tạm ({ 1 }) biệt ({ }) . ({ 2 }) 
+# Sentence pair (390) source length 11 target length 7 alignment score : 8.43906e-08
+Can I help you , sir ? 
+NULL ({ }) Tôi ({ }) có ({ }) thể ({ 1 2 }) giúp ({ 3 }) gì ({ }) cho ({ }) ông ({ 4 }) , ({ 5 }) thưa ({ 6 }) ông ({ }) ? ({ 7 }) 
+# Sentence pair (391) source length 6 target length 6 alignment score : 0.000104493
+To the Bank of China . 
+NULL ({ }) Đến ({ 1 }) ngân ({ 2 3 }) hàng ({ 4 }) Trung ({ 5 }) Hoa ({ }) . ({ 6 }) 
+# Sentence pair (392) source length 12 target length 8 alignment score : 2.14601e-08
+Do you want a taxi , madam ? 
+NULL ({ }) Bà ({ 1 }) có ({ 2 }) cần ({ 3 }) đi ({ }) xe ({ }) tắc ({ 4 }) xi ({ 5 }) không ({ }) , ({ 6 }) thưa ({ }) bà ({ 7 }) ? ({ 8 }) 
+# Sentence pair (393) source length 4 target length 6 alignment score : 1.18447e-07
+Is it far from here ? 
+NULL ({ }) Có ({ 1 }) xa ({ 2 3 4 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (394) source length 5 target length 5 alignment score : 1.88636e-05
+Get in , please . 
+NULL ({ }) Xin ({ 1 }) mời ({ 2 }) lên ({ 3 4 }) xe ({ }) . ({ 5 }) 
+# Sentence pair (395) source length 3 target length 2 alignment score : 0.0786246
+Taxi ! 
+NULL ({ }) Tắc ({ 1 }) xi ({ }) ! ({ 2 }) 
+# Sentence pair (396) source length 5 target length 4 alignment score : 0.020204
+Yes , sir . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) thưa ({ 3 }) ông ({ }) . ({ 4 }) 
+# Sentence pair (397) source length 9 target length 5 alignment score : 1.58815e-07
+Can I help you ? 
+NULL ({ }) Tôi ({ 2 }) có ({ }) thể ({ }) phục ({ 1 }) vụ ({ 3 }) gì ({ }) cho ({ }) ông ({ 4 }) ? ({ 5 }) 
+# Sentence pair (398) source length 2 target length 2 alignment score : 0.253423
+Yes . 
+NULL ({ }) Ừ ({ 1 }) . ({ 2 }) 
+# Sentence pair (399) source length 10 target length 10 alignment score : 5.71697e-10
+Take me to the Bank of China , please . 
+NULL ({ 8 }) Vui ({ 1 }) lòng ({ }) đưa ({ }) tôi ({ 2 }) đến ({ 3 }) ngân ({ 4 5 }) hàng ({ 6 }) Trung ({ 7 }) Hoa ({ 9 }) . ({ 10 }) 
+# Sentence pair (400) source length 15 target length 11 alignment score : 2.2155e-12
+Do you mean the Bank of China on the Bund ? 
+NULL ({ 2 }) Ông ({ 1 }) muốn ({ }) nói ({ 3 }) đến ({ }) ngân ({ 4 5 }) hàng ({ 6 }) Trung ({ 7 }) Hoa ({ }) nằm ({ }) trên ({ 8 }) đường ({ 9 }) Bund ({ 10 }) phải ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (401) source length 5 target length 6 alignment score : 1.43501e-05
+Yes , that &apos;s right . 
+NULL ({ }) Ừ ({ 1 }) , ({ 2 }) đúng ({ 3 }) rồi ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (402) source length 3 target length 1 alignment score : 0.00789444
+O.K. 
+NULL ({ }) Dạ ({ 1 }) được ({ }) . ({ }) 
+# Sentence pair (403) source length 6 target length 5 alignment score : 9.67814e-06
+Get in , please . 
+NULL ({ }) Xin ({ 1 }) mời ({ 2 }) ông ({ 3 }) lên ({ 4 }) xe ({ }) . ({ 5 }) 
+# Sentence pair (404) source length 3 target length 5 alignment score : 3.34191e-06
+Good morning , madam . 
+NULL ({ }) Chào ({ 1 }) bà ({ 2 3 4 }) . ({ 5 }) 
+# Sentence pair (405) source length 11 target length 9 alignment score : 2.05159e-09
+Would you like to go someplace by taxi ? 
+NULL ({ }) Bà ({ 1 }) có ({ 2 }) muốn ({ 3 4 }) đi ({ 5 }) đâu ({ 6 }) đó ({ }) bằng ({ 7 }) tắc ({ }) xi ({ 8 }) không ({ }) ? ({ 9 }) 
+# Sentence pair (406) source length 8 target length 10 alignment score : 1.15853e-10
+I want to go to the General Post Office . 
+NULL ({ }) Tôi ({ 1 }) muốn ({ 2 3 }) đi ({ 4 }) đến ({ 5 }) bưu ({ }) điện ({ 6 }) chính ({ 7 8 9 }) . ({ 10 }) 
+# Sentence pair (407) source length 5 target length 6 alignment score : 2.98495e-08
+Is it far from here ? 
+NULL ({ }) Nó ({ 1 }) có ({ }) xa ({ 2 3 4 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (408) source length 11 target length 10 alignment score : 7.13656e-10
+Oh , it &apos;s only about twenty minutes drive . 
+NULL ({ 4 }) Ồ ({ 1 }) , ({ 2 }) đi ({ }) xe ({ }) mất ({ 3 }) chỉ ({ 5 }) khoảng ({ }) 20 ({ 6 7 }) phút ({ 8 }) thôi ({ 9 }) . ({ 10 }) 
+# Sentence pair (409) source length 3 target length 4 alignment score : 8.09232e-05
+That &apos;s fine . 
+NULL ({ }) Được ({ 1 }) lắm ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (410) source length 5 target length 5 alignment score : 1.88636e-05
+Get in , please . 
+NULL ({ }) Xin ({ 1 }) mời ({ 2 }) lên ({ 3 4 }) xe ({ }) . ({ 5 }) 
+# Sentence pair (411) source length 8 target length 8 alignment score : 3.0413e-06
+Let me help you with your suitcase . 
+NULL ({ }) Để ({ 1 }) tôi ({ 2 }) giúp ({ 3 }) ông ({ 4 }) mang ({ 5 }) va ({ }) ly ({ 6 7 }) . ({ 8 }) 
+# Sentence pair (412) source length 8 target length 9 alignment score : 1.30167e-12
+How many pieces of luggage do you have ? 
+NULL ({ 7 }) Ông ({ 1 }) có ({ }) bao ({ 2 }) nhiêu ({ 3 }) túi ({ 4 }) hành ({ }) lý ({ 5 6 8 }) ? ({ 9 }) 
+# Sentence pair (413) source length 12 target length 9 alignment score : 5.1371e-09
+Shall we put the suitcase in the trunk ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) để ({ }) va ({ 3 4 }) li ({ 5 }) trong ({ 6 }) khoang ({ }) phía ({ 7 }) sau ({ 8 }) xe ({ }) nhé ({ }) ? ({ 9 }) 
+# Sentence pair (414) source length 13 target length 10 alignment score : 1.46427e-11
+This big box can &apos;t fit in the trunk . 
+NULL ({ }) Cái ({ 1 }) thùng ({ }) lớn ({ 2 }) này ({ 3 }) không ({ }) thể ({ 4 5 }) vừa ({ 6 }) với ({ }) khoang ({ 7 }) phía ({ 8 }) sau ({ 9 }) xe ({ }) . ({ 10 }) 
+# Sentence pair (415) source length 13 target length 9 alignment score : 2.05757e-11
+Can I put it on the back seat ? 
+NULL ({ 6 }) Tôi ({ }) có ({ }) thể ({ 1 2 }) đặt ({ 3 }) nó ({ 4 }) trên ({ 5 }) băng ({ 7 }) ghế ({ 8 }) phía ({ }) sau ({ }) được ({ }) không ({ }) ? ({ 9 }) 
+# Sentence pair (416) source length 8 target length 6 alignment score : 3.25321e-05
+This suitcase is quite heavy . 
+NULL ({ }) Cái ({ 1 }) va ({ }) li ({ 2 }) này ({ 3 }) khá ({ 4 }) nặng ({ 5 }) đấy ({ }) . ({ 6 }) 
+# Sentence pair (417) source length 7 target length 7 alignment score : 8.8611e-09
+Let me help you with it . 
+NULL ({ }) Để ({ 1 }) tôi ({ 2 }) mang ({ 5 }) nó ({ 6 }) giúp ({ 3 }) ông ({ 4 }) . ({ 7 }) 
+# Sentence pair (418) source length 6 target length 5 alignment score : 0.0011503
+Thank you very much . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) anh ({ 2 }) rất ({ 3 }) nhiều ({ 4 }) . ({ 5 }) 
+# Sentence pair (419) source length 8 target length 6 alignment score : 2.6549e-07
+Where shall we put it ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 3 }) sẽ ({ }) đặt ({ 4 }) nó ({ 5 }) ở ({ }) đâu ({ }) ? ({ 6 }) 
+# Sentence pair (420) source length 15 target length 13 alignment score : 2.21591e-13
+I &apos;m afraid it &apos;s too big to go into the trunk . 
+NULL ({ 8 }) Tôi ({ 1 }) e ({ 2 }) là ({ 3 }) nó ({ 4 }) quá ({ 5 6 }) lớn ({ 7 }) không ({ }) thể ({ }) đưa ({ 9 }) vào ({ }) khoang ({ 10 }) phía ({ 11 }) sau ({ 12 }) xe ({ }) . ({ 13 }) 
+# Sentence pair (421) source length 16 target length 15 alignment score : 1.0324e-14
+( B tries to push the suitcase into the trunk but in vain . ) 
+NULL ({ 4 }) ( ({ 1 }) B ({ 2 }) cố ({ 3 }) đẩy ({ 5 }) cái ({ }) va ({ 6 }) li ({ 7 }) vào ({ }) khoang ({ 8 }) phía ({ 9 }) sau ({ 10 }) xe ({ 12 }) nhưng ({ 11 }) vô ({ 13 }) ích ({ 14 }) ) ({ 15 }) 
+# Sentence pair (422) source length 8 target length 8 alignment score : 5.44238e-11
+Why not try putting it this way ? 
+NULL ({ 5 }) Tại ({ 1 }) sao ({ 2 }) không ({ }) đặt ({ }) nó ({ }) kiểu ({ 3 4 7 }) này ({ 6 }) ? ({ 8 }) 
+# Sentence pair (423) source length 7 target length 7 alignment score : 4.65137e-08
+( A makes a gesture . ) 
+NULL ({ 4 }) ( ({ 1 }) A ({ 2 }) làm ({ }) một ({ }) động ({ 3 }) tác ({ 5 6 }) ) ({ 7 }) 
+# Sentence pair (424) source length 6 target length 7 alignment score : 2.31784e-07
+Ah , it goes in nicely . 
+NULL ({ }) À ({ 1 }) , ({ 2 }) nó ({ 3 }) vừa ({ 4 5 }) rồi ({ 6 }) . ({ 7 }) 
+# Sentence pair (425) source length 3 target length 2 alignment score : 0.0571859
+Thanks . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) . ({ 2 }) 
+# Sentence pair (426) source length 13 target length 9 alignment score : 4.90525e-10
+There &apos;s still some room for your handbag . 
+NULL ({ 2 }) Vẫn ({ 1 }) còn ({ 3 }) một ({ }) vài ({ 4 }) chỗ ({ }) dành ({ 5 }) cho ({ 6 }) túi ({ }) xách ({ 7 }) của ({ }) ông ({ }) đấy ({ 8 }) . ({ 9 }) 
+# Sentence pair (427) source length 11 target length 10 alignment score : 3.53806e-11
+Oh no , I prefer to carry it myself . 
+NULL ({ 6 }) Ồ ({ 1 }) không ({ 2 }) , ({ 3 }) tôi ({ 4 }) thích ({ 5 }) mang ({ 7 }) nó ({ 8 }) bên ({ }) mình ({ 9 }) hơn ({ }) . ({ 10 }) 
+# Sentence pair (428) source length 6 target length 6 alignment score : 3.09044e-07
+Do you have any luggage ? 
+NULL ({ 2 }) Ông ({ 1 }) có ({ 3 }) hành ({ 4 }) lý ({ 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (429) source length 10 target length 7 alignment score : 2.47498e-08
+Yes , I &apos;ve got some . 
+NULL ({ }) Có ({ }) chứ ({ 1 }) , ({ 2 }) tôi ({ 3 }) có ({ }) một ({ }) vài ({ 4 }) hành ({ 5 }) lý ({ 6 }) . ({ 7 }) 
+# Sentence pair (430) source length 4 target length 3 alignment score : 0.0435814
+( Pointing ) 
+NULL ({ }) ( ({ 1 }) Chỉ ({ 2 }) tay ({ }) ) ({ 3 }) 
+# Sentence pair (431) source length 5 target length 3 alignment score : 0.00244844
+Over there . 
+NULL ({ }) Ở ({ 1 }) đằng ({ }) kia ({ 2 }) kìa ({ }) . ({ 3 }) 
+# Sentence pair (432) source length 7 target length 7 alignment score : 1.20451e-10
+How many pieces do you have ? 
+NULL ({ 5 }) Ông ({ 1 }) có ({ }) bao ({ }) nhiêu ({ }) hành ({ 2 }) lý ({ 3 4 6 }) ? ({ 7 }) 
+# Sentence pair (433) source length 13 target length 9 alignment score : 1.90353e-06
+Altogether two : one suitcase and one box . 
+NULL ({ }) Cả ({ 1 }) thẩy ({ 2 }) là ({ }) hai ({ }) cái ({ }) : ({ 3 }) 1 ({ 4 }) va ({ }) li ({ 5 }) và ({ 6 }) 1 ({ 7 }) thùng ({ 8 }) . ({ 9 }) 
+# Sentence pair (434) source length 13 target length 9 alignment score : 2.86076e-08
+Shall we put the suitcase in the trunk ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) sẽ ({ }) đặt ({ 3 }) va ({ 4 }) li ({ 5 }) trong ({ 6 }) khoang ({ }) phía ({ 7 }) sau ({ 8 }) xe ({ }) chứ ({ }) ? ({ 9 }) 
+# Sentence pair (435) source length 16 target length 12 alignment score : 1.78407e-13
+I wonder whether the box can fit in there , too . 
+NULL ({ 10 }) Tôi ({ 1 }) tự ({ 2 }) hỏi ({ 3 }) không ({ }) biết ({ }) cái ({ 4 }) thùng ({ 5 }) này ({ }) có ({ }) thể ({ 6 }) vừa ({ 7 }) vào ({ 8 }) đó ({ 9 }) hay ({ 11 }) không ({ }) ? ({ 12 }) 
+# Sentence pair (436) source length 6 target length 5 alignment score : 0.00154064
+I &apos;m afraid not . 
+NULL ({ }) Tôi ({ 1 }) e ({ 2 }) rằng ({ 3 }) là ({ 4 }) không ({ }) . ({ 5 }) 
+# Sentence pair (437) source length 12 target length 12 alignment score : 3.25427e-19
+Is it ok if I put it on the back seat ? 
+NULL ({ 2 }) Tôi ({ 5 }) đặt ({ 6 }) nó ({ 7 }) trên ({ 8 }) băng ({ 1 3 }) ghế ({ 4 11 }) phía ({ 9 }) sau ({ 10 }) có ({ }) được ({ }) không ({ }) ? ({ 12 }) 
+# Sentence pair (438) source length 4 target length 5 alignment score : 0.000249051
+If it will fit . 
+NULL ({ }) Nếu ({ 1 }) nó ({ 2 }) vừa ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (439) source length 6 target length 8 alignment score : 1.04686e-09
+My car is running out of gas . 
+NULL ({ }) Xe ({ 1 }) tôi ({ }) sắp ({ 2 3 4 5 }) hết ({ 6 }) xăng ({ 7 }) . ({ 8 }) 
+# Sentence pair (440) source length 7 target length 9 alignment score : 4.07688e-08
+I have to go and refill my car . 
+NULL ({ }) Tôi ({ 1 }) phải ({ 2 3 }) đi ({ 4 }) đổ ({ 5 6 }) đầy ({ 7 }) xăng ({ 8 }) . ({ 9 }) 
+# Sentence pair (441) source length 13 target length 12 alignment score : 5.20642e-09
+Do you mind if I go to a gas station first ? 
+NULL ({ }) Ông ({ 1 }) có ({ 2 }) phiền ({ 3 }) nếu ({ 4 }) tôi ({ 5 }) đi ({ 6 }) đến ({ 7 }) trạm ({ 8 }) xăng ({ 9 }) dầu ({ 10 }) trước ({ 11 }) không ({ }) ? ({ 12 }) 
+# Sentence pair (442) source length 12 target length 11 alignment score : 8.23506e-12
+Could you stop at a post office for a while ? 
+NULL ({ 5 }) Anh ({ 1 }) có ({ 2 }) thể ({ }) dừng ({ 3 }) ở ({ 4 }) bưu ({ 6 }) điện ({ 7 }) một ({ 8 9 }) lát ({ 10 }) được ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (443) source length 7 target length 9 alignment score : 7.10525e-15
+How long do you think it will take ? 
+NULL ({ 4 6 }) Anh ({ 1 }) nghĩ ({ 5 }) sẽ ({ 7 }) mất ({ 8 }) bao ({ 3 }) lâu ({ 2 }) ? ({ 9 }) 
+# Sentence pair (444) source length 13 target length 12 alignment score : 1.93158e-11
+Do you mind if I go to a gas station first ? 
+NULL ({ 2 }) Anh ({ 1 }) không ({ }) phiền ({ 3 }) gì ({ }) nếu ({ 4 }) tôi ({ 5 }) đi ({ 6 }) đến ({ 7 }) trạm ({ 8 }) xăng ({ 9 }) trước ({ 10 }) chứ ({ 11 }) ? ({ 12 }) 
+# Sentence pair (445) source length 5 target length 4 alignment score : 0.000429243
+Of course not . 
+NULL ({ }) Dĩ ({ 1 }) nhiên ({ 2 }) là ({ 3 }) không ({ }) . ({ 4 }) 
+# Sentence pair (446) source length 14 target length 13 alignment score : 9.87323e-12
+Well , you see , my car &apos;s running out of gas . 
+NULL ({ }) Chà ({ 1 }) , ({ 2 }) anh ({ 3 }) biết ({ }) đấy ({ 4 }) , ({ 5 }) xe ({ 6 7 }) của ({ 8 }) tôi ({ }) sắp ({ 9 10 }) hết ({ 11 }) xăng ({ 12 }) rồi ({ }) . ({ 13 }) 
+# Sentence pair (447) source length 10 target length 9 alignment score : 8.61952e-10
+I &apos;ve to go and refill my car . 
+NULL ({ }) Tôi ({ 1 }) phải ({ 2 3 }) đi ({ 4 }) đổ ({ 5 }) xăng ({ 6 }) cho ({ }) xe ({ 7 8 }) của ({ }) tôi ({ }) . ({ 9 }) 
+# Sentence pair (448) source length 10 target length 5 alignment score : 3.52277e-07
+Will it take long ? 
+NULL ({ }) Việc ({ 1 }) ấy ({ }) sẽ ({ }) mất ({ 2 3 }) thời ({ }) gian ({ }) lâu ({ 4 }) phải ({ }) không ({ }) ? ({ 5 }) 
+# Sentence pair (449) source length 7 target length 9 alignment score : 1.49233e-13
+No , I don ’ t think so . 
+NULL ({ 7 }) Không ({ 1 }) , ({ 2 }) tôi ({ 3 }) không ({ 4 }) nghĩ ({ }) thế ({ 5 6 8 }) . ({ 9 }) 
+# Sentence pair (450) source length 12 target length 11 alignment score : 1.22043e-11
+I &apos;ll just stop at a station on the way . 
+NULL ({ }) Tôi ({ 1 }) chỉ ({ 2 3 }) dừng ({ 4 }) lại ({ }) ở ({ 5 }) một ({ 6 }) trạm ({ 7 }) xăng ({ }) trên ({ 8 }) đường ({ 9 10 }) đi ({ }) . ({ 11 }) 
+# Sentence pair (451) source length 3 target length 1 alignment score : 0.000298841
+0.K. 
+NULL ({ }) Được ({ }) rồi ({ 1 }) . ({ }) 
+# Sentence pair (452) source length 3 target length 3 alignment score : 0.0692556
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) . ({ 3 }) 
+# Sentence pair (453) source length 11 target length 11 alignment score : 1.26578e-13
+But when do you need to be at your destination ? 
+NULL ({ }) Nhưng ({ 1 }) anh ({ }) cần ({ 2 3 }) có ({ 4 }) mặt ({ 5 }) ở ({ }) điểm ({ }) đến ({ 6 }) lúc ({ 7 8 }) nào ({ 9 10 }) ? ({ 11 }) 
+# Sentence pair (454) source length 10 target length 9 alignment score : 1.05125e-11
+Do you make it in half an hour ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) thể ({ 3 }) thu ({ }) xếp ({ 4 }) trong ({ 5 }) nửa ({ 6 7 8 }) giờ ({ }) không ({ }) ? ({ 9 }) 
+# Sentence pair (455) source length 7 target length 3 alignment score : 0.000692859
+No problem . 
+NULL ({ }) Không ({ 1 }) có ({ }) vấn ({ }) đề ({ 2 }) gì ({ }) cả ({ }) . ({ 3 }) 
+# Sentence pair (456) source length 16 target length 12 alignment score : 9.18562e-12
+Could you please stop at a post office on the way ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) thể ({ }) vui ({ 3 }) lòng ({ }) dừng ({ 4 }) lại ({ }) ở ({ 5 }) một ({ 6 }) bưu ({ 7 }) điện ({ 8 }) trên ({ 9 }) đường ({ 10 11 }) đi ({ }) không ({ }) ? ({ 12 }) 
+# Sentence pair (457) source length 5 target length 2 alignment score : 0.0219419
+Sure . 
+NULL ({ }) Chắc ({ }) chắn ({ 1 }) là ({ }) được ({ }) . ({ 2 }) 
+# Sentence pair (458) source length 10 target length 11 alignment score : 3.14357e-18
+Which post office would you like me to stop at ? 
+NULL ({ 5 8 }) Anh ({ 1 }) muốn ({ 6 }) tôi ({ 7 }) dừng ({ 9 }) lại ({ }) ở ({ 10 }) bưu ({ 2 }) điện ({ 3 }) nào ({ 4 }) ? ({ 11 }) 
+# Sentence pair (459) source length 19 target length 14 alignment score : 3.30675e-14
+Any post office so long as I can send a letter by air-mail . 
+NULL ({ }) Bất ({ 1 }) kỳ ({ }) bưu ({ 2 }) điện ({ 3 }) nào ({ }) miễn ({ 4 5 6 }) là ({ }) tôi ({ 7 }) có ({ }) thể ({ 8 }) gửi ({ 9 }) 1 ({ 10 }) lá ({ }) thư ({ 11 }) bằng ({ 12 }) đường ({ }) hàng ({ 13 }) không ({ }) . ({ 14 }) 
+# Sentence pair (460) source length 3 target length 1 alignment score : 0.000748147
+O.K. 
+NULL ({ }) Được ({ }) rồi ({ }) . ({ 1 }) 
+# Sentence pair (461) source length 13 target length 12 alignment score : 7.11491e-18
+( B stops his car in front of a post office ) 
+NULL ({ }) ( ({ 1 }) B ({ 2 }) dừng ({ }) lại ({ }) xe ({ 5 6 }) ở ({ }) phía ({ 7 8 }) truớc ({ 3 4 }) một ({ 9 }) bưu ({ 10 }) điện ({ 11 }) ) ({ 12 }) . ({ }) 
+# Sentence pair (462) source length 11 target length 13 alignment score : 8.2385e-22
+How long do you think it will take you to do that ? 
+NULL ({ 4 5 6 9 }) Anh ({ 1 }) sẽ ({ 7 }) mất ({ 8 }) bao ({ 3 }) lâu ({ 2 }) để ({ 10 }) làm ({ 11 }) công ({ 12 }) việc ({ }) đó ({ }) ? ({ 13 }) 
+# Sentence pair (463) source length 5 target length 3 alignment score : 0.00454225
+It depends . 
+NULL ({ }) Cái ({ 1 }) đó ({ }) còn ({ }) tùy ({ 2 }) . ({ 3 }) 
+# Sentence pair (464) source length 11 target length 11 alignment score : 1.48503e-11
+But I don &apos;t think it &apos;ll take me long . 
+NULL ({ 6 }) Nhưng ({ 1 }) tôi ({ 2 }) không ({ 3 4 }) nghĩ ({ 5 }) sẽ ({ 7 }) mất ({ 8 }) nhiều ({ 9 }) thời ({ }) gian ({ 10 }) đâu ({ }) . ({ 11 }) 
+# Sentence pair (465) source length 4 target length 4 alignment score : 0.0330557
+Take your time . 
+NULL ({ }) Cứ ({ 1 }) thong ({ 2 }) thả ({ 3 }) . ({ 4 }) 
+# Sentence pair (466) source length 8 target length 8 alignment score : 7.00026e-06
+I &apos;ll park my car over there . 
+NULL ({ }) Tôi ({ 1 }) sẽ ({ 2 }) đậu ({ 3 }) xe ({ 4 5 }) ở ({ }) đằng ({ 6 }) kia ({ 7 }) . ({ 8 }) 
+# Sentence pair (467) source length 3 target length 3 alignment score : 0.000462
+All right ? 
+NULL ({ }) Được ({ 1 }) không ({ 2 }) ? ({ 3 }) 
+# Sentence pair (468) source length 2 target length 1 alignment score : 0.00194432
+O.K. 
+NULL ({ }) Được ({ }) . ({ 1 }) 
+# Sentence pair (469) source length 4 target length 3 alignment score : 0.0344232
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ }) anh ({ 2 }) . ({ 3 }) 
+# Sentence pair (470) source length 12 target length 11 alignment score : 9.68833e-13
+I wonder if you can stop here for a minute . 
+NULL ({ }) Liệu ({ 1 2 3 }) anh ({ 4 }) có ({ }) thể ({ 5 }) dừng ({ 6 }) ở ({ }) đây ({ 7 }) một ({ 8 9 }) lát ({ 10 }) hay ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (471) source length 9 target length 10 alignment score : 2.7327e-08
+I &apos;d like to take a few photos here . 
+NULL ({ 4 }) Tôi ({ 1 }) muốn ({ 2 3 }) chụp ({ 5 }) một ({ 6 }) ít ({ 7 }) ảnh ({ 8 }) ở ({ }) đây ({ 9 }) . ({ 10 }) 
+# Sentence pair (472) source length 11 target length 8 alignment score : 1.5044e-06
+Sorry , we can &apos;t stop here . 
+NULL ({ }) Rất ({ 1 }) tiếc ({ }) , ({ 2 }) chúng ({ }) ta ({ 3 }) không ({ }) thể ({ 4 5 }) dừng ({ 6 }) ở ({ }) đây ({ 7 }) . ({ 8 }) 
+# Sentence pair (473) source length 15 target length 12 alignment score : 7.47196e-12
+There &apos;s ‘ No Parking ’ sign in front of us . 
+NULL ({ }) Có ({ 1 }) một ({ }) tấm ({ 2 }) biển ({ 3 }) &quot; ({ 4 }) Cấm ({ 5 }) đỗ ({ 6 7 }) xe ({ 8 }) &quot; ({ 9 }) ở ({ }) phía ({ 10 }) trước ({ }) chúng ({ 11 }) ta ({ }) . ({ 12 }) 
+# Sentence pair (474) source length 11 target length 10 alignment score : 1.99139e-08
+I think there &apos;s a parking lot over there . 
+NULL ({ 4 }) Tôi ({ 1 }) nghĩ ({ 2 }) có ({ 3 }) một ({ 5 }) băi ({ 6 }) đậu ({ 7 }) xe ({ }) ở ({ }) đằng ({ 8 }) kia ({ 9 }) . ({ 10 }) 
+# Sentence pair (475) source length 12 target length 11 alignment score : 1.51247e-12
+I wonder if you can stop here for a minute . 
+NULL ({ }) Liệu ({ 1 2 3 }) anh ({ 4 }) có ({ }) thể ({ 5 }) dừng ({ 6 }) ở ({ }) đây ({ 7 }) một ({ 8 9 }) lát ({ 10 }) được ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (476) source length 10 target length 8 alignment score : 5.94303e-07
+Sorry , we can &apos;t stop here . 
+NULL ({ }) Rất ({ 1 }) tiếc ({ 2 }) chúng ({ }) ta ({ 3 }) không ({ }) thể ({ 4 5 }) dừng ({ 6 }) ở ({ }) đây ({ 7 }) . ({ 8 }) 
+# Sentence pair (477) source length 12 target length 12 alignment score : 6.94373e-10
+Oh , I &apos;d like to take a few photos here . 
+NULL ({ 6 }) Ồ ({ 1 }) , ({ 2 }) tôi ({ 3 }) muốn ({ 4 5 }) chụp ({ 7 }) một ({ 8 }) vài ({ }) tấm ({ 9 }) ảnh ({ 10 }) ở ({ }) đây ({ 11 }) . ({ 12 }) 
+# Sentence pair (478) source length 5 target length 6 alignment score : 2.82436e-07
+Just for a little while . 
+NULL ({ }) Chỉ ({ 1 }) một ({ 2 3 }) lát ({ }) thôi ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (479) source length 16 target length 15 alignment score : 6.3298e-14
+Look , there &apos;s a ‘ No Parking ’ sign in front of us . 
+NULL ({ 4 }) Nhìn ({ 1 }) kìa ({ }) , ({ 2 }) có ({ 3 }) một ({ 5 }) biển ({ 6 }) “ ({ 7 }) Cấm ({ 8 }) đỗ ({ 9 10 }) xe ({ 11 }) &quot; ({ 12 }) phía ({ 13 }) trước ({ }) chúng ({ 14 }) ta ({ }) . ({ 15 }) 
+# Sentence pair (480) source length 18 target length 8 alignment score : 1.15667e-11
+Can we park somewhere around here then ? 
+NULL ({ }) Thế ({ 1 }) thì ({ }) chúng ({ }) ta ({ 2 }) có ({ }) thể ({ }) đỗ ({ }) xe ({ }) ở ({ }) một ({ }) nơi ({ 3 4 }) nào ({ }) đó ({ }) quanh ({ 5 }) đây ({ 6 }) được ({ 7 }) không ({ }) ? ({ 8 }) 
+# Sentence pair (481) source length 5 target length 4 alignment score : 0.000388379
+Let &apos;s try . 
+NULL ({ }) Ta ({ 1 }) thử ({ 2 3 }) xem ({ }) sao ({ }) . ({ 4 }) 
+# Sentence pair (482) source length 12 target length 9 alignment score : 8.51949e-08
+But you &apos;ll have to walk back here . 
+NULL ({ }) Nhưng ({ 1 }) anh ({ 2 }) sẽ ({ 3 }) phải ({ 4 5 }) đi ({ }) bộ ({ 6 }) ngược ({ }) trở ({ 7 }) lại ({ }) đây ({ 8 }) đấy ({ }) . ({ 9 }) 
+# Sentence pair (483) source length 5 target length 3 alignment score : 0.00285463
+No problem . 
+NULL ({ }) Không ({ 1 }) thành ({ }) vấn ({ }) đề ({ 2 }) . ({ 3 }) 
+# Sentence pair (484) source length 3 target length 3 alignment score : 0.101445
+( Pointing ) 
+NULL ({ }) ( ({ 1 }) Chỉ ({ 2 }) ) ({ 3 }) 
+# Sentence pair (485) source length 18 target length 15 alignment score : 2.26289e-19
+Excuse me , is that a free market , the one across the street ? 
+NULL ({ 6 9 10 }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 3 }) đó ({ }) có ({ }) phải ({ }) là ({ 4 }) một ({ }) khu ({ 5 7 8 }) chợ ({ 11 }) tự ({ }) do ({ 12 }) ở ({ 13 }) bên ({ 14 }) kia ({ }) đường ({ }) không ({ }) ? ({ 15 }) 
+# Sentence pair (486) source length 4 target length 4 alignment score : 0.00507675
+I guess so . 
+NULL ({ }) Tôi ({ 1 }) đoán ({ 2 }) vậy ({ 3 }) . ({ 4 }) 
+# Sentence pair (487) source length 10 target length 9 alignment score : 2.52008e-11
+Will you please stop here for a while ? 
+NULL ({ 2 }) Làm ({ 1 3 }) ơn ({ }) dừng ({ 4 }) ở ({ }) đây ({ 5 }) một ({ 6 7 }) lát ({ 8 }) được ({ }) không ({ }) ? ({ 9 }) 
+# Sentence pair (488) source length 6 target length 10 alignment score : 8.62127e-13
+I &apos;d like to go and have a look . 
+NULL ({ 8 }) Tôi ({ 1 }) muốn ({ 2 3 }) đi ({ 4 5 }) tham ({ 6 }) quan ({ 7 9 }) . ({ 10 }) 
+# Sentence pair (489) source length 10 target length 8 alignment score : 5.94303e-07
+Sorry , we can &apos;t stop here . 
+NULL ({ }) Rất ({ 1 }) tiếc ({ 2 }) chúng ({ }) ta ({ 3 }) không ({ }) thể ({ 4 5 }) dừng ({ 6 }) ở ({ }) đây ({ 7 }) . ({ 8 }) 
+# Sentence pair (490) source length 16 target length 12 alignment score : 1.16895e-12
+Is there a parking lot around here where you can park ? 
+NULL ({ 3 }) Có ({ 1 }) bãi ({ 2 }) đậu ({ 4 5 }) xe ({ }) nào ({ }) ở ({ }) quanh ({ 6 }) đây ({ 7 }) mà ({ 8 }) anh ({ 9 }) ta ({ }) có ({ }) thể ({ 10 }) đậu ({ 11 }) không ({ }) ? ({ 12 }) 
+# Sentence pair (491) source length 9 target length 8 alignment score : 2.3881e-07
+I think there &apos;s one over there . 
+NULL ({ 4 }) Tôi ({ 1 }) nghĩ ({ 2 }) có ({ 3 }) một ({ }) bãi ({ 5 }) ở ({ }) đằng ({ 6 }) kia ({ 7 }) . ({ 8 }) 
+# Sentence pair (492) source length 7 target length 9 alignment score : 4.06474e-14
+We &apos;ve got stuck in a traffic jam . 
+NULL ({ 6 }) Chúng ({ 1 }) ta ({ }) đã ({ 2 }) bị ({ 3 }) kẹt ({ 4 7 8 }) xe ({ 5 }) . ({ 9 }) 
+# Sentence pair (493) source length 14 target length 13 alignment score : 2.34402e-12
+The traffic is always very bad at this time of the day . 
+NULL ({ }) Việc ({ 1 }) đi ({ }) lại ({ 2 }) luôn ({ 3 }) luôn ({ 4 }) khó ({ 5 }) khăn ({ 6 7 }) vào ({ 8 }) thời ({ 9 }) điểm ({ 10 }) này ({ 11 }) trong ({ }) ngày ({ 12 }) . ({ 13 }) 
+# Sentence pair (494) source length 9 target length 6 alignment score : 3.54738e-07
+Can we make a detour ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) có ({ }) thể ({ 3 }) đi ({ 4 }) đường ({ }) vòng ({ 5 }) không ({ }) ? ({ 6 }) 
+# Sentence pair (495) source length 4 target length 4 alignment score : 6.47127e-05
+What bad luck ! 
+NULL ({ }) Đen ({ 1 2 }) thật ({ 3 }) đó ({ }) ! ({ 4 }) 
+# Sentence pair (496) source length 16 target length 10 alignment score : 4.07922e-10
+Can we manage to get there in an hour ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) có ({ }) thể ({ }) xoay ({ 3 }) sở ({ }) để ({ 4 }) đến ({ 5 }) đó ({ 6 }) trong ({ 7 }) một ({ }) giờ ({ 8 }) nữa ({ 9 }) hay ({ }) không ({ }) ? ({ 10 }) 
+# Sentence pair (497) source length 5 target length 5 alignment score : 2.03384e-05
+What &apos;s the matter ? 
+NULL ({ }) Có ({ 1 }) chuyện ({ 2 3 }) gì ({ }) vậy ({ 4 }) ? ({ 5 }) 
+# Sentence pair (498) source length 7 target length 9 alignment score : 4.06474e-14
+We &apos;ve got stuck in a traffic jam . 
+NULL ({ 6 }) Chúng ({ 1 }) ta ({ }) đã ({ 2 }) bị ({ 3 }) kẹt ({ 4 7 8 }) xe ({ 5 }) . ({ 9 }) 
+# Sentence pair (499) source length 3 target length 3 alignment score : 0.125071
+Too bad . 
+NULL ({ }) Quá ({ 1 }) tệ ({ 2 }) . ({ 3 }) 
+# Sentence pair (500) source length 15 target length 13 alignment score : 1.18324e-13
+Is the traffic always so bad at this time of the day ? 
+NULL ({ 2 }) Việc ({ 1 }) đi ({ }) lại ({ 3 }) luôn ({ 4 }) khó ({ 5 }) khăn ({ 6 7 }) vào ({ 8 }) thời ({ 9 }) điểm ({ 10 }) này ({ 11 }) trong ({ }) ngày ({ 12 }) phải ({ }) không ({ }) ? ({ 13 }) 
+# Sentence pair (501) source length 4 target length 3 alignment score : 0.0323833
+Quite often . 
+NULL ({ }) Cũng ({ 1 }) thường ({ }) xuyên ({ 2 }) . ({ 3 }) 
+# Sentence pair (502) source length 10 target length 9 alignment score : 6.49909e-10
+This is the narrowest part of the street . 
+NULL ({ 7 }) Đây ({ 1 }) là ({ 2 }) đoạn ({ 3 4 }) hẹp ({ 5 }) nhất ({ }) của ({ 6 }) con ({ 8 }) đường ({ }) này ({ }) . ({ 9 }) 
+# Sentence pair (503) source length 15 target length 10 alignment score : 2.59725e-13
+In rush hours traffic is usually held up here . 
+NULL ({ }) Trong ({ 1 }) những ({ 2 }) giờ ({ }) cao ({ 3 }) điểm ({ }) , ({ }) giao ({ }) thông ({ 4 }) thường ({ 5 6 }) bị ({ 7 }) tắc ({ }) nghẽn ({ 8 }) ở ({ }) đây ({ 9 }) . ({ 10 }) 
+# Sentence pair (504) source length 11 target length 10 alignment score : 3.98826e-11
+Do you think we &apos;ll be stuck for long ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) nghĩ ({ 3 }) chúng ({ }) ta ({ 4 }) sẽ ({ 5 }) bị ({ }) kẹt ({ 6 7 8 }) lâu ({ 9 }) không ({ }) ? ({ 10 }) 
+# Sentence pair (505) source length 5 target length 3 alignment score : 0.00341917
+Hopefully not . 
+NULL ({ }) Hy ({ 1 }) vọng ({ }) là ({ 2 }) không ({ }) . ({ 3 }) 
+# Sentence pair (506) source length 10 target length 9 alignment score : 6.87201e-10
+The traffic will get moving in a minute . 
+NULL ({ 7 }) Xe ({ 1 }) cộ ({ 2 }) sẽ ({ 3 }) được ({ }) lưu ({ 4 }) thông ({ }) trong ({ }) chốc ({ 5 6 }) lát ({ 8 }) . ({ 9 }) 
+# Sentence pair (507) source length 7 target length 5 alignment score : 9.76302e-07
+We &apos;re held up . 
+NULL ({ }) Chúng ({ 1 }) ta ({ }) đã ({ 2 }) bị ({ 3 }) kẹt ({ 4 }) xe ({ }) . ({ 5 }) 
+# Sentence pair (508) source length 4 target length 4 alignment score : 0.00502572
+What bad luck ! 
+NULL ({ }) Thật ({ 1 }) tệ ({ 2 }) hại ({ 3 }) ! ({ 4 }) 
+# Sentence pair (509) source length 9 target length 7 alignment score : 1.51565e-05
+What &apos;s going on over there ? 
+NULL ({ }) Chuyện ({ 1 }) gì ({ }) đang ({ 2 }) xảy ({ 3 }) ra ({ 4 }) đằng ({ 5 }) đó ({ 6 }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (510) source length 4 target length 5 alignment score : 5.06313e-05
+I don &apos;t know . 
+NULL ({ }) Tôi ({ 1 }) không ({ 2 3 }) biết ({ 4 }) . ({ 5 }) 
+# Sentence pair (511) source length 7 target length 7 alignment score : 0.000219058
+( Looking out of the window ) 
+NULL ({ }) ( ({ 1 }) Nhìn ({ 2 }) ra ({ 3 }) ngoài ({ 4 }) cửa ({ 5 }) sổ ({ 6 }) ) ({ 7 }) 
+# Sentence pair (512) source length 14 target length 13 alignment score : 1.26263e-15
+Ah , yes , the road ’ s blocked for road construction . 
+NULL ({ 2 }) A ({ 1 }) đúng ({ 3 }) rồi ({ }) , ({ 4 }) đường ({ 5 6 }) này ({ }) bị ({ 7 }) tắc ({ 8 }) nghẽn ({ 9 }) là ({ }) do ({ 10 }) làm ({ }) đường ({ 11 12 }) . ({ 13 }) 
+# Sentence pair (513) source length 11 target length 8 alignment score : 5.97496e-09
+There &apos;s a policeman directing the traffic . 
+NULL ({ 2 }) Có ({ 1 }) một ({ 3 }) viên ({ 4 }) cảnh ({ }) sát ({ }) đang ({ }) điều ({ }) khiển ({ 5 }) giao ({ 6 }) thông ({ 7 }) . ({ 8 }) 
+# Sentence pair (514) source length 6 target length 7 alignment score : 5.67054e-08
+But I &apos;m in a hurry . 
+NULL ({ }) Nhưng ({ 1 }) mà ({ }) tôi ({ 2 }) đang ({ 3 }) vội ({ 4 5 6 }) . ({ 7 }) 
+# Sentence pair (515) source length 10 target length 6 alignment score : 2.1407e-07
+Can we make a detour ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) có ({ }) thể ({ 3 }) đi ({ 4 }) đường ({ }) vòng ({ 5 }) được ({ }) không ({ }) ? ({ 6 }) 
+# Sentence pair (516) source length 6 target length 5 alignment score : 0.000517979
+I &apos;m afraid not . 
+NULL ({ }) Tôi ({ 1 }) e ({ 2 }) rằng ({ 3 }) không ({ 4 }) được ({ }) . ({ 5 }) 
+# Sentence pair (517) source length 16 target length 11 alignment score : 3.00444e-16
+You see , we can &apos;t even make a U-turn . 
+NULL ({ 9 }) Anh ({ 1 }) biết ({ }) đấy ({ 2 }) , ({ 3 }) thậm ({ 6 7 }) chí ({ 8 }) chúng ({ }) ta ({ 4 }) còn ({ }) không ({ }) thể ({ 5 }) quay ({ }) xe ({ }) ngược ({ 10 }) lại ({ }) . ({ 11 }) 
+# Sentence pair (518) source length 17 target length 12 alignment score : 1.92089e-10
+Can we manage to get to the airport in an hour ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) có ({ }) thể ({ }) xoay ({ 3 }) sở ({ }) để ({ 4 }) đến ({ 5 6 }) sân ({ 7 }) bay ({ 8 }) trong ({ 9 }) một ({ }) tiếng ({ 10 }) nữa ({ 11 }) được ({ }) không ({ }) ? ({ 12 }) 
+# Sentence pair (519) source length 6 target length 4 alignment score : 0.00261885
+I hope so . 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ 3 }) là ({ }) được ({ }) .. ({ 4 }) 
+# Sentence pair (520) source length 9 target length 6 alignment score : 1.01027e-06
+Anything wrong with your car ? 
+NULL ({ }) Xe ({ 1 }) của ({ }) anh ({ }) bị ({ }) trục ({ 2 3 }) trặc ({ 4 }) gì ({ }) à ({ 5 }) ? ({ 6 }) 
+# Sentence pair (521) source length 7 target length 7 alignment score : 8.38569e-06
+I can &apos;t start the engine . 
+NULL ({ }) Tôi ({ 1 }) không ({ }) thể ({ 2 }) khởi ({ 3 }) động ({ 4 }) máy ({ 5 6 }) . ({ 7 }) 
+# Sentence pair (522) source length 6 target length 7 alignment score : 2.47436e-07
+I &apos;ve got a flat tyre . 
+NULL ({ 4 }) Xe ({ }) tôi ({ 1 }) bị ({ 2 }) xẹp ({ 3 }) bánh ({ 5 6 }) . ({ 7 }) 
+# Sentence pair (523) source length 10 target length 8 alignment score : 1.64637e-10
+Sorry , my car has broken down . 
+NULL ({ }) Rất ({ 1 }) tiếc ({ }) , ({ 2 }) xe ({ 3 4 }) của ({ }) tôi ({ }) vừa ({ }) bị ({ }) hư ({ 5 6 7 }) . ({ 8 }) 
+# Sentence pair (524) source length 14 target length 11 alignment score : 1.36177e-09
+If you can &apos;t wait , please hire another taxi . 
+NULL ({ }) Nếu ({ 1 }) ông ({ 2 }) không ({ }) thể ({ 3 }) đợi ({ 4 5 }) , ({ 6 }) vui ({ 7 }) lòng ({ 8 }) gọi ({ }) xe ({ }) tắc ({ 9 }) xi ({ 10 }) khác ({ }) . ({ 11 }) 
+# Sentence pair (525) source length 7 target length 6 alignment score : 6.01936e-06
+Anything wrong with your car ? 
+NULL ({ }) Xe ({ 1 }) anh ({ }) trục ({ 2 3 }) trặc ({ 4 }) gì ({ }) à ({ 5 }) ? ({ 6 }) 
+# Sentence pair (526) source length 7 target length 7 alignment score : 8.87035e-08
+The engine won &apos;t start again . 
+NULL ({ }) Máy ({ 1 2 }) không ({ 3 }) khởi ({ 4 }) động ({ 5 }) được ({ }) nữa ({ 6 }) . ({ 7 }) 
+# Sentence pair (527) source length 6 target length 5 alignment score : 1.27771e-06
+What shall we do ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 3 }) sẽ ({ }) làm ({ 4 }) gì ({ }) ? ({ 5 }) 
+# Sentence pair (528) source length 14 target length 13 alignment score : 3.45088e-16
+Let me get out and see if I can find the trouble . 
+NULL ({ 11 }) Để ({ 1 }) tôi ({ 2 }) ra ({ 3 4 }) ngoài ({ 5 }) xem ({ 6 7 }) có ({ }) thể ({ 8 9 }) tìm ({ 10 }) ra ({ }) trục ({ }) trặc ({ 12 }) gì ({ }) không ({ }) . ({ 13 }) 
+# Sentence pair (529) source length 6 target length 5 alignment score : 8.40109e-08
+Will it take long ? 
+NULL ({ 2 }) Chắc ({ 1 3 }) lâu ({ 4 }) lắm ({ }) phải ({ }) không ({ }) ? ({ 5 }) 
+# Sentence pair (530) source length 7 target length 8 alignment score : 5.02172e-06
+No , I don &apos;t think so . 
+NULL ({ }) Không ({ 1 }) , ({ 2 }) tôi ({ 3 }) không ({ 4 5 }) nghĩ ({ 6 }) thế ({ 7 }) . ({ 8 }) 
+# Sentence pair (531) source length 18 target length 12 alignment score : 1.84129e-11
+If you really can &apos;t wait , please hire another taxi . 
+NULL ({ }) Nếu ({ 1 }) ông ({ 2 }) thật ({ }) sự ({ 3 }) không ({ }) thể ({ 4 }) chờ ({ 5 6 }) được ({ }) , ({ 7 }) vui ({ 8 }) lòng ({ 9 }) thuê ({ }) một ({ }) chiếc ({ 10 }) tắc ({ }) xi ({ 11 }) khác ({ }) . ({ 12 }) 
+# Sentence pair (532) source length 3 target length 4 alignment score : 4.86229e-06
+It &apos;s OK . 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (533) source length 8 target length 7 alignment score : 6.06304e-11
+We &apos;ve got plenty of time . 
+NULL ({ }) Chúng ({ 1 }) tôi ({ }) còn ({ 2 }) nhiều ({ }) thời ({ }) gian ({ }) mà ({ 3 4 5 6 }) . ({ 7 }) 
+# Sentence pair (534) source length 6 target length 4 alignment score : 2.1728e-06
+What &apos;s wrong ? 
+NULL ({ 2 }) Có ({ 1 }) gì ({ }) trục ({ 3 }) trặc ({ }) vậy ({ }) ? ({ 4 }) 
+# Sentence pair (535) source length 15 target length 12 alignment score : 1.32444e-11
+Sorry , sir , my car seems to have broken down . 
+NULL ({ 8 }) Rất ({ 1 }) tiếc ({ }) , ({ 2 }) thưa ({ 3 }) ông ({ }) , ({ 4 }) xe ({ 5 6 }) của ({ }) tôi ({ }) dường ({ 7 }) như ({ }) đã ({ 9 }) hỏng ({ 10 }) máy ({ 11 }) . ({ 12 }) 
+# Sentence pair (536) source length 7 target length 7 alignment score : 2.71599e-10
+Can you do anything about it ? 
+NULL ({ 2 }) Anh ({ }) có ({ }) thể ({ 1 }) sửa ({ 3 4 }) được ({ 5 }) chứ ({ 6 }) ? ({ 7 }) 
+# Sentence pair (537) source length 6 target length 4 alignment score : 0.00431087
+I hope so . 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) như ({ }) thế ({ 3 }) . ({ 4 }) 
+# Sentence pair (538) source length 7 target length 6 alignment score : 0.000427981
+( B checks the car ) 
+NULL ({ }) ( ({ 1 }) B ({ 2 }) kiểm ({ 3 }) tra ({ }) chiếc ({ 4 }) xe ({ 5 }) ) ({ 6 }) 
+# Sentence pair (539) source length 10 target length 9 alignment score : 1.06098e-06
+Oh , I &apos;ve got a flat tyre . 
+NULL ({ }) Ồ ({ 1 }) , ({ 2 }) xe ({ }) của ({ }) tôi ({ 3 }) bị ({ 4 }) xẹp ({ 5 }) một ({ 6 }) bánh ({ 7 8 }) . ({ 9 }) 
+# Sentence pair (540) source length 8 target length 7 alignment score : 1.35377e-07
+Do you have a spare one ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) lốp ({ 3 }) xe ({ 4 }) dự ({ 5 }) phòng ({ 6 }) không ({ }) ? ({ 7 }) 
+# Sentence pair (541) source length 17 target length 13 alignment score : 6.50569e-13
+No , I &apos;ll have to call a nearby garage for help . 
+NULL ({ }) Không ({ 1 }) , ({ 2 }) tôi ({ 3 }) sẽ ({ 4 }) phải ({ 5 6 }) gọi ({ 7 }) xưởng ({ 8 9 }) sửa ({ }) xe ({ }) gần ({ 10 }) đây ({ }) để ({ }) yêu ({ 11 }) cầu ({ }) giúp ({ 12 }) đỡ ({ }) . ({ 13 }) 
+# Sentence pair (542) source length 8 target length 5 alignment score : 1.63611e-05
+Sorry for the inconvenience . 
+NULL ({ }) Xin ({ 1 }) lỗi ({ }) về ({ 2 }) sự ({ 3 }) phiền ({ }) phức ({ 4 }) này ({ }) . ({ 5 }) 
+# Sentence pair (543) source length 3 target length 3 alignment score : 1.52373e-05
+That &apos;s O.K. 
+NULL ({ }) Được ({ 1 }) rồi ({ 2 }) . ({ 3 }) 
+# Sentence pair (544) source length 4 target length 4 alignment score : 0.0330557
+Take your time . 
+NULL ({ }) Cứ ({ 1 }) thong ({ 2 }) thả ({ 3 }) . ({ 4 }) 
+# Sentence pair (545) source length 10 target length 7 alignment score : 1.718e-05
+What &apos;s going on over there ? 
+NULL ({ }) Chuyện ({ 1 }) gì ({ }) đang ({ 2 }) xảy ({ 3 }) ra ({ 4 }) ở ({ }) đằng ({ 5 }) kia ({ 6 }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (546) source length 9 target length 10 alignment score : 1.68153e-10
+There might have been an accident at the intersection . 
+NULL ({ }) Chắc ({ 1 2 }) là ({ }) có ({ 3 }) tai ({ 4 }) nạn ({ 5 6 }) tại ({ 7 }) giao ({ 8 }) thông ({ 9 }) . ({ 10 }) 
+# Sentence pair (547) source length 13 target length 9 alignment score : 1.38669e-07
+Look , some policemen are directing the traffic . 
+NULL ({ }) Nhìn ({ 1 }) kìa ({ }) , ({ 2 }) một ({ }) vài ({ 3 }) cảnh ({ 4 }) sát ({ }) đang ({ 5 }) điều ({ }) khiển ({ 6 }) giao ({ 7 }) thông ({ 8 }) . ({ 9 }) 
+# Sentence pair (548) source length 8 target length 6 alignment score : 2.84442e-06
+The road ahead is blocked . 
+NULL ({ }) Con ({ 1 }) đường ({ 2 }) phía ({ 3 }) trước ({ }) bị ({ }) tắc ({ 4 }) nghẽn ({ 5 }) . ({ 6 }) 
+# Sentence pair (549) source length 8 target length 7 alignment score : 1.25323e-06
+Is there anyone killed or injured ? 
+NULL ({ }) Có ({ 1 }) ai ({ 2 }) chết ({ 3 4 }) hay ({ 5 }) bị ({ }) thương ({ 6 }) không ({ }) ? ({ 7 }) 
+# Sentence pair (550) source length 9 target length 7 alignment score : 2.74516e-05
+What &apos;s going on over there ? 
+NULL ({ }) Chuyện ({ 1 }) gì ({ }) đang ({ 2 }) xảy ({ 3 }) ra ({ 4 }) đằng ({ 5 }) kia ({ 6 }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (551) source length 4 target length 5 alignment score : 5.44323e-07
+I &apos;ve no idea . 
+NULL ({ }) Tôi ({ 1 }) không ({ }) biết ({ 2 3 4 }) . ({ 5 }) 
+# Sentence pair (552) source length 10 target length 10 alignment score : 6.30681e-09
+There might have been an accident at the intersection . 
+NULL ({ }) Có ({ 1 }) lẽ ({ 2 }) có ({ 3 }) một ({ }) tai ({ 4 }) nạn ({ 5 6 }) ở ({ 7 }) giao ({ 8 }) lộ ({ 9 }) . ({ 10 }) 
+# Sentence pair (553) source length 4 target length 5 alignment score : 3.23545e-05
+That &apos;s too bad . 
+NULL ({ }) Thật ({ 1 }) đáng ({ 2 }) tiếc ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (554) source length 15 target length 15 alignment score : 2.3395e-13
+It seems that quite a few people here don &apos;t observe the traffic regulations . 
+NULL ({ 5 }) Dường ({ 1 2 }) như ({ 3 }) khá ({ 4 }) nhiều ({ 6 }) người ({ 7 }) ở ({ }) đây ({ 8 }) không ({ }) tuân ({ 9 }) theo ({ }) luật ({ 10 }) lệ ({ 11 }) giao ({ 12 }) thông ({ 13 14 }) . ({ 15 }) 
+# Sentence pair (555) source length 3 target length 4 alignment score : 8.49218e-06
+That &apos;s true . 
+NULL ({ 2 }) Đúng ({ 1 }) vậy ({ 3 }) . ({ 4 }) 
+# Sentence pair (556) source length 15 target length 11 alignment score : 9.23696e-15
+So traffic accidents are on the rise in this city . 
+NULL ({ 6 }) Những ({ 1 }) tai ({ 2 }) nạn ({ 3 }) như ({ }) thế ({ }) đang ({ 4 }) trên ({ 5 }) đà ({ 7 }) gia ({ }) tăng ({ 8 }) ở ({ }) thành ({ 9 }) phố ({ 10 }) này ({ }) . ({ 11 }) 
+# Sentence pair (557) source length 13 target length 10 alignment score : 1.32872e-15
+Don &apos;t you think we should take another route ? 
+NULL ({ 2 3 }) Anh ({ 1 }) nghĩ ({ 4 }) chúng ({ }) ta ({ 5 }) có ({ }) nên ({ 6 }) đi ({ }) con ({ 7 8 }) đường ({ }) khác ({ 9 }) được ({ }) không ({ }) ? ({ 10 }) 
+# Sentence pair (558) source length 14 target length 9 alignment score : 1.50647e-07
+Look , some police are directing the traffic . 
+NULL ({ }) Nhìn ({ 1 }) kìa ({ }) , ({ 2 }) có ({ }) một ({ }) vài ({ 3 }) cảnh ({ 4 }) sát ({ }) đang ({ 5 }) điều ({ }) khiển ({ 6 }) giao ({ 7 }) thông ({ 8 }) . ({ 9 }) 
+# Sentence pair (559) source length 11 target length 8 alignment score : 1.19289e-13
+We &apos;ll get moving in a minute . 
+NULL ({ 6 }) Trong ({ 1 }) chốc ({ 2 3 4 5 }) lát ({ 7 }) , ({ }) chúng ({ }) ta ({ }) sẽ ({ }) đi ({ }) được ({ }) thôi ({ }) . ({ 8 }) 
+# Sentence pair (560) source length 5 target length 4 alignment score : 0.0125892
+I hope so . 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) thế ({ 3 }) . ({ 4 }) 
+# Sentence pair (561) source length 5 target length 5 alignment score : 2.03384e-05
+What &apos;s the matter ? 
+NULL ({ }) Có ({ 1 }) chuyện ({ 2 3 }) gì ({ }) vậy ({ 4 }) ? ({ 5 }) 
+# Sentence pair (562) source length 10 target length 9 alignment score : 1.13778e-07
+I guess there is an accident over there . 
+NULL ({ }) Tôi ({ 1 }) đoán ({ 2 }) có ({ 3 }) một ({ }) tai ({ 4 }) nạn ({ 5 6 }) ở ({ }) đằng ({ 7 }) kia ({ 8 }) . ({ 9 }) 
+# Sentence pair (563) source length 7 target length 5 alignment score : 5.96997e-05
+The road is blocked . 
+NULL ({ }) Con ({ 1 }) đường ({ 2 }) đã ({ }) bị ({ }) tắc ({ 3 }) nghẽn ({ 4 }) . ({ 5 }) 
+# Sentence pair (564) source length 3 target length 2 alignment score : 0.0239008
+Really ? 
+NULL ({ }) Thật ({ 1 }) không ({ }) ? ({ 2 }) 
+# Sentence pair (565) source length 4 target length 4 alignment score : 4.38085e-06
+What bad luck ! 
+NULL ({ }) Xui ({ 1 2 3 }) làm ({ }) sao ({ }) ! ({ 4 }) 
+# Sentence pair (566) source length 10 target length 6 alignment score : 1.18258e-05
+Nowadays people drive very carelessly . 
+NULL ({ }) Dạo ({ 1 }) này ({ }) nhiều ({ }) người ({ 2 }) lái ({ 3 }) xe ({ }) rất ({ 4 }) bất ({ 5 }) cẩn ({ }) . ({ 6 }) 
+# Sentence pair (567) source length 16 target length 11 alignment score : 2.5816e-12
+Is there any speed limit for cars in the city ? 
+NULL ({ }) Có ({ 1 }) giới ({ 2 3 }) hạn ({ 4 }) tốc ({ 5 }) độ ({ }) nào ({ }) dành ({ 6 7 }) cho ({ }) xe ({ }) hơi ({ }) trong ({ 8 }) thành ({ 9 }) phố ({ 10 }) này ({ }) không ({ }) ? ({ 11 }) 
+# Sentence pair (568) source length 12 target length 9 alignment score : 3.04504e-06
+Yes , but some people just ignore it . 
+NULL ({ }) Có ({ }) chứ ({ 1 }) , ({ 2 }) nhưng ({ 3 }) một ({ }) vài ({ 4 }) người ({ 5 }) phớt ({ 6 }) lờ ({ 7 }) chuyện ({ }) đó ({ 8 }) . ({ 9 }) 
+# Sentence pair (569) source length 7 target length 7 alignment score : 0.000219058
+( Looking out of the window ) 
+NULL ({ }) ( ({ 1 }) Nhìn ({ 2 }) ra ({ 3 }) ngoài ({ 4 }) cửa ({ 5 }) sổ ({ 6 }) ) ({ 7 }) 
+# Sentence pair (570) source length 8 target length 7 alignment score : 6.75148e-10
+What are those people talking about ? 
+NULL ({ }) Những ({ 1 }) nguời ({ 2 3 4 5 }) kia ({ }) đang ({ }) bàn ({ 6 }) gì ({ }) vậy ({ }) ? ({ 7 }) 
+# Sentence pair (571) source length 14 target length 13 alignment score : 2.7804e-17
+They &apos;re saying there &apos;s been a bad collision at the intersection . 
+NULL ({ }) Họ ({ 1 2 3 4 }) đang ({ 5 }) nói ({ 6 }) có ({ }) một ({ 7 }) vụ ({ 8 }) đụng ({ }) xe ({ }) trầm ({ 9 }) trọng ({ 10 }) ở ({ }) giao ({ 11 }) lộ ({ 12 }) . ({ 13 }) 
+# Sentence pair (572) source length 9 target length 5 alignment score : 3.0238e-06
+Anyone killed or injured ? 
+NULL ({ }) Có ({ }) ai ({ }) bị ({ }) chết ({ 1 2 }) hay ({ 3 }) bị ({ }) thương ({ 4 }) không ({ }) ? ({ 5 }) 
+# Sentence pair (573) source length 6 target length 7 alignment score : 1.65377e-05
+Yes , I do think so . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) nghĩ ({ 4 5 }) thế ({ 6 }) . ({ 7 }) 
+# Sentence pair (574) source length 10 target length 7 alignment score : 1.29534e-08
+Look , here comes an ambulance . 
+NULL ({ 2 }) Nhìn ({ 1 }) kìa ({ 3 }) , ({ }) một ({ }) xe ({ }) cứu ({ 4 }) thương ({ 5 }) tới ({ }) kìa ({ 6 }) . ({ 7 }) 
+# Sentence pair (575) source length 20 target length 13 alignment score : 1.35982e-13
+Excuse me , but can you direct me to the Shanghai Gallery ? 
+NULL ({ 6 }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 3 }) ông ({ 4 }) có ({ }) thể ({ 5 }) chỉ ({ 7 }) cho ({ }) tôi ({ 8 }) đường ({ }) đi ({ }) đến ({ 9 }) phòng ({ 10 }) triển ({ 11 }) lãm ({ 12 }) Thượng ({ }) Hải ({ }) được ({ }) không ({ }) ? ({ 13 }) 
+# Sentence pair (576) source length 16 target length 12 alignment score : 4.33189e-14
+How can I get to the Shanghai Arts and Grafts Store ? 
+NULL ({ }) Tôi ({ }) có ({ 1 }) thể ({ 2 3 }) đến ({ 4 5 }) cửa ({ 6 }) hàng ({ }) thủ ({ 7 }) công ({ 8 }) mỹ ({ 9 }) nghệ ({ 10 }) Thượng ({ }) Hải ({ }) bằng ({ }) cách ({ 11 }) nào ({ }) ? ({ 12 }) 
+# Sentence pair (577) source length 14 target length 13 alignment score : 2.35736e-19
+Go straight on and then take the first turning on the left . 
+NULL ({ 7 }) Hãy ({ 1 }) đi ({ }) thẳng ({ 2 3 }) , ({ }) sau ({ }) đó ({ }) rẽ ({ 9 }) trái ({ 10 }) ở ({ 11 }) chỗ ({ 4 5 }) quẹo ({ 6 }) đầu ({ 8 }) tiên ({ 12 }) . ({ 13 }) 
+# Sentence pair (578) source length 15 target length 11 alignment score : 1.62583e-11
+Walk along this road till you reach the second crossing . 
+NULL ({ 8 }) Hãy ({ 1 }) đi ({ }) dọc ({ 2 }) theo ({ 3 }) đường ({ 4 }) này ({ }) đến ({ }) khi ({ 5 }) bạn ({ 6 }) đụng ({ 7 }) ngã ({ 9 }) tư ({ }) thứ ({ 10 }) hai ({ }) . ({ 11 }) 
+# Sentence pair (579) source length 4 target length 5 alignment score : 1.44806e-06
+It isn &apos;t far . 
+NULL ({ }) Không ({ 1 }) xa ({ 2 }) lắm ({ 3 4 }) . ({ 5 }) 
+# Sentence pair (580) source length 7 target length 6 alignment score : 8.44784e-06
+About five minutes &apos; walk . 
+NULL ({ }) Chỉ ({ 1 }) khoảng ({ }) 5 ({ 2 }) phút ({ 3 }) đi ({ }) bộ ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (581) source length 19 target length 13 alignment score : 2.92441e-13
+Excuse me , but can you direct me to the Shanghai Gallery ? 
+NULL ({ 6 }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 3 }) anh ({ 4 }) có ({ }) thể ({ 5 }) chỉ ({ 7 }) cho ({ }) tôi ({ 8 }) đường ({ }) đi ({ }) đến ({ 9 }) phòng ({ 10 }) triển ({ 11 }) lãm ({ 12 }) Shanghai ({ }) được ({ }) không ({ }) ? ({ 13 }) 
+# Sentence pair (582) source length 16 target length 13 alignment score : 9.85258e-17
+Go straight on and then take the first turning on the left . 
+NULL ({ 7 }) Hãy ({ 1 }) tiếp ({ }) tục ({ 2 }) đi ({ }) thẳng ({ 3 }) và ({ 4 }) sau ({ }) đó ({ }) rẽ ({ 9 }) trái ({ 10 }) ở ({ 11 }) chỗ ({ 5 }) quẹo ({ 6 }) đầu ({ 8 }) tiên ({ 12 }) . ({ 13 }) 
+# Sentence pair (583) source length 12 target length 11 alignment score : 3.15314e-09
+Is there anything notable about the building of the Gallery ? 
+NULL ({ 6 }) Có ({ 1 }) cái ({ 2 }) gì ({ }) nổi ({ 3 }) bật ({ 4 }) về ({ 5 }) tòa ({ 7 }) nhà ({ 8 }) triển ({ 9 }) lãm ({ 10 }) không ({ }) ? ({ 11 }) 
+# Sentence pair (584) source length 3 target length 2 alignment score : 0.0580055
+Yes . 
+NULL ({ }) Có ({ }) chứ ({ 1 }) . ({ 2 }) 
+# Sentence pair (585) source length 8 target length 6 alignment score : 5.85212e-05
+It &apos;s a red building . 
+NULL ({ }) Đó ({ 1 }) là ({ 2 }) một ({ 3 }) tòa ({ }) nhà ({ }) màu ({ 4 }) đỏ ({ 5 }) . ({ 6 }) 
+# Sentence pair (586) source length 8 target length 6 alignment score : 5.046e-09
+You can &apos;t miss it . 
+NULL ({ }) Ông ({ 1 }) không ({ }) thể ({ 2 3 }) nhầm ({ 4 }) lẫn ({ }) đâu ({ 5 }) được ({ }) . ({ 6 }) 
+# Sentence pair (587) source length 3 target length 3 alignment score : 0.0692556
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) . ({ 3 }) 
+# Sentence pair (588) source length 4 target length 4 alignment score : 2.16457e-05
+You &apos;re welcome . 
+NULL ({ }) Không ({ 1 }) có ({ }) chi ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (589) source length 14 target length 10 alignment score : 5.57332e-08
+I hope you &apos;ll enjoy the artistic works there . 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) ông ({ 3 }) sẽ ({ 4 }) thích ({ 5 }) những ({ 6 }) tác ({ 7 }) phẩm ({ }) nghệ ({ }) thuật ({ 8 }) ở ({ }) đó ({ 9 }) . ({ 10 }) 
+# Sentence pair (590) source length 8 target length 6 alignment score : 1.86761e-06
+I &apos;m sure I will . 
+NULL ({ }) Tin ({ 1 }) chắc ({ 2 3 }) rằng ({ }) , ({ }) tôi ({ 4 }) sẽ ({ 5 }) thích ({ }) . ({ 6 }) 
+# Sentence pair (591) source length 20 target length 15 alignment score : 1.58405e-15
+Excuse me , how can I get to the Shanghai Arts and Crafts Store ? 
+NULL ({ }) Xin ({ 1 }) lỗi ({ 2 }) , ({ 3 }) tôi ({ 4 }) có ({ }) thể ({ 5 6 }) đi ({ }) đến ({ 7 8 }) cửa ({ 9 }) hàng ({ }) thủ ({ 10 }) công ({ 11 }) mỹ ({ 12 }) nghệ ({ 13 }) Thượng ({ }) Hải ({ }) bằng ({ }) cách ({ 14 }) nào ({ }) ? ({ 15 }) 
+# Sentence pair (592) source length 18 target length 11 alignment score : 1.29208e-13
+Walk along this road till you reach the second crossing . 
+NULL ({ 8 }) Cứ ({ 1 }) đi ({ }) bộ ({ }) dọc ({ 2 }) theo ({ 3 }) con ({ }) đường ({ 4 }) này ({ }) cho ({ }) đến ({ }) khi ({ 5 }) anh ({ 6 }) đến ({ }) ngã ({ 7 }) tư ({ 9 }) thứ ({ 10 }) 2 ({ }) . ({ 11 }) 
+# Sentence pair (593) source length 5 target length 4 alignment score : 0.00364366
+It &apos;s there . 
+NULL ({ }) Nó ({ 1 }) nằm ({ 2 }) ở ({ }) đó ({ 3 }) . ({ 4 }) 
+# Sentence pair (594) source length 9 target length 10 alignment score : 1.53513e-16
+Which side of the street is the store on ? 
+NULL ({ 4 7 }) Cửa ({ 1 2 5 6 }) hàng ({ 3 }) đó ({ }) nằm ({ 8 }) ở ({ }) mặt ({ 9 }) phố ({ }) nào ({ }) ? ({ 10 }) 
+# Sentence pair (595) source length 11 target length 9 alignment score : 9.51008e-09
+I guess it &apos;s on the left side . 
+NULL ({ }) Tôi ({ 1 }) nghĩ ({ 2 }) rằng ({ }) nó ({ 3 }) nằm ({ 4 }) ở ({ }) mặt ({ 5 }) phố ({ 6 }) bên ({ 7 }) trái ({ 8 }) . ({ 9 }) 
+# Sentence pair (596) source length 6 target length 9 alignment score : 1.47896e-12
+You ’ ve got to cross the road . 
+NULL ({ 5 }) Anh ({ 1 }) phải ({ }) bằng ({ 2 }) qua ({ 3 4 6 }) đường ({ 7 8 }) . ({ 9 }) 
+# Sentence pair (597) source length 7 target length 7 alignment score : 6.30486e-11
+What does the building look like ? 
+NULL ({ 3 }) Tòa ({ 1 2 }) nhà ({ 4 5 }) đó ({ }) như ({ 6 }) thể ({ }) nào ({ }) ? ({ 7 }) 
+# Sentence pair (598) source length 14 target length 11 alignment score : 1.31523e-10
+It &apos;s quite new and has a traditional Chinese style . 
+NULL ({ 2 }) Nó ({ 1 }) khá ({ 3 }) mới ({ 4 }) và ({ 5 }) có ({ }) mang ({ }) phong ({ 6 }) cách ({ 7 }) truyền ({ 8 }) thống ({ 9 10 }) của ({ }) Trung ({ }) Hoa ({ }) . ({ 11 }) 
+# Sentence pair (599) source length 7 target length 6 alignment score : 3.87534e-07
+You won &apos;t miss it . 
+NULL ({ }) Anh ({ 1 }) sẽ ({ 2 }) không ({ 3 }) nhầm ({ 4 }) được ({ }) đâu ({ 5 }) . ({ 6 }) 
+# Sentence pair (600) source length 4 target length 4 alignment score : 0.000429343
+Is it far ? 
+NULL ({ }) Có ({ 1 }) xa ({ 2 3 }) không ({ }) ? ({ 4 }) 
+# Sentence pair (601) source length 9 target length 10 alignment score : 1.00281e-10
+No , it &apos;s only five minutes &apos; walk . 
+NULL ({ 3 4 }) Không ({ 1 }) , ({ 2 }) chỉ ({ 5 }) mất ({ }) 5 ({ 6 }) phút ({ 7 }) đi ({ }) bộ ({ 8 9 }) . ({ 10 }) 
+# Sentence pair (602) source length 6 target length 6 alignment score : 2.0451e-05
+That &apos;s great , thanks . 
+NULL ({ }) Tuyệt ({ 1 }) lắm ({ 2 3 }) , ({ 4 }) cám ({ 5 }) ơn ({ }) . ({ 6 }) 
+# Sentence pair (603) source length 4 target length 4 alignment score : 2.16457e-05
+You &apos;re welcome . 
+NULL ({ }) Không ({ 1 }) có ({ }) chi ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (604) source length 6 target length 6 alignment score : 1.9875e-05
+What time is it now ? 
+NULL ({ }) Bây ({ 1 }) giờ ({ 2 }) là ({ 3 }) mấy ({ 4 }) giờ ({ 5 }) ? ({ 6 }) 
+# Sentence pair (605) source length 4 target length 6 alignment score : 1.28179e-10
+It &apos;s half past two . 
+NULL ({ 2 }) 2 ({ 1 3 4 5 }) giờ ({ }) 30 ({ }) . ({ 6 }) 
+# Sentence pair (606) source length 12 target length 13 alignment score : 4.43154e-21
+How long do you think it will take us to get there ? 
+NULL ({ 4 6 }) Anh ({ 1 }) nghĩ ({ 5 }) chúng ({ 9 }) ta ({ }) sẽ ({ 7 }) mất ({ 8 }) bao ({ 3 }) lâu ({ 2 }) để ({ 10 }) đến ({ 11 }) đó ({ 12 }) ? ({ 13 }) 
+# Sentence pair (607) source length 15 target length 9 alignment score : 2.04073e-09
+Can we make it in half an hour ? 
+NULL ({ }) Liệu ({ }) chúng ({ }) ta ({ }) có ({ }) thể ({ 1 }) giải ({ 2 }) quyết ({ 3 }) việc ({ }) đó ({ 4 }) trong ({ 5 }) vòng ({ }) nửa ({ 6 }) tiếng ({ 7 8 }) không ({ }) ? ({ 9 }) 
+# Sentence pair (608) source length 4 target length 4 alignment score : 0.00174114
+Don &apos;t worry . 
+NULL ({ }) Đừng ({ 1 }) lo ({ 2 3 }) lắng ({ }) . ({ 4 }) 
+# Sentence pair (609) source length 12 target length 11 alignment score : 1.75064e-10
+We &apos;ll manage to get there by 4 o &apos;clock . 
+NULL ({ }) Chúng ({ 1 }) ta ({ }) sẽ ({ 2 }) xoay ({ 3 }) sở ({ }) để ({ 4 }) đến ({ 5 }) đó ({ 6 }) trước ({ 7 8 }) 4 ({ 9 }) giờ ({ 10 }) . ({ 11 }) 
+# Sentence pair (610) source length 6 target length 6 alignment score : 1.53408e-06
+What time is it now ? 
+NULL ({ }) Bây ({ 1 }) giờ ({ 2 }) mấy ({ 3 4 }) giờ ({ 5 }) rồi ({ }) ? ({ 6 }) 
+# Sentence pair (611) source length 8 target length 9 alignment score : 1.48582e-07
+( Pointing to the clock in the car ) 
+NULL ({ 7 }) ( ({ 1 }) Chỉ ({ 2 }) vào ({ 3 }) đồng ({ 4 }) hồ ({ 5 }) trong ({ 6 }) xe ({ 8 }) ) ({ 9 }) 
+# Sentence pair (612) source length 4 target length 6 alignment score : 4.96784e-09
+It &apos;s half past two . 
+NULL ({ 2 }) 2 ({ 1 }) giờ ({ }) rưỡi ({ 3 4 5 }) . ({ 6 }) 
+# Sentence pair (613) source length 8 target length 6 alignment score : 3.41907e-06
+This clock keeps good time . 
+NULL ({ }) Đồng ({ 1 }) hồ ({ 2 }) này ({ }) chạy ({ 3 4 }) đúng ({ }) giờ ({ 5 }) lắm ({ }) . ({ 6 }) 
+# Sentence pair (614) source length 10 target length 12 alignment score : 1.15341e-16
+Do you think we can manage to get there on time ? 
+NULL ({ 2 }) Chúng ({ 1 }) ta ({ 3 4 }) có ({ }) thể ({ 5 }) đến ({ 6 7 8 }) đó ({ 9 }) đúng ({ 10 }) giờ ({ 11 }) không ({ }) ? ({ 12 }) 
+# Sentence pair (615) source length 4 target length 2 alignment score : 0.00173416
+Pardon ? 
+NULL ({ }) Ông ({ 1 }) nói ({ }) chi ({ }) ? ({ 2 }) 
+# Sentence pair (616) source length 12 target length 9 alignment score : 3.17935e-09
+Can we make it in half an hour ? 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 }) có ({ }) thể ({ 3 }) đến ({ }) đó ({ 4 }) trong ({ 5 }) nửa ({ 6 }) giờ ({ 7 }) nữa ({ 8 }) chứ ({ }) ? ({ 9 }) 
+# Sentence pair (617) source length 15 target length 13 alignment score : 8.39712e-15
+I guess so if there &apos;s no traffic jam on the way . 
+NULL ({ 6 }) Tôi ({ 1 }) nghĩ ({ 2 }) thế ({ 3 }) , ({ }) nếu ({ 4 }) không ({ }) có ({ }) tắc ({ 5 }) nghẽn ({ 7 }) giao ({ }) thông ({ 8 9 }) trên ({ 10 }) đường ({ 11 12 }) đi ({ }) . ({ 13 }) 
+# Sentence pair (618) source length 14 target length 9 alignment score : 5.42641e-09
+Do you know how to avoid heavy traffic ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) biết ({ 3 }) bẵng ({ 4 }) cách ({ }) nào ({ }) để ({ 5 }) tránh ({ 6 }) ùn ({ 7 }) tắc ({ }) giao ({ }) thông ({ 8 }) không ({ }) ? ({ 9 }) 
+# Sentence pair (619) source length 8 target length 5 alignment score : 0.000775576
+I think I can . 
+NULL ({ }) Tôi ({ 1 }) nghĩ ({ 2 }) là ({ }) tôi ({ 3 }) có ({ }) thể ({ 4 }) biết ({ }) . ({ 5 }) 
+# Sentence pair (620) source length 12 target length 13 alignment score : 8.8981e-22
+How long do you think it &apos;ll take us to get there ? 
+NULL ({ 4 6 }) Anh ({ 1 }) nghĩ ({ 5 }) chúng ({ 9 }) ta ({ }) phải ({ 7 }) mất ({ 8 }) bao ({ 3 }) lâu ({ 2 }) để ({ 10 }) đến ({ 11 }) đó ({ 12 }) ? ({ 13 }) 
+# Sentence pair (621) source length 11 target length 8 alignment score : 7.88481e-09
+Forty minutes if there &apos;re no hold-ups . 
+NULL ({ }) Khoảng ({ 1 }) 40 ({ }) phút ({ 2 }) nếu ({ 3 }) không ({ }) có ({ }) tắc ({ 4 }) nghẽn ({ 5 6 }) giao ({ 7 }) thông ({ }) . ({ 8 }) 
+# Sentence pair (622) source length 7 target length 6 alignment score : 7.64762e-06
+What time is it now ? 
+NULL ({ }) Bây ({ 1 }) giờ ({ 2 }) là ({ 3 }) mấy ({ 4 }) giờ ({ 5 }) rồi ({ }) ? ({ 6 }) 
+# Sentence pair (623) source length 4 target length 4 alignment score : 0.000483107
+Quarter past three . 
+NULL ({ }) 3 ({ 1 }) giờ ({ }) 15 ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (624) source length 13 target length 11 alignment score : 4.00946e-14
+I &apos;m going to meet some Chinese friends at four . 
+NULL ({ 4 }) Tôi ({ 1 }) sẽ ({ }) đi ({ }) thăm ({ 2 3 5 }) vài ({ 6 }) người ({ }) bạn ({ }) Trung ({ 7 }) Hoa ({ 8 }) lúc ({ 9 }) 4 ({ 10 }) giờ ({ }) . ({ 11 }) 
+# Sentence pair (625) source length 3 target length 4 alignment score : 0.00456646
+Don &apos;t worry . 
+NULL ({ }) Đừng ({ 1 }) lo ({ 2 3 }) . ({ 4 }) 
+# Sentence pair (626) source length 9 target length 11 alignment score : 1.05996e-13
+We should manage to get there by 4 o &apos;clock . 
+NULL ({ }) Chúng ({ 1 }) ta ({ 2 3 }) sẽ ({ }) đến ({ 4 5 }) đó ({ 6 }) trước ({ 7 8 }) 4 ({ 9 }) giờ ({ 10 }) . ({ 11 }) 
+# Sentence pair (627) source length 10 target length 8 alignment score : 1.032e-09
+How do you like the weather here ? 
+NULL ({ 3 }) Anh ({ 1 }) thấy ({ 2 }) thời ({ 4 5 }) tiết ({ 6 }) ở ({ }) đây ({ 7 }) như ({ }) thế ({ }) nào ({ }) ? ({ 8 }) 
+# Sentence pair (628) source length 9 target length 7 alignment score : 3.0805e-10
+Lovely weather , isn &apos;t it ? 
+NULL ({ 6 }) Thời ({ 1 }) tiết ({ 2 }) rất ({ }) dễ ({ 4 }) chịu ({ 5 }) , ({ 3 }) phải ({ }) không ({ }) ? ({ 7 }) 
+# Sentence pair (629) source length 8 target length 5 alignment score : 9.13457e-06
+Isn &apos;t it muggy ? 
+NULL ({ }) Trời ({ 1 }) oi ({ 2 3 }) bức ({ 4 }) quá ({ }) , ({ }) phải ({ }) không ({ }) ? ({ 5 }) 
+# Sentence pair (630) source length 9 target length 9 alignment score : 3.49497e-10
+I wonder if it &apos;s going to rain . 
+NULL ({ }) Tôi ({ 1 }) tự ({ 2 }) hỏi ({ }) liệu ({ 3 }) trời ({ 4 }) có ({ }) mưa ({ 5 6 7 8 }) không ({ }) . ({ 9 }) 
+# Sentence pair (631) source length 12 target length 10 alignment score : 6.68188e-15
+What &apos;s today &apos;s temperature , do you know ? 
+NULL ({ }) Anh ({ 1 }) có ({ 2 }) biết ({ }) nhiệt ({ 4 }) độ ({ 5 }) hôm ({ }) nay ({ 3 }) là ({ 6 }) bao ({ 7 }) nhiêu ({ 8 9 }) không ({ }) ? ({ 10 }) 
+# Sentence pair (632) source length 10 target length 8 alignment score : 1.032e-09
+How do you like the weather here ? 
+NULL ({ 3 }) Anh ({ 1 }) thấy ({ 2 }) thời ({ 4 5 }) tiết ({ 6 }) ở ({ }) đây ({ 7 }) như ({ }) thế ({ }) nào ({ }) ? ({ 8 }) 
+# Sentence pair (633) source length 5 target length 5 alignment score : 6.8711e-06
+It &apos;s very pleasant . 
+NULL ({ 2 }) Nó ({ 1 }) rất ({ 3 }) dễ ({ }) chịu ({ 4 }) . ({ 5 }) 
+# Sentence pair (634) source length 6 target length 6 alignment score : 1.71447e-05
+Yes , it certainly is . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) hiển ({ 3 }) nhiên ({ 4 }) rồi ({ }) .. ({ 5 6 }) 
+# Sentence pair (635) source length 10 target length 5 alignment score : 1.22335e-05
+Will it last long ? 
+NULL ({ }) Thời ({ 1 }) tiết ({ }) đẹp ({ 2 }) này ({ }) kéo ({ 3 }) dài ({ }) được ({ }) lâu ({ 4 }) chứ ({ }) ? ({ 5 }) 
+# Sentence pair (636) source length 6 target length 6 alignment score : 0.00419585
+Yes , I think so . 
+NULL ({ }) Vâng ({ 1 }) , ({ 2 }) tôi ({ 3 }) nghĩ ({ 4 }) thế ({ 5 }) . ({ 6 }) 
+# Sentence pair (637) source length 32 target length 27 alignment score : 5.11312e-39
+We usually have a spell of fine weather at this time of the year , though it &apos;s not the best time of year for visiting . 
+NULL ({ 18 }) Chúng ({ 1 }) tôi ({ }) thường ({ 2 }) có ({ 3 }) một ({ 4 }) đợt ({ 5 7 }) thời ({ }) tiết ({ 8 }) đẹp ({ }) vào ({ 10 }) thời ({ 11 }) điểm ({ 6 9 12 }) này ({ 13 }) trong ({ }) năm ({ 14 }) , ({ 15 }) mặc ({ 16 }) dù ({ }) đó ({ 17 }) không ({ }) phải ({ }) là ({ 19 }) thời ({ 20 21 }) gian ({ 22 }) tốt ({ 23 }) nhất ({ 24 }) trong ({ }) cho ({ 25 }) việc ({ }) thăm ({ 26 }) quan ({ }) . ({ 27 }) 
+# Sentence pair (638) source length 11 target length 9 alignment score : 1.22381e-08
+What &apos;s the best season here , then ? 
+NULL ({ }) Thế ({ 1 }) thì ({ 2 }) mùa ({ 3 }) đẹp ({ 4 }) nhất ({ 5 }) ở ({ }) đây ({ 6 }) là ({ 7 }) mùa ({ 8 }) nào ({ }) ? ({ 9 }) 
+# Sentence pair (639) source length 3 target length 2 alignment score : 0.136687
+Fall . 
+NULL ({ }) Mùa ({ 1 }) thu ({ }) . ({ 2 }) 
+# Sentence pair (640) source length 14 target length 10 alignment score : 2.99851e-09
+We usually have thousands of tourists in the fall . 
+NULL ({ }) Chúng ({ 1 }) tôi ({ }) thường ({ 2 }) có ({ 3 }) hàng ({ }) ngàn ({ 4 }) du ({ 5 }) khách ({ }) viếng ({ 6 }) thăm ({ }) vào ({ 7 }) mùa ({ 8 }) thu ({ 9 }) . ({ 10 }) 
+# Sentence pair (641) source length 18 target length 18 alignment score : 1.91132e-26
+It &apos;s early winter now , so it &apos;s a bit cold today , isn &apos;t it ? 
+NULL ({ 8 9 10 17 }) Bây ({ 1 }) giờ ({ }) là ({ 2 }) đầu ({ }) mùa ({ }) đông ({ 3 4 5 }) , ({ 6 }) vì ({ }) thế ({ 7 }) hôm ({ }) nay ({ 13 }) trời ({ }) hơi ({ 11 }) lạnh ({ 12 }) , ({ 14 }) đúng ({ 15 }) không ({ 16 }) ? ({ 18 }) 
+# Sentence pair (642) source length 9 target length 9 alignment score : 3.98043e-10
+What &apos;s the temperature , do you know ? 
+NULL ({ 5 }) Anh ({ 1 }) có ({ 2 }) biết ({ }) nhiệt ({ 3 }) độ ({ 4 }) bao ({ 6 }) nhiêu ({ 7 8 }) không ({ }) ? ({ 9 }) 
+# Sentence pair (643) source length 6 target length 7 alignment score : 1.46329e-07
+I guess it &apos;s 18 centigrade . 
+NULL ({ 4 }) Tôi ({ 1 }) đoán ({ 2 }) khoảng ({ 3 }) 18 ({ 5 6 }) độ ({ }) C. ({ 7 }) 
+# Sentence pair (644) source length 8 target length 5 alignment score : 9.13457e-06
+Isn &apos;t it muggy ? 
+NULL ({ }) Trời ({ 1 }) oi ({ 2 3 }) bức ({ 4 }) quá ({ }) , ({ }) phải ({ }) không ({ }) ? ({ 5 }) 
+# Sentence pair (645) source length 8 target length 12 alignment score : 3.00165e-17
+Well , it &apos;s getting very cloudy , isn &apos;t it ? 
+NULL ({ 8 11 }) À ({ 1 }) , ({ 2 }) trời ({ 3 }) có ({ 4 }) rất ({ 5 }) nhiều ({ 6 }) mây ({ 7 9 10 12 }) . ({ }) 
+# Sentence pair (646) source length 5 target length 4 alignment score : 0.015299
+Oh , look ! 
+NULL ({ }) Ồ ({ 1 }) , ({ 2 }) nhìn ({ 3 }) kìa ({ }) ! ({ 4 }) 
+# Sentence pair (647) source length 7 target length 7 alignment score : 1.98104e-08
+It &apos;s beginning to rain already . 
+NULL ({ 2 }) Trời ({ 1 }) bắt ({ 3 }) đầu ({ 4 }) mưa ({ 5 }) rồi ({ }) đấy ({ 6 }) . ({ 7 }) 
+# Sentence pair (648) source length 11 target length 8 alignment score : 1.81738e-07
+I hope it &apos;s only a shower . 
+NULL ({ 4 }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) đó ({ 3 }) chỉ ({ 5 }) là ({ }) một ({ }) cơn ({ 6 }) mưa ({ }) rào ({ 7 }) . ({ 8 }) 
+# Sentence pair (649) source length 8 target length 8 alignment score : 1.14406e-14
+Do you normally have much rain here ? 
+NULL ({ 2 }) Ở ({ 1 }) đây ({ 7 }) thường ({ 3 }) có ({ 4 }) mưa ({ 6 }) nhiều ({ 5 }) không ({ }) ? ({ 8 }) 
+# Sentence pair (650) source length 9 target length 8 alignment score : 6.33113e-08
+Quite a lot , especially in summer . 
+NULL ({ 2 }) Khá ({ 1 }) nhiều ({ 3 }) , ({ 4 }) đặc ({ 5 }) biệt ({ }) vào ({ 6 }) mùa ({ }) hè ({ 7 }) . ({ 8 }) 
+# Sentence pair (651) source length 7 target length 6 alignment score : 2.02445e-07
+Oh , it &apos;s pouring ! 
+NULL ({ }) Ồ ({ 1 }) , ({ 2 }) trời ({ 3 }) mưa ({ 4 }) như ({ }) trút ({ 5 6 }) . ({ }) 
+# Sentence pair (652) source length 9 target length 7 alignment score : 2.59339e-07
+The road is getting slippery now . 
+NULL ({ }) Bây ({ 1 }) giờ ({ }) đường ({ 2 }) xá ({ 3 }) trở ({ }) nên ({ }) trơn ({ 4 }) trượt ({ 5 6 }) . ({ 7 }) 
+# Sentence pair (653) source length 8 target length 7 alignment score : 6.44837e-06
+I &apos;ve to drive very carefully . 
+NULL ({ }) Tôi ({ 1 }) phải ({ 2 3 }) lái ({ 4 }) xe ({ }) rất ({ }) cẩn ({ 5 }) thận ({ 6 }) . ({ 7 }) 
+# Sentence pair (654) source length 5 target length 5 alignment score : 4.09436e-10
+Where are you from ? 
+NULL ({ 3 }) Anh ({ 1 }) từ ({ 4 }) đâu ({ 2 }) đến ({ }) ? ({ 5 }) 
+# Sentence pair (655) source length 13 target length 8 alignment score : 4.84526e-08
+Is this your first trip to China ? 
+NULL ({ }) Đây ({ 1 }) có ({ }) phải ({ }) là ({ }) chuyến ({ 2 3 }) đi ({ }) đầu ({ 4 }) tiên ({ 5 }) đến ({ 6 }) Trung ({ 7 }) Quốc ({ }) không ({ }) ? ({ 8 }) 
+# Sentence pair (656) source length 11 target length 8 alignment score : 2.10714e-08
+What are your impressions of this city ? 
+NULL ({ }) Ấn ({ 1 }) tượng ({ 2 }) của ({ 3 }) anh ({ 4 }) về ({ 5 }) thành ({ 6 }) phố ({ 7 }) này ({ }) ra ({ }) sao ({ }) ? ({ 8 }) 
+# Sentence pair (657) source length 9 target length 9 alignment score : 4.16338e-09
+I hope you enjoy your stay in Shanghai . 
+NULL ({ }) Tôi ({ 1 }) hy ({ 2 }) vọng ({ }) anh ({ 3 }) sẽ ({ }) thích ({ 4 5 6 }) Thượng ({ 7 }) Hải ({ 8 }) . ({ 9 }) 
+# Sentence pair (658) source length 10 target length 8 alignment score : 7.25808e-09
+Have you seen much of the country ? 
+NULL ({ 2 }) Anh ({ }) đã ({ 1 }) tham ({ 3 }) quan ({ }) ở ({ }) xứ ({ 4 }) sở ({ 5 }) này ({ 6 }) chưa ({ 7 }) ? ({ 8 }) 
+# Sentence pair (659) source length 10 target length 9 alignment score : 1.95614e-11
+How long have you been a taxi driver ? 
+NULL ({ 4 }) Anh ({ 1 }) làm ({ 2 }) tài ({ 3 }) xế ({ 5 }) tắc ({ 6 }) xi ({ 7 8 }) bao ({ }) lâu ({ }) rồi ({ }) ? ({ 9 }) 
+# Sentence pair (660) source length 4 target length 4 alignment score : 0.00353697
+About two year . 
+NULL ({ }) Khoảng ({ 1 }) 2 ({ 2 }) năm ({ 3 }) . ({ 4 }) 
+# Sentence pair (661) source length 8 target length 8 alignment score : 2.76369e-10
+And how do you like your job ? 
+NULL ({ }) Công ({ 1 2 }) việc ({ 3 }) của ({ }) anh ({ 4 }) như ({ 5 }) thế ({ }) nào ({ 6 7 }) ? ({ 8 }) 
+# Sentence pair (662) source length 10 target length 9 alignment score : 1.94943e-09
+Well , it &apos;s not a bad job . 
+NULL ({ 4 }) À ({ 1 }) , ({ 2 }) đó ({ 3 }) là ({ 5 }) một ({ 6 }) công ({ }) việc ({ }) không ({ }) tồi ({ 7 8 }) . ({ 9 }) 
+# Sentence pair (663) source length 28 target length 32 alignment score : 4.81999e-39
+I earn a lot , but at the same time it &apos;s also tiring because you &apos;ve to sit all day and you don &apos;t have time to stretch your legs . 
+NULL ({ 3 5 11 12 }) Tôi ({ 1 }) kiếm ({ 2 4 6 }) được ({ }) nhiều ({ }) tiền ({ }) đồng ({ 7 8 }) thời ({ 10 }) cũng ({ 9 }) mệt ({ 13 14 }) vì ({ 15 }) anh ({ 16 }) phải ({ 17 18 }) ngồi ({ 19 }) suốt ({ 20 }) cả ({ }) ngày ({ 21 }) và ({ 22 }) anh ({ 23 }) không ({ 24 25 }) có ({ 26 }) thời ({ }) gian ({ 27 }) để ({ 28 }) co ({ 29 }) duỗi ({ 30 }) hai ({ }) chân ({ 31 }) . ({ 32 }) 
+# Sentence pair (664) source length 8 target length 8 alignment score : 3.0168e-07
+Are you from America or from ... ? 
+NULL ({ 2 }) Anh ({ 1 }) đến ({ }) từ ({ 3 }) Mỹ ({ 4 }) hay ({ 5 }) từ ({ 6 }) ... ({ 7 }) ? ({ 8 }) 
+# Sentence pair (665) source length 5 target length 5 alignment score : 8.69377e-06
+I &apos;m from Canada . 
+NULL ({ }) Tôi ({ 1 }) từ ({ 2 3 }) Canada ({ 4 }) đến ({ }) . ({ 5 }) 
+# Sentence pair (666) source length 15 target length 8 alignment score : 9.09401e-09
+Is this your first trip to China ? 
+NULL ({ }) Đây ({ 1 }) có ({ }) phải ({ }) là ({ }) chuyến ({ 2 3 }) đi ({ }) đầu ({ 4 }) tiên ({ 5 }) của ({ }) anh ({ }) đến ({ 6 }) Trung ({ 7 }) Quốc ({ }) không ({ }) ? ({ 8 }) 
+# Sentence pair (667) source length 3 target length 4 alignment score : 5.26581e-06
+Well , no . 
+NULL ({ 2 }) À ({ 1 }) không ({ 3 }) . ({ 4 }) 
+# Sentence pair (668) source length 13 target length 12 alignment score : 6.05238e-13
+I &apos;ve been to China before , but not to Shanghai . 
+NULL ({ 7 }) Trước ({ }) kia ({ }) tôi ({ 1 }) đã ({ 2 3 }) đến ({ 4 }) Trung ({ 5 }) Hoa ({ 6 }) nhưng ({ 8 }) không ({ 9 }) đến ({ 10 }) Thượng ({ }) Hải ({ 11 }) . ({ 12 }) 
+# Sentence pair (669) source length 15 target length 11 alignment score : 1.81078e-08
+Oh , I hope you &apos;ll enjoy your stay here . 
+NULL ({ }) Ồ ({ 1 }) , ({ 2 }) tôi ({ 3 }) hy ({ 4 }) vọng ({ }) ông ({ 5 }) sẽ ({ 6 }) thích ({ 7 }) thú ({ 8 }) những ({ }) ngày ({ 9 }) ông ({ }) ở ({ }) đây ({ 10 }) . ({ 11 }) 
+# Sentence pair (670) source length 3 target length 3 alignment score : 0.0692556
+Thank you . 
+NULL ({ }) Cám ({ 1 }) ơn ({ 2 }) . ({ 3 }) 
+# Sentence pair (671) source length 7 target length 5 alignment score : 2.15986e-07
+Are you a tourist ? 
+NULL ({ }) Ông ({ }) là ({ }) khách ({ }) du ({ 1 2 }) lịch ({ 3 4 }) à ({ }) ? ({ 5 }) 
+# Sentence pair (672) source length 2 target length 2 alignment score : 0.120116
+Yes . 
+NULL ({ }) Vâng ({ 1 }) .. ({ 2 }) 
+# Sentence pair (673) source length 12 target length 8 alignment score : 7.28868e-08
+This is my first trip to China . 
+NULL ({ }) Đây ({ 1 }) là ({ 2 }) chuyến ({ 3 }) đi ({ }) đầu ({ 4 }) tiên ({ 5 }) của ({ }) tôi ({ }) đến ({ 6 }) Trung ({ 7 }) Quốc ({ }) . ({ 8 }) 
+# Sentence pair (674) source length 12 target length 9 alignment score : 2.83205e-11
+Have you seen much of the country yet ? 
+NULL ({ 2 }) Ông ({ 1 }) đã ({ }) tham ({ 3 }) quan ({ }) nhiều ({ }) nơi ({ }) ở ({ }) xứ ({ 4 }) sở ({ 5 }) này ({ 6 }) chưa ({ 7 8 }) ? ({ 9 }) 
+# Sentence pair (675) source length 3 target length 3 alignment score : 0.0622947
+Not much . 
+NULL ({ }) Chưa ({ 1 }) nhiều ({ 2 }) . ({ 3 }) 
+# Sentence pair (676) source length 6 target length 7 alignment score : 2.04687e-07
+I &apos;ve only been to Beijing . 
+NULL ({ 5 }) Tôi ({ 1 }) chỉ ({ 2 3 }) đến ({ }) Bắc ({ 4 }) Kinh ({ 6 }) . ({ 7 }) 
+# Sentence pair (677) source length 15 target length 12 alignment score : 6.03808e-13
+You can &apos;t hope to see everything during a short trip . 
+NULL ({ }) Anh ({ 1 }) không ({ }) thể ({ 2 3 }) hy ({ 4 }) vọng ({ }) tham ({ 5 }) quan ({ 6 }) mọi ({ 7 }) thứ ({ 8 }) trong ({ }) một ({ 9 }) chuyến ({ }) đi ({ }) ngắn ({ 10 11 }) . ({ 12 }) 
+# Sentence pair (678) source length 5 target length 6 alignment score : 8.47098e-08
+No , you can &apos;t . 
+NULL ({ 3 }) Đúng ({ 1 }) là ({ 2 }) không ({ }) thể ({ 4 5 }) . ({ 6 }) 
+# Sentence pair (679) source length 10 target length 8 alignment score : 2.82823e-08
+What are your impressions of this city ? 
+NULL ({ }) Ông ({ 1 }) có ({ }) cảm ({ 2 }) tuởng ({ 3 4 }) gì ({ }) về ({ 5 }) thành ({ 6 }) phố ({ 7 }) này ({ }) ? ({ 8 }) 
+# Sentence pair (680) source length 16 target length 16 alignment score : 2.97831e-26
+It &apos;s a beautiful city , but there are so many people in the streets ! 
+NULL ({ }) Đó ({ 1 }) là ({ 2 }) một ({ 3 }) thành ({ 4 }) phố ({ 5 }) đẹp ({ }) , ({ 6 }) nhưng ({ 7 }) có ({ }) quá ({ 8 }) nhiều ({ }) người ({ 12 }) trên ({ 13 }) đường ({ 14 }) phố ({ 9 10 11 15 16 }) . ({ }) 
+# Sentence pair (681) source length 3 target length 2 alignment score : 0.0447749
+Yes . 
+NULL ({ }) Đúng ({ 1 }) rồi ({ }) . ({ 2 }) 
+# Sentence pair (682) source length 23 target length 17 alignment score : 5.76158e-20
+That &apos;s why the government is trying to help people move out of the city proper . 
+NULL ({ 4 14 }) Đó ({ 1 }) là ({ 2 }) lý ({ }) do ({ }) tại ({ 3 }) sao ({ }) chính ({ }) phủ ({ 5 }) đang ({ 6 }) cố ({ 7 }) gắng ({ 8 }) giúp ({ 9 }) mọi ({ }) người ({ 10 }) dời ({ 11 }) nhà ({ }) ra ({ 12 }) khỏi ({ }) khu ({ }) vực ({ 13 15 }) nội ({ 16 }) thành ({ }) . ({ 17 }) 
