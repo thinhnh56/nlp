@@ -18,12 +18,12 @@ alignment1 = parse('NULL ({ }) See ({ 1 2 3 }) you ({ 4 }) on ({ }) Sunday ({ 5 
 #alignment2 = parse('NULL ({ }) Tôi ({ 1 }) có ({ 2 }) một ({ }) cuộc ({ 3 }) hẹn ({ 4 }) vào ({ 5 }) tối ({ 6 }) thứ ({ }) 7 ({ 11 }) lúc ({ 7 }) 7 ({ 8 }) giờ ({ 9 }) 30 ({ 10 }) . ({ }) ')
 
 # Sentence pair (17) source length 13 target length 11 alignment score : 6.33582e-13
-#Tôi đã làm như nhưng vẫn chưa có trả lời . 
-#NULL ({ 8 }) I ({ 1 }) &apos;ve ({ 2 }) already ({ }) done ({ 3 4 }) that ({ }) , ({ }) but ({ 5 }) there ({ }) &apos;s ({ }) no ({ }) reply ({ 6 7 }) yet ({ 9 10 }) . ({ 11 }) 
+sentence1 = 'Tôi đã làm như nhưng vẫn chưa có trả lời . '.split()
+alignment1 = parse('NULL ({ 8 }) I ({ 1 }) &apos;ve ({ 2 }) already ({ }) done ({ 3 4 }) that ({ }) , ({ }) but ({ 5 }) there ({ }) &apos;s ({ }) no ({ }) reply ({ 6 7 }) yet ({ 9 10 }) . ({ 11 }) ')
 
 # Sentence pair (17) source length 11 target length 13 alignment score : 2.07412e-16
-#I &apos;ve already done that , but there &apos;s no reply yet . 
-#NULL ({ 6 9 }) Tôi ({ 1 }) đã ({ 2 }) làm ({ 3 4 }) như ({ 5 }) nhưng ({ 7 }) vẫn ({ 8 10 }) chưa ({ 11 }) có ({ }) trả ({ 12 }) lời ({ }) . ({ 13 }) 
+sentence2 = 'I &apos;ve already done that , but there &apos;s no reply yet . '.split()
+alignment2 = parse('NULL ({ 6 9 }) Tôi ({ 1 }) đã ({ 2 }) làm ({ 3 4 }) như ({ 5 }) nhưng ({ 7 }) vẫn ({ 8 10 }) chưa ({ 11 }) có ({ }) trả ({ 12 }) lời ({ }) . ({ 13 }) ')
 
 fout = open("output.html", "w")
 tables=[]

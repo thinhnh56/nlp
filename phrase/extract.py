@@ -47,11 +47,11 @@ class lexicon:
         #print alignment
         #print union
         def is_aligned1(index_of_first):
-            return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len(alignment2)) ])\
+            return any([ (index_of_first, index_of_second) in alignment for index_of_second in range(len2) ])\
                 and index_of_first in range(len1)
         
         def is_aligned2(index_of_second):
-            return any([ (index_of_first, index_of_second) in alignment for index_of_first in range(len(alignment1)) ])\
+            return any([ (index_of_first, index_of_second) in alignment for index_of_first in range(len1) ])\
                 and index_of_second in range(len2)
 
         neighboring = ((-1,0), (0, -1), (1,0), (0,1), (-1,-1), (-1,1), (1,-1), (1,1))
@@ -70,7 +70,7 @@ class lexicon:
             #     break
             new_point_added = False
             for index1, index2 in difference:
-                if  ((index1, index2) in alignment) or (is_aligned1(index1) and is_aligned2(index2)):
+                if is_aligned1(index1) and is_aligned2(index2):
                     continue
                 
                 for old1, old2 in [(index1 +x, index2 +y) for x, y in neighboring]:
@@ -78,7 +78,7 @@ class lexicon:
                         new_point_added = True
                         alignment.add( (index1, index2) )
                         break
-                print alignment        
+                #print alignment        
             if not new_point_added:
                 break
 
